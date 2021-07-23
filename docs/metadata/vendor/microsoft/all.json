@@ -240,7 +240,7 @@
     "md5": "dfe20de402fa88a1f46c9d3c3a48fe2e",
     "md5_file": "microsoft-jdk-16.0.1.9.1-windows-aarch64.zip.md5",
     "os": "windows",
-    "release_type": "ea",
+    "release_type": "ga",
     "sha1": "57c69a6a952a2bfe2c5d3ee7cac8938d4537f8c9",
     "sha1_file": "microsoft-jdk-16.0.1.9.1-windows-aarch64.zip.sha1",
     "sha256": "803aa1fb62007cb805054fcc72ff90742197f38ef30ee7a2fcf682a08814d376",
