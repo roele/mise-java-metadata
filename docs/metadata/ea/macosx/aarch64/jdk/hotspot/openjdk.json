@@ -205,5 +205,28 @@
     "url": "https://download.java.net/java/early_access/jdk17/32/GPL/openjdk-17-ea+32_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
     "version": "17-ea+32"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-17-ea+33_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17-ea+33",
+    "jvm_impl": "hotspot",
+    "md5": "4fc87522226c0e971747f79d8512aaaa",
+    "md5_file": "openjdk-17-ea+33_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "af66c47221d8ce4dd851b75fa2bf613784ac8234",
+    "sha1_file": "openjdk-17-ea+33_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "db40090e7d9f20a2b71cd396393cbdd4e0ef6bbb90cb0f119701c006fba82744",
+    "sha256_file": "openjdk-17-ea+33_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "38f2963ef87dfc276b969c03de075328b863c69f3e57cf2e1b363a3f852850d2254379138af08f662d9c0444eb2e930e78dc05955fc615c1136f6a49b33bcd5a",
+    "sha512_file": "openjdk-17-ea+33_macos-aarch64_bin.tar.gz.sha512",
+    "size": 181727343,
+    "url": "https://download.java.net/java/early_access/jdk17/33/GPL/openjdk-17-ea+33_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "17-ea+33"
   }
 ]
