@@ -72,6 +72,19 @@ function download {
 			eval "$(perl -pe "${regex}" <<< "${asset_name}")"
 		fi
 
+		if [[ -z "${VERSION}" ]]
+		then
+			# shellcheck disable=SC2016
+			regex='s/^Alibaba_Dragonwell_([0-9\+.]{1,}[^_]*)(?:_alpine)?_(aarch64|x64)_(Linux|linux|Windows|windows)\.(.*)$/VERSION="$1" JAVA_VERSION="$1" RELEASE_TYPE="jdk" OS="$3" ARCH="$2" EXT="$4"/g'
+			eval "$(perl -pe "${regex}" <<< "${asset_name}")"
+		fi
+
+		if [[ -z "${VERSION}" ]]
+		then
+			echo "Unable to parse ${asset_name}"
+			return 1
+		fi
+
 		local json
 		json="$(metadata_json \
 			"${VENDOR}" \
