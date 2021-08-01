@@ -35,6 +35,7 @@ components:
         - "microsoft"
         - "openjdk"
         - "sapmachine"
+        - "temurin"
         - "trava"
         - "zulu"
     operatingSystems:
@@ -58,6 +59,7 @@ components:
         - "s390"
         - "s390x"
         - "sparcv9"
+        - "riscv64"
     releaseTypes:
       type: string
       enum:

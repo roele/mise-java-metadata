@@ -12,6 +12,7 @@ Supported OpenJDK distributions:
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
 * [Corretto](https://aws.amazon.com/corretto/)
 * [Dragonwell](https://cn.aliyun.com/product/dragonwell)
+* [Eclipse Temurin](https://adoptium.net/)
 * [GraalVM Community Edition](https://www.graalvm.org/)
 * [Java SE Reference Implementations](https://jdk.java.net/)
 * [Liberica](https://bell-sw.com/)

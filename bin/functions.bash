@@ -153,6 +153,8 @@ function normalize_arch {
 		;;
 	'sparcv9') echo 'sparcv9'
 		;;
+	'riscv64') echo 'riscv64'
+		;;
 	*) echo "unknown-architecture-${1}" ; exit 1
 		;;
 	esac

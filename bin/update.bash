@@ -18,6 +18,7 @@ METADATA_DIR=$(readlink -f "${ROOT_DIR}/metadata")
 
 for vendor in \
 	'adoptopenjdk' \
+	'temurin' \
 	'corretto' \
 	'graalvm-legacy' \
 	'graalvm' \
