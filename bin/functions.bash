@@ -133,9 +133,9 @@ function normalize_os {
 
 function normalize_arch {
 	case "${1}" in
-	'amd64'|'x64'|'x86_64') echo 'x86_64'
+	'amd64'|'x64'|'x86_64'|'x86-64') echo 'x86_64'
 		;;
-	'x32'|'x86'|'i386'|'i586'|'i686') echo 'i686'
+	'x32'|'x86'|'x86_32'|'x86-32'|'i386'|'i586'|'i686') echo 'i686'
 		;;
 	'aarch64'|'arm64') echo 'aarch64'
 		;;

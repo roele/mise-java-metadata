@@ -35,6 +35,7 @@ components:
         - "microsoft"
         - "openjdk"
         - "sapmachine"
+        - "semeru"
         - "temurin"
         - "trava"
         - "zulu"

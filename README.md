@@ -14,6 +14,7 @@ Supported OpenJDK distributions:
 * [Dragonwell](https://cn.aliyun.com/product/dragonwell)
 * [Eclipse Temurin](https://adoptium.net/)
 * [GraalVM Community Edition](https://www.graalvm.org/)
+* [IBM Semeru](https://developer.ibm.com/languages/java/semeru-runtimes/)
 * [Java SE Reference Implementations](https://jdk.java.net/)
 * [Liberica](https://bell-sw.com/)
 * [Mandrel](https://github.com/graalvm/mandrel)

@@ -20,6 +20,9 @@ for vendor in \
 	'adoptopenjdk' \
 	'temurin' \
 	'corretto' \
+	'semeru8' \
+	'semeru11' \
+	'semeru16' \
 	'graalvm-legacy' \
 	'graalvm' \
 	'zulu' \
