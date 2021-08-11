@@ -67,5 +67,28 @@
     "url": "https://download.java.net/java/early_access/panama/3/openjdk-17-panama+3-167_windows-x64_bin.zip",
     "vendor": "openjdk",
     "version": "17-panama+3-167"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-18-loom+2-74_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "18-loom+2-74",
+    "jvm_impl": "hotspot",
+    "md5": "69e234d3ebe640e3d72ffd698304c22b",
+    "md5_file": "openjdk-18-loom+2-74_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "cf3db7c2c2712027ea5707efd28efdc3d4c84ab5",
+    "sha1_file": "openjdk-18-loom+2-74_windows-x64_bin.zip.sha1",
+    "sha256": "c1b6a1ff745e952f73d9348159886c365deaa9a4418d8b01a58e9a5fe85f28f9",
+    "sha256_file": "openjdk-18-loom+2-74_windows-x64_bin.zip.sha256",
+    "sha512": "5f30e98ab5d393ca347fff2731b4f1cbb2a8c9acee65d4e57164e96fd5d2b612eaeeeda1931ce31014d2795e0d9c1155db64340bbbe84c8d26aa35c87afa63bf",
+    "sha512_file": "openjdk-18-loom+2-74_windows-x64_bin.zip.sha512",
+    "size": 187005010,
+    "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "18-loom+2-74"
   }
 ]
