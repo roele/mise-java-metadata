@@ -23,6 +23,7 @@ for vendor in \
 	'semeru8' \
 	'semeru11' \
 	'semeru16' \
+	'semeru17' \
 	'graalvm-legacy' \
 	'graalvm' \
 	'zulu' \
