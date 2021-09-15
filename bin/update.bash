@@ -30,6 +30,7 @@ for vendor in \
 	'liberica' \
 	'dragonwell8' \
 	'dragonwell11' \
+	'oracle' \
 	'openjdk' \
 	'openjdk-loom' \
 	'openjdk-panama' \
