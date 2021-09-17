@@ -1086,7 +1086,7 @@
     "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jre_ppc64_aix_8u302b08_openj9-0.27.1.tar.gz",
     "image_type": "jre",
-    "java_version": "",
+    "java_version": "8u302-b08",
     "jvm_impl": "openj9",
     "md5": "81a50292c03564538297fce5681f9b48",
     "md5_file": "ibm-semeru-open-jre_ppc64_aix_8u302b08_openj9-0.27.1.tar.gz.md5",
@@ -1099,8 +1099,8 @@
     "sha512": "93a846974001f2520e5d5fbdfa4e0c34089fa409aabe38aee43e4d19ea9a7d8832ccb9283798b13549f3e732c7266ad26cfd828794fcfd3f979e8617e39f5f5d",
     "sha512_file": "ibm-semeru-open-jre_ppc64_aix_8u302b08_openj9-0.27.1.tar.gz.sha512",
     "size": 51922888,
-    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u302b08_openj9-0.27.1/ibm-semeru-open-jre_ppc64_aix_8u302b08_openj9-0.27.1.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u302-b08_openj9-0.27.1/ibm-semeru-open-jre_ppc64_aix_8u302b08_openj9-0.27.1.tar.gz",
     "vendor": "semeru",
-    "version": "_openj9-"
+    "version": "8u302-b08_openj9-0.27.1"
   }
 ]

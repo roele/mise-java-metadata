@@ -120,7 +120,7 @@
     "file_type": "rpm",
     "filename": "ibm-semeru-open-8-jre-1.8.0.302.b08-2.ppc64le.rpm",
     "image_type": "jre",
-    "java_version": "",
+    "java_version": "8u302-b08",
     "jvm_impl": "openj9",
     "md5": "6386ba547657cbbcab937a0bb1b87150",
     "md5_file": "ibm-semeru-open-8-jre-1.8.0.302.b08-2.ppc64le.rpm.md5",
@@ -133,9 +133,9 @@
     "sha512": "5d4758a420ffbb40cd80559e280e7cac88ba1c537e6c46f15e5dca9e36863954066aa9065cd3d679bbcb93473d0239f9a365dc0399fc975ccd0ee866bd56603b",
     "sha512_file": "ibm-semeru-open-8-jre-1.8.0.302.b08-2.ppc64le.rpm.sha512",
     "size": 33273204,
-    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u302b08_openj9-0.27.1/ibm-semeru-open-8-jre-1.8.0.302.b08-2.ppc64le.rpm",
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u302-b08_openj9-0.27.1/ibm-semeru-open-8-jre-1.8.0.302.b08-2.ppc64le.rpm",
     "vendor": "semeru",
-    "version": "_openj9-"
+    "version": "8u302-b08_openj9-0.27.1"
   },
   {
     "architecture": "ppc64le",
@@ -258,7 +258,7 @@
     "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.1.tar.gz",
     "image_type": "jre",
-    "java_version": "",
+    "java_version": "8u302-b08",
     "jvm_impl": "openj9",
     "md5": "ee3b965fcd9ce5c5117a5928aac15daa",
     "md5_file": "ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.1.tar.gz.md5",
@@ -271,8 +271,8 @@
     "sha512": "ff3c7649d40b9938cfa0468f48c67cac34cc7b7284e43a8fc05d2243198d29de92912ae1e02b95f644d588e78deccb5ff2c043e8e567bd2dd0d5114f87dd41d2",
     "sha512_file": "ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.1.tar.gz.sha512",
     "size": 49816798,
-    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u302b08_openj9-0.27.1/ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.1.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u302-b08_openj9-0.27.1/ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.1.tar.gz",
     "vendor": "semeru",
-    "version": "_openj9-"
+    "version": "8u302-b08_openj9-0.27.1"
   }
 ]
