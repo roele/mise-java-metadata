@@ -5590,5 +5590,53 @@
     "url": "https://static.azul.com/zulu/bin/zulu18.0.37-ea-jdk18.0.0-ea.14-linux_x64.tar.gz",
     "vendor": "zulu",
     "version": "18.0.37"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "18.0.0-ea.15",
+    "jvm_impl": "hotspot",
+    "md5": "0f64f41355f4dd58822615791f5135d4",
+    "md5_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "00a935fa41d50b38b1429f8530ca500649fbd133",
+    "sha1_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz.sha1",
+    "sha256": "e887b5d575b1ac5398fc23fec16c1c0b4845defd93439db3bd0a077b586dc551",
+    "sha256_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz.sha256",
+    "sha512": "b3f8627d1e47e014b5d935067ec2ce1b5549aedcbeb3195b21452cccccc7cf749d8ab30b7358a05e9d1737908c9164c324a810baf25b4ef77fe0d11ab697dc81",
+    "sha512_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz.sha512",
+    "size": 198700083,
+    "url": "https://static.azul.com/zulu/bin/zulu18.0.39-ea-jdk18.0.0-ea.15-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "18.0.39"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "18.0.0-ea.15",
+    "jvm_impl": "hotspot",
+    "md5": "5f432f27b9a42cb2222c8feee78580b3",
+    "md5_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "8bca4ad277f83ce68cbca42f3a6141fcb3a707df",
+    "sha1_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz.sha1",
+    "sha256": "fdcf02af098f5b5736ff48a9875c43ddb8c94c8639768c21b92e0e999834b792",
+    "sha256_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz.sha256",
+    "sha512": "4da87a8a95d3276188e23c432293d436d31a06146fbddfa3db5b75c9b19907eab455014693264d9df39a63b354b27f3a1e649b6d979e72ecbb4129d1ab42a05c",
+    "sha512_file": "zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz.sha512",
+    "size": 198987798,
+    "url": "https://static.azul.com/zulu/bin/zulu18.0.39-ea-jdk18.0.0-ea.15-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "18.0.39"
   }
 ]
