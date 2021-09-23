@@ -108,7 +108,7 @@ download_github_releases 'ibmruntimes' 'semeru8-binaries' "${RELEASE_FILE}"
 versions=$(jq -r '.[].tag_name' "${RELEASE_FILE}" | sort -V)
 for version in ${versions}
 do
-	assets=$(jq -r  ".[] | select(.prerelease == false) | select(.tag_name == \"${version}\") | .assets[] | select(.name | endswith(\"zip\") or endswith(\"tar.gz\") or endswith(\"msi\") or endswith(\"rpm\")) | select(.name | contains(\"debugimage\") | not) | select(.name | contains(\"testimage\") | not) | .name" "${RELEASE_FILE}")
+	assets=$(jq -r  ".[] | select(.prerelease == false) | select(.tag_name == \"${version}\") | .assets[] | select(.name | endswith(\"zip\") or endswith(\"tar.gz\") or endswith(\"msi\") or endswith(\"rpm\")) | select(.name | contains(\"debugimage\") | not) | select(.name | contains(\"testimage\") | not) | select(.name | contains(\"certified\") | not) | .name" "${RELEASE_FILE}")
 	for asset in ${assets}
 	do
 		download "${version}" "${asset}" || echo "Cannot download ${asset}"
