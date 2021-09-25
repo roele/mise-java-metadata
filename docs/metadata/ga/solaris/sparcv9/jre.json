@@ -780,5 +780,28 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/8u302+8/bellsoft-jre8u302+8-solaris-sparcv9.tar.gz",
     "vendor": "liberica",
     "version": "8u302+8"
+  },
+  {
+    "architecture": "sparcv9",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_302-b08",
+    "jvm_impl": "hotspot",
+    "md5": "1f1a96d73030cdf167beb8dfa4964f3c",
+    "md5_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "4a7da5e3a5b99510b1c79c39646da561bb1ef6d7",
+    "sha1_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz.sha1",
+    "sha256": "c2219f2308c956fcf8f74a96d429ba5a892f94ad3ec019e2b73e728899e42bb4",
+    "sha256_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz.sha256",
+    "sha512": "63e251454035bafb9567d39b6d6cfd73f1eb9e8843f77b7314dc6a5a8ff53800eac56034b824ca9de097a19d19372fcda93d905f0e9f5c7c0d91ba0711b4bbed",
+    "sha512_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz.sha512",
+    "size": 53228585,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u302b08.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.302+8"
   }
 ]
