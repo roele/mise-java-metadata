@@ -2757,7 +2757,7 @@
     "sha512": "4c0b27fd227992f84fe75a9a94ae2f2f8c148156d975060c99c7543b727a72167a15bee98773d31ee0b9bb3ab39d617e8528aef7e875bc02c87ca02ab16b5e22",
     "sha512_file": "Alibaba_Dragonwell_11.0.12.8_x64_linux.tar.gz.sha512",
     "size": 192292030,
-    "url": "https://github.com/alibaba/dragonwell11/releases/download/11.0.12.8-GA/Alibaba_Dragonwell_11.0.12.8_x64_linux.tar.gz",
+    "url": "https://github.com/alibaba/dragonwell11/releases/download/dragonwell-11.0.12.8_jdk-11.0.12-ga/Alibaba_Dragonwell_11.0.12.8_x64_linux.tar.gz",
     "vendor": "dragonwell",
     "version": "11.0.12.8"
   },
