@@ -4418,6 +4418,54 @@
   },
   {
     "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.1.12.1",
+    "jvm_impl": "hotspot",
+    "md5": "fcb2669116355dfe935c1da7cf74f0b6",
+    "md5_file": "amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "55e7ecf7d2bc0f7d9f4f98accd1c97f2be241855",
+    "sha1_file": "amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz.sha1",
+    "sha256": "b465d3e78b9770c417cafffd552e9426176e64f04ba70b7e7da7ca5b8fc2cb58",
+    "sha256_file": "amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz.sha256",
+    "sha512": "68ae4a62fb7e82f80c876289326beaf5692d25d3be9cf6c6304f9ef87ff56187393a89994731674cafbc656598bd3a085bc2fcffe47fdd427cc8fb79a77a90b2",
+    "sha512_file": "amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz.sha512",
+    "size": 192629704,
+    "url": "https://corretto.aws/downloads/resources/17.0.1.12.1/amazon-corretto-17.0.1.12.1-alpine-linux-x64.tar.gz",
+    "vendor": "corretto",
+    "version": "17.0.1.12.1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-17.0.1.12.1-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.1.12.1",
+    "jvm_impl": "hotspot",
+    "md5": "da7c91f5e90a82ddbb12764273f6b478",
+    "md5_file": "amazon-corretto-17.0.1.12.1-linux-x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "12fab56513b7b6ccaaf7c2573371e1f5f41c6489",
+    "sha1_file": "amazon-corretto-17.0.1.12.1-linux-x64.tar.gz.sha1",
+    "sha256": "2ecc551b54c5bee4535b39703a7dd07629385af13b56acd99eb8c65751c42346",
+    "sha256_file": "amazon-corretto-17.0.1.12.1-linux-x64.tar.gz.sha256",
+    "sha512": "224ba5c9df0b51c14cc4cc3caf00e82754d492d801c5e77c646e39e7ca1c8ae1abf56139ffac86714300c10124eb7adf7d0131df5df2795c3a802970a6eaae84",
+    "sha512_file": "amazon-corretto-17.0.1.12.1-linux-x64.tar.gz.sha512",
+    "size": 193154048,
+    "url": "https://corretto.aws/downloads/resources/17.0.1.12.1/amazon-corretto-17.0.1.12.1-linux-x64.tar.gz",
+    "vendor": "corretto",
+    "version": "17.0.1.12.1"
+  },
+  {
+    "architecture": "x86_64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "amazon-corretto-8.202.08.2-linux-x64.tar.gz",
@@ -23247,6 +23295,31 @@
   {
     "architecture": "x86_64",
     "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.13",
+    "jvm_impl": "hotspot",
+    "md5": "595fde70436672ecf7cf0a1c89687e2c",
+    "md5_file": "zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "28a83113c4f0afa1d0fae8f000945016e99a7f7b",
+    "sha1_file": "zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz.sha1",
+    "sha256": "aa1e724cb45d70a7de9dbfb88137883efa00cee2bd9f4a502b41decd7f7149db",
+    "sha256_file": "zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz.sha256",
+    "sha512": "b11c78d15bbb141e96754cdfd8a26f14c16670fdf6d7107c7cbb3ec678f9483b78ed8a810403861948ae92f44e8aabfafb6a0fe3b351816aa9aca1ae98de3009",
+    "sha512_file": "zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz.sha512",
+    "size": 293965641,
+    "url": "https://static.azul.com/zulu/bin/zulu11.52.13-ca-fx-jdk11.0.13-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "11.52.13"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
       "musl"
     ],
     "file_type": "tar.gz",
@@ -24422,6 +24495,31 @@
   {
     "architecture": "x86_64",
     "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "13.0.9",
+    "jvm_impl": "hotspot",
+    "md5": "1c4a6e64fa9bd862c161f5cc254a9ab8",
+    "md5_file": "zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3a6a75ed74a3d4f51de1d66a0c1b38debfdfb344",
+    "sha1_file": "zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz.sha1",
+    "sha256": "b3c4f28861dbabaf93d297a8bb8d3f4bfea5492135be97aadf0c1e56506f3cda",
+    "sha256_file": "zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz.sha256",
+    "sha512": "5e45b7001424c4cd4ebba5fabdc2fbcce0753f4636ffe1f420ecd0451e0f5e650823698cf2516c14e566b2a8c256c6bbce423dad1c4b5b2211885e9b320f7a31",
+    "sha512_file": "zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz.sha512",
+    "size": 300689139,
+    "url": "https://static.azul.com/zulu/bin/zulu13.44.13-ca-fx-jdk13.0.9-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "13.44.13"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
       "musl"
     ],
     "file_type": "tar.gz",
@@ -25144,6 +25242,31 @@
     "url": "https://static.azul.com/zulu/bin/zulu15.34.17-ca-jdk15.0.4-linux_x64.tar.gz",
     "vendor": "zulu",
     "version": "15.34.17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "15.0.5",
+    "jvm_impl": "hotspot",
+    "md5": "0af62eee5ac6aad55d3c2be562620057",
+    "md5_file": "zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4aa5a34e21a278c4255df292447608e6f34e98e7",
+    "sha1_file": "zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz.sha1",
+    "sha256": "b3e4c17859c3b87e87cda4a57994e55dd34d6dbc1de43100f7c31b1156c83ba2",
+    "sha256_file": "zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz.sha256",
+    "sha512": "2e5066cf51c19f501bf14dc3ddfaebd645d5c6e0028a2ad7b7fb9cb00496275f6622d5ab3e0a4516e37962429b06ee910ed7ec88226e3beb482be9ceec25e13a",
+    "sha512_file": "zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz.sha512",
+    "size": 299540674,
+    "url": "https://static.azul.com/zulu/bin/zulu15.36.13-ca-fx-jdk15.0.5-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "15.36.13"
   },
   {
     "architecture": "x86_64",
@@ -29788,6 +29911,31 @@
     "url": "https://static.azul.com/zulu/bin/zulu8.56.0.21-ca-jdk8.0.302-linux_x64.zip",
     "vendor": "zulu",
     "version": "8.56.0.21"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.0.312",
+    "jvm_impl": "hotspot",
+    "md5": "9f0aa9a65f4e7a46db53e592dc6f5a15",
+    "md5_file": "zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8bd67c2c2e8897a25f949c9fe577f7062d63e812",
+    "sha1_file": "zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz.sha1",
+    "sha256": "322086e6f5058be9022f84fa60f9e86682742df9447783cc43ce77ecb3c31825",
+    "sha256_file": "zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz.sha256",
+    "sha512": "d9e450faa01787cf4c63ae8618acc16b00f78a3768609201bf95f00d91d2fa06929ad9ce0fad7fd15a10ee037b63bf00165bef8979f0b4ded6a791e12162760b",
+    "sha512_file": "zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz.sha512",
+    "size": 160649021,
+    "url": "https://static.azul.com/zulu/bin/zulu8.58.0.13-ca-fx-jdk8.0.312-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "8.58.0.13"
   },
   {
     "architecture": "x86_64",
