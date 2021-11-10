@@ -11,4 +11,5 @@ then
 fi
 
 URL=$(jq -r '.url' "${METADATA_FILE}")
+echo "Sending HEAD request to ${URL}"
 curl --fail --silent --head -X GET -L "${URL}" > /dev/null || echo "${METADATA_FILE}"
