@@ -54,29 +54,14 @@ function download {
 	local image_type
 	image_type="$(jq -r '.image_type' <<< "${json}")"
 
-	if [[ "${image_type}" = 'testimage' ]]
-	then
-		echo "Skipping test image ${filename}"
+	case "${image_type}" in
+	jre|jdk)
+		;;
+	*)
+		echo "Skipping non-JRE, non-JDK image ${filename}"
 		return 0
-	fi
-
-	if [[ "${image_type}" = 'debugimage' ]]
-	then
-		echo "Skipping debug image ${filename}"
-		return 0
-	fi
-
-	if [[ "${image_type}" = 'sources' ]]
-	then
-		echo "Skipping sources ${filename}"
-		return 0
-	fi
-
-	if [[ "${image_type}" = 'staticlibs' ]]
-	then
-		echo "Skipping static libraries ${filename}"
-		return 0
-	fi
+		;;
+	esac		
 
 	local ext
 	# shellcheck disable=SC2016
