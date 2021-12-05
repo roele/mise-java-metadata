@@ -2298,5 +2298,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu18.0.57-ea-jdk18.0.0-ea.24-win_i686.zip",
     "vendor": "zulu",
     "version": "18.0.57"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip",
+    "image_type": "jdk",
+    "java_version": "18.0.0-ea.26",
+    "jvm_impl": "hotspot",
+    "md5": "6819472ec0d7f6472ee28a6614c1e8c5",
+    "md5_file": "zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "68d7d25dc5cc6b03404618037930038aef1adec4",
+    "sha1_file": "zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip.sha1",
+    "sha256": "672dc6c37cf5b1d97db889efe740e5465644cb1182927c62c36c6278b0979418",
+    "sha256_file": "zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip.sha256",
+    "sha512": "b8e4007cee1533564fa65b9eed57ba28951db6bebf29fc7d15338507f677844e8bd2a8c050f986383dddf11824f9ec1f73ca44b9b205894373f384ecb173e9be",
+    "sha512_file": "zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip.sha512",
+    "size": 191312756,
+    "url": "https://static.azul.com/zulu/bin/zulu18.0.61-ea-jdk18.0.0-ea.26-win_i686.zip",
+    "vendor": "zulu",
+    "version": "18.0.61"
   }
 ]
