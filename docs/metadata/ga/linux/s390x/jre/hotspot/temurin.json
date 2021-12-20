@@ -44,5 +44,28 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.13%2B8/OpenJDK11U-jre_s390x_linux_hotspot_11.0.13_8.tar.gz",
     "vendor": "temurin",
     "version": "11.0.13+8"
+  },
+  {
+    "architecture": "s390x",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "6c34aa74ba493659a1c95ced5ab8f374",
+    "md5_file": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "965b97adf23fb98cb385ab4b918e5b4cc615b445",
+    "sha1_file": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz.sha1",
+    "sha256": "ff88a8bcdaa8db788b463b14724460f68c4c70c80b86e556012521996281f4bf",
+    "sha256_file": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz.sha256",
+    "sha512": "16d3a7231b05d7c65c7f0ad8b20ef503aff227197ff7f7be40a9253a1ecad053b084bee90c82339871f12b918f852a7c2e3bb4e072e74a3c64c05e7eddc9257a",
+    "sha512_file": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz.sha512",
+    "size": 42948940,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jre_s390x_linux_hotspot_17.0.1_12.tar.gz",
+    "vendor": "temurin",
+    "version": "17.0.1+12"
   }
 ]
