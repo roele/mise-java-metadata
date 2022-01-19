@@ -159,5 +159,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu17.30.15-ca-jdk17.0.1-win_aarch64.zip",
     "vendor": "zulu",
     "version": "17.30.15"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.2",
+    "jvm_impl": "hotspot",
+    "md5": "7ae2ba521d9f42a776fe96a94ef86ef0",
+    "md5_file": "zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "668a83b7e7aa9ed8e6375c813bedbca1ac3e005d",
+    "sha1_file": "zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip.sha1",
+    "sha256": "1a9d4ab3b52ce3db7354691163e5a36979af9c37d80c3c490c12af07de21d8f3",
+    "sha256_file": "zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip.sha256",
+    "sha512": "af500c64595b6cc19a01932378d8f1bbf21cf2e5cd76f40c7c71098c5d17681a7d40257d96983d807a2132e5ba27c86c927aff03c81e69a6db89ae17affbab73",
+    "sha512_file": "zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip.sha512",
+    "size": 182530596,
+    "url": "https://static.azul.com/zulu/bin/zulu17.32.13-ca-jdk17.0.2-win_aarch64.zip",
+    "vendor": "zulu",
+    "version": "17.32.13"
   }
 ]
