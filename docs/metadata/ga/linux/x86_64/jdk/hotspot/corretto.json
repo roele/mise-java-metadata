@@ -1689,5 +1689,53 @@
     "url": "https://corretto.aws/downloads/resources/8.322.06.1/amazon-corretto-8.322.06.1-linux-x64.tar.gz",
     "vendor": "corretto",
     "version": "8.322.06.1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.322.06.2",
+    "jvm_impl": "hotspot",
+    "md5": "855fdbf4c5a4d0ad2c5a2c3cf80fbf6f",
+    "md5_file": "amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f35f7a3da5ea987737c3f580fbf25da682e6fd1c",
+    "sha1_file": "amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz.sha1",
+    "sha256": "5617e43dc73c1b04e15126b3a533951f1747acf4943218642d5acc355d0e8a77",
+    "sha256_file": "amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz.sha256",
+    "sha512": "d4028ac64256d86da70e69f0c0b0a50084bb7ed1b210f731c4e5a98b374920390be555d20a11e1a8624444e974ce7b08e062e859c7af83f1ae91d8c745216d92",
+    "sha512_file": "amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz.sha512",
+    "size": 99863937,
+    "url": "https://corretto.aws/downloads/resources/8.322.06.2/amazon-corretto-8.322.06.2-alpine-linux-x64.tar.gz",
+    "vendor": "corretto",
+    "version": "8.322.06.2"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-8.322.06.2-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.322.06.2",
+    "jvm_impl": "hotspot",
+    "md5": "08124db01c03eb7acdb0bdff148c8e29",
+    "md5_file": "amazon-corretto-8.322.06.2-linux-x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8954218417418ee98c5740ebe954a51ece5a7142",
+    "sha1_file": "amazon-corretto-8.322.06.2-linux-x64.tar.gz.sha1",
+    "sha256": "ea4723c53a534bcb474b2915149cdca549fbcfebeb1b05b3465aa09ad9c6d3a4",
+    "sha256_file": "amazon-corretto-8.322.06.2-linux-x64.tar.gz.sha256",
+    "sha512": "1f3df3471358f93d460970c9dae632308f59735fd213883f89cc50a8ab2b1ad6a07fd9bc7638749f8b41ce4a2f1111489d0e6a7ce1995aa29939e308780cc2b7",
+    "sha512_file": "amazon-corretto-8.322.06.2-linux-x64.tar.gz.sha512",
+    "size": 118180849,
+    "url": "https://corretto.aws/downloads/resources/8.322.06.2/amazon-corretto-8.322.06.2-linux-x64.tar.gz",
+    "vendor": "corretto",
+    "version": "8.322.06.2"
   }
 ]
