@@ -17793,5 +17793,53 @@
     "url": "https://static.azul.com/zulu/bin/zulu19.0.21-ea-jdk19.0.0-ea.6-linux_x64.tar.gz",
     "vendor": "zulu",
     "version": "19.0.21"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "19.0.0-ea.7",
+    "jvm_impl": "hotspot",
+    "md5": "d110c53c203ddd24f74506da4c49a2ed",
+    "md5_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "71b73d0679307390359958258f602e0acc22c7a9",
+    "sha1_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz.sha1",
+    "sha256": "15fa036787c3be85b8a94bc46ca0c0d9e38385259ce934c28249ad4122b91485",
+    "sha256_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz.sha256",
+    "sha512": "774cb692509c9c94fd13a7d1f531b1a117c75bfc7f460789bc4449b9608f4fb4c71e4233815fd0ae7d151df28577adc0632164c8387512e9dddaa44da555895b",
+    "sha512_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz.sha512",
+    "size": 200294839,
+    "url": "https://static.azul.com/zulu/bin/zulu19.0.23-ea-jdk19.0.0-ea.7-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "19.0.23"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "19.0.0-ea.7",
+    "jvm_impl": "hotspot",
+    "md5": "3fc18fe1f8985b2603466ba5906d3446",
+    "md5_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "9115dd9dc05520a31c69499b066d25e3154df337",
+    "sha1_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz.sha1",
+    "sha256": "420fa746d28db75283166ade99f0fbd639f7ed9f6dd07abb83bb504be239d109",
+    "sha256_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz.sha256",
+    "sha512": "fffba7c813e94743cb58663547d1bb660b7fe529e8f47911352fb5457acf86136f3c5a3c323f02371dcde2dfc2a04e36a9ce85e47c0dc013d7ac51c32b39a232",
+    "sha512_file": "zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz.sha512",
+    "size": 199051092,
+    "url": "https://static.azul.com/zulu/bin/zulu19.0.23-ea-jdk19.0.0-ea.7-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "19.0.23"
   }
 ]
