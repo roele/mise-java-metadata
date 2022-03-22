@@ -12,7 +12,7 @@ jobs:
       with:
         apt-get: jq curl
     - name: Run validation script
-      run: "git rm $(find docs/metadata/vendor -name '*.json' ! -name all.json -exec bin/validate.bash {} \\;) || true"
+      run: "git rm $(find docs/metadata/vendor -name '*.json' ! -name all.json | xargs -t -P 8 -I % -n 1 bin/validate.bash %) || true"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
