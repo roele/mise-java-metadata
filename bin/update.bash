@@ -31,6 +31,7 @@ for vendor in \
 	'liberica' \
 	'dragonwell8' \
 	'dragonwell11' \
+	'dragonwell17' \
 	'oracle' \
 	'openjdk' \
 	'openjdk-loom' \
