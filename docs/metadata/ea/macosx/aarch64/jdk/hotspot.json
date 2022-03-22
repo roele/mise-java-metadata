@@ -4828,5 +4828,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu19.0.35-ea-jdk19.0.0-ea.13-macosx_aarch64.zip",
     "vendor": "zulu",
     "version": "19.0.35"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip",
+    "image_type": "jdk",
+    "java_version": "19.0.0-ea.14",
+    "jvm_impl": "hotspot",
+    "md5": "409dca8cd52dace0cce67c7ae4cd4408",
+    "md5_file": "zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ca1939274e518e6220936cfc4c3c2e2efd22d432",
+    "sha1_file": "zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip.sha1",
+    "sha256": "06e24d83ced9afe6f5a2acf479d643732984c94c6b51f326ccca1f6ecd0c9375",
+    "sha256_file": "zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip.sha256",
+    "sha512": "37182cee929fac4b519639ef7b3f200ad4205a2902ff38eea5c3aab59709b002109c5b667c9ec9c77cb1dfb6e4f47c5a795af65d20a31c3018e6199972ec5fc5",
+    "sha512_file": "zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip.sha512",
+    "size": 200090541,
+    "url": "https://static.azul.com/zulu/bin/zulu19.0.37-ea-jdk19.0.0-ea.14-macosx_aarch64.zip",
+    "vendor": "zulu",
+    "version": "19.0.37"
   }
 ]
