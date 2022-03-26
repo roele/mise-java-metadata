@@ -48,6 +48,9 @@ vendors=(
 	"$(cmd 'trava8')"
 	"$(cmd 'trava11')"
 	"$(cmd 'microsoft')"
+	"$(cmd 'kona8')"
+	"$(cmd 'kona11')"
+	"$(cmd 'kona17')"
 )
 
 printf '%s\n' "${vendors[@]}" | xargs -P 8 -t -I '%' -n 1 bash '%' "${METADATA_DIR}/vendor" "${CHECKSUM_DIR}"

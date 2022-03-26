@@ -30,6 +30,7 @@ components:
         - "dragonwell"
         - "graalvm"
         - "java-se-ri"
+        - "kona"
         - "liberica"
         - "mandrel"
         - "microsoft"
