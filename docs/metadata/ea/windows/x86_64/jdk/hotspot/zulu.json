@@ -3540,5 +3540,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu19.0.41-ea-jdk19.0.0-ea.16-win_x64.zip",
     "vendor": "zulu",
     "version": "19.0.41"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip",
+    "image_type": "jdk",
+    "java_version": "19.0.0-ea.17",
+    "jvm_impl": "hotspot",
+    "md5": "ee21a541b5d6c726f9d45d3db4001ac1",
+    "md5_file": "zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "14b712cd5a5979e8fbb353659cd2660893dfb4e0",
+    "sha1_file": "zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip.sha1",
+    "sha256": "2db1f2708cfff85bd4474ea1d635188dd6488bd17829b217d46e0f15a5f167bc",
+    "sha256_file": "zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip.sha256",
+    "sha512": "4b4cd38d2093055a93c2ecad0e5a26135a2f2054114bf51fb5c0f981ba5952a4b495852c1243e21be1e1c148942f4433f1920e9f1243439e443bd9297eaeebcb",
+    "sha512_file": "zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip.sha512",
+    "size": 200188854,
+    "url": "https://static.azul.com/zulu/bin/zulu19.0.43-ea-jdk19.0.0-ea.17-win_x64.zip",
+    "vendor": "zulu",
+    "version": "19.0.43"
   }
 ]
