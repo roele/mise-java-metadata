@@ -527,5 +527,28 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.1/sapmachine-jre-18.0.1-beta_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "18.0.1-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "18.0.1.1-beta",
+    "jvm_impl": "hotspot",
+    "md5": "87ec0272379df56c40018aeeb6524865",
+    "md5_file": "sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a9f34092f1db5fecbd8d50419f6b68f3e41c0cf4",
+    "sha1_file": "sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "038177fb61439417117c3a65bc74cfea108d2c438f15babef4bcd2917f9bbc7b",
+    "sha256_file": "sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "4be5bf9053ef05562cc6f8d7aa36bf087d1bdfcb698d2dc6de344d7c89cdcee49ce017345bad7da235ba4b3fc6d2ae0c3946b2410b6d17811acd56c1cfb3d15c",
+    "sha512_file": "sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz.sha512",
+    "size": 45676267,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.1.1/sapmachine-jre-18.0.1.1-beta_linux-aarch64_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "18.0.1.1-beta"
   }
 ]
