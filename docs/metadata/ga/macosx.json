@@ -11224,6 +11224,31 @@
       "notarized"
     ],
     "file_type": "tar.gz",
+    "filename": "TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8u332",
+    "jvm_impl": "hotspot",
+    "md5": "84f393d3f206228fd8def1263fa29eea",
+    "md5_file": "TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "1e71f4a131b79bb8c935555069ca4bfc2bb8be3c",
+    "sha1_file": "TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz.sha1",
+    "sha256": "8e5c7759c70f0a588580b2a6a0cf2e03f985bbbbaefddbb34b595c0655523c3b",
+    "sha256_file": "TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz.sha256",
+    "sha512": "a8782f8488074a0c339d9afcf722425f00b522f007300995a600700350fead703f9213614bc40bc247bf8cb1aba23305ca53c98890183110a9256efc4ced4042",
+    "sha512_file": "TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz.sha512",
+    "size": 104168985,
+    "url": "https://github.com/Tencent/TencentKona-8/releases/download/8.0.10-GA/TencentKona8.0.10.b1_jdk_macosx-x86_64_8u332_notarized.tar.gz",
+    "vendor": "kona",
+    "version": "8.0.10.b1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "notarized"
+    ],
+    "file_type": "tar.gz",
     "filename": "TencentKona8.0.8.b1_jdk_macosx-x86_64_8u312_notarized.tar.gz",
     "image_type": "jdk",
     "java_version": "8u312",
