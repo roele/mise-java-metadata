@@ -50,13 +50,14 @@ function download {
 			regex='s/^sapmachine-(jdk|jre)-([0-9].+)\.x86_64\.rpm$/IMAGE_TYPE="$1" VERSION="$2" OS="linux" ARCH="x64" EXT="rpm"/g'
 		else
 			# shellcheck disable=SC2016
-			regex='s/^sapmachine-(jdk|jre)-([0-9].+)_(linux|macos|osx|windows)-(x64|aarch64|ppc64|ppc64le)_bin\.(.+)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" EXT="$5"/g'
+			regex='s/^sapmachine-(jdk|jre)-([0-9].+)_(linux|macos|osx|windows)-(x64|aarch64|ppc64|ppc64le|x64)-?(.*)_bin\.(.+)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
 		fi
 
 		local IMAGE_TYPE=""
 		local VERSION=""
 		local OS=""
 		local ARCH=""
+		local FEATURES=""
 		local EXT=""
 
 		# Parse meta-data from file name
@@ -76,7 +77,7 @@ function download {
 			"$(normalize_arch "${ARCH}")" \
 			"${EXT}" \
 			"${IMAGE_TYPE}" \
-			'' \
+			"${FEATURES}" \
 			"${url}" \
 			"$(hash_file 'md5' "${archive}" "${CHECKSUM_DIR}")" \
 			"$(hash_file 'sha1' "${archive}" "${CHECKSUM_DIR}")" \
