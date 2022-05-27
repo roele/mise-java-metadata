@@ -12759,6 +12759,31 @@
   },
   {
     "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "18.0.1.1-beta",
+    "jvm_impl": "hotspot",
+    "md5": "9d9e8434f02733773cbf141d45b6a074",
+    "md5_file": "sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "09d2a9bd5a69837000c3b300b206981920b0c371",
+    "sha1_file": "sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz.sha1",
+    "sha256": "eade96a8586953bb05ef6f1bddaabf7e8f32b5ac87c3a2cc0614261c8abc56d5",
+    "sha256_file": "sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz.sha256",
+    "sha512": "fdcaa872d2cd2a8c81b60309f94a35c46c619a5de9a6ad1f5e484e35cd1cc2128a835519802ee05050d83d261e6181d6dc2d2deb9a0b989b39e31f168b7e9b20",
+    "sha512_file": "sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz.sha512",
+    "size": 46628707,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.1.1/sapmachine-jre-18.0.1.1-beta_linux-x64-musl_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "18.0.1.1-beta"
+  },
+  {
+    "architecture": "x86_64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "sapmachine-jre-18.0.1.1_linux-x64_bin.tar.gz",
