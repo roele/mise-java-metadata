@@ -389,5 +389,28 @@
     "url": "https://corretto.aws/downloads/resources/8.332.08.1/amazon-corretto-8.332.08.1-windows-x86-jre.zip",
     "vendor": "corretto",
     "version": "8.332.08.1"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "amazon-corretto-8.342.07.1-windows-x86-jre.zip",
+    "image_type": "jre",
+    "java_version": "8.342.07.1",
+    "jvm_impl": "hotspot",
+    "md5": "3b3808d4dfbaf43974492cbd3ff10b63",
+    "md5_file": "amazon-corretto-8.342.07.1-windows-x86-jre.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "179ceada0493767f6db1ae2e15d5906640105498",
+    "sha1_file": "amazon-corretto-8.342.07.1-windows-x86-jre.zip.sha1",
+    "sha256": "b80a7d7d4d9202e5968623a2c539cd262e43d51a929c16564c8f8df88efc54e8",
+    "sha256_file": "amazon-corretto-8.342.07.1-windows-x86-jre.zip.sha256",
+    "sha512": "4390c34e73409dbc3958d7755cbf07ea0343c0e0c24cf1829a5bb3c049656b49c04d9d744ae112a2d10531151767da01ba43e24012637347b13acd57f5198537",
+    "sha512_file": "amazon-corretto-8.342.07.1-windows-x86-jre.zip.sha512",
+    "size": 48974375,
+    "url": "https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x86-jre.zip",
+    "vendor": "corretto",
+    "version": "8.342.07.1"
   }
 ]
