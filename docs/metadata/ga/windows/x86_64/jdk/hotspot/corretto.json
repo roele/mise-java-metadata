@@ -2183,5 +2183,28 @@
     "url": "https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x64-jdk.zip",
     "vendor": "corretto",
     "version": "8.342.07.1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "amazon-corretto-8.342.07.3-windows-x64-jdk.zip",
+    "image_type": "jdk",
+    "java_version": "8.342.07.3",
+    "jvm_impl": "hotspot",
+    "md5": "03ca196457565a4203dc293bf4f4794e",
+    "md5_file": "amazon-corretto-8.342.07.3-windows-x64-jdk.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "d56b6cc3cf3113da4dab3a4a85bdb1ae01499540",
+    "sha1_file": "amazon-corretto-8.342.07.3-windows-x64-jdk.zip.sha1",
+    "sha256": "ece15730e3badc9dad8b6d0679a8a3c5e4b31b413fad216fbe1245085437b26b",
+    "sha256_file": "amazon-corretto-8.342.07.3-windows-x64-jdk.zip.sha256",
+    "sha512": "74551db2fd3d498ee76a70e7bb24ca4a0a9f2aa8926d305968144d932213d89889aa085f5f1fbd9bc317e20d081832fe24a9cab191075bb1d77fb062b9fab338",
+    "sha512_file": "amazon-corretto-8.342.07.3-windows-x64-jdk.zip.sha512",
+    "size": 122292681,
+    "url": "https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x64-jdk.zip",
+    "vendor": "corretto",
+    "version": "8.342.07.3"
   }
 ]
