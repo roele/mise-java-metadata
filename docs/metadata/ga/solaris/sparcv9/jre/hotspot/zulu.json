@@ -67,5 +67,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu11.56.19-ca-jre11.0.15-solaris_sparcv9.zip",
     "vendor": "zulu",
     "version": "11.56.19"
+  },
+  {
+    "architecture": "sparcv9",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip",
+    "image_type": "jre",
+    "java_version": "11.0.16",
+    "jvm_impl": "hotspot",
+    "md5": "5b0ad7d4471eef94d1e53487b36bbdab",
+    "md5_file": "zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "94abfe6c0f34a84cbddbc34077dd31a3fb3679fe",
+    "sha1_file": "zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip.sha1",
+    "sha256": "fd5c4e01c659ba9aa4a8dc8d5f79629c24cfae3fc01af5c7e96bd1d4dd415ba0",
+    "sha256_file": "zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip.sha256",
+    "sha512": "55ee9004e5a0a2a53f962e632bb0baa036d5062c14bf87b3dec114c659e05e27731cd0ce1fc1d94163c72491642e79f647c5c44c098a37ab65cabb5d48c5c46d",
+    "sha512_file": "zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip.sha512",
+    "size": 56232672,
+    "url": "https://static.azul.com/zulu/bin/zulu11.58.19-ca-jre11.0.16-solaris_sparcv9.zip",
+    "vendor": "zulu",
+    "version": "11.58.19"
   }
 ]

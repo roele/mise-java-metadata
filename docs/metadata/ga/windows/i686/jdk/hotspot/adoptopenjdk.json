@@ -1378,5 +1378,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u332-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u332b09.zip",
     "vendor": "adoptopenjdk",
     "version": "8.0.332+9"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip",
+    "image_type": "jdk",
+    "java_version": "1.8.0_342-b07",
+    "jvm_impl": "hotspot",
+    "md5": "944e191c116971ae543a7701f4fcd83c",
+    "md5_file": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "390971e2245da05d55fd87ec112e7104baf4e269",
+    "sha1_file": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip.sha1",
+    "sha256": "d79b3552502fd51d3f8956d4d0a5d37c02cd3e50371b9672340b7d8f4c7887ec",
+    "sha256_file": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip.sha256",
+    "sha512": "3182e17a60bd1eb6e357795cd9a8ca777c2df21b4a4e7b3f9408f1643dafd2d826b7a9f7bc5e6ff02801ff415c466846fd711be839ff6fdcf915dc07c36899ba",
+    "sha512_file": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip.sha512",
+    "size": 105505769,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.zip",
+    "vendor": "adoptopenjdk",
+    "version": "8.0.342+7"
   }
 ]
