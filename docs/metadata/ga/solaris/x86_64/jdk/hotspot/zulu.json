@@ -481,5 +481,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu8.64.0.15-ca-jdk8.0.342-solaris_x64.zip",
     "vendor": "zulu",
     "version": "8.64.0.15"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip",
+    "image_type": "jdk",
+    "java_version": "8.0.345",
+    "jvm_impl": "hotspot",
+    "md5": "60f4f2118a19508257d228ac77b90568",
+    "md5_file": "zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "75db3aa287721c03f87b0acb5754359d4b83a817",
+    "sha1_file": "zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip.sha1",
+    "sha256": "225c6efad99c610f378e245bf33db51041138d7112af887fb6881122eaf54ca5",
+    "sha256_file": "zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip.sha256",
+    "sha512": "5d5e07a79b93733d8d370e4d70853a9e5276d6a9f60d4581f13f895f2cf6274025482d89a389717b1397300b9094aae5d3e282adf1f39d51574034382daf75d3",
+    "sha512_file": "zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip.sha512",
+    "size": 115901943,
+    "url": "https://static.azul.com/zulu/bin/zulu8.64.0.19-ca-jdk8.0.345-solaris_x64.zip",
+    "vendor": "zulu",
+    "version": "8.64.0.19"
   }
 ]
