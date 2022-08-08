@@ -274,5 +274,28 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u332-b09_openj9-0.32.0/ibm-semeru-open-8-jre-1.8.0.332.b09_0.32.0-1.ppc64.rpm",
     "vendor": "semeru",
     "version": "8u332-b09_openj9-0.32.0"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm",
+    "image_type": "jre",
+    "java_version": "",
+    "jvm_impl": "openj9",
+    "md5": "7a17bbe42ea0c6162839c310d35b3a6b",
+    "md5_file": "ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c5b7ff82bf1cc22bbc005cc2cb1085eb71a6efc5",
+    "sha1_file": "ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm.sha1",
+    "sha256": "b164d28fe624790599386325026300b7b697cb56352898888df5d8bb31136192",
+    "sha256_file": "ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm.sha256",
+    "sha512": "45e97f332c17e0701de6b311c7153d6091baab5c5531f2b239bd21a5413293f83a99a66152da2499d4fbc450ace48ee1293f7cfb9f62d0084c169d9592e3a88d",
+    "sha512_file": "ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm.sha512",
+    "size": 52231901,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u345-b01_openj9-0.33.0/ibm-semeru-open-8-jre-1.8.0.345.b01_0.33.0-1.ppc64.rpm",
+    "vendor": "semeru",
+    "version": "_openj9-"
   }
 ]

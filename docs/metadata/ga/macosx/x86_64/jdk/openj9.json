@@ -2303,5 +2303,28 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u332-b09_openj9-0.32.0/ibm-semeru-open-jdk_x64_mac_8u332b09_openj9-0.32.0.tar.gz",
     "vendor": "semeru",
     "version": "8u332-b09_openj9-0.32.0"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "",
+    "jvm_impl": "openj9",
+    "md5": "d6240f55dc8b4e1da8103f7a604e53ef",
+    "md5_file": "ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "dd5ad92e0c71ed5a97fad997f5fd9014da9961ef",
+    "sha1_file": "ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz.sha1",
+    "sha256": "c69086950c006b17484a70ef7bc85e92d121be15e69e282e1446fd238d42b6b4",
+    "sha256_file": "ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz.sha256",
+    "sha512": "c76c2134df6213e96b02b3b1bc6ac7d1eee4f41458be076b2b74d80ca2df573531533938aaa72e8600a03c09786c3a418502e41fced6aac730f70243d517ab7f",
+    "sha512_file": "ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz.sha512",
+    "size": 129519233,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u345-b01_openj9-0.33.0/ibm-semeru-open-jdk_x64_mac_8u345b01_openj9-0.33.0.tar.gz",
+    "vendor": "semeru",
+    "version": "_openj9-"
   }
 ]

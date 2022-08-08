@@ -412,5 +412,28 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u332-b09_openj9-0.32.0/ibm-semeru-open-jdk_ppc64_aix_8u332b09_openj9-0.32.0.tar.gz",
     "vendor": "semeru",
     "version": "8u332-b09_openj9-0.32.0"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "",
+    "jvm_impl": "openj9",
+    "md5": "fc0fc243c30e30868497776d71b65fd9",
+    "md5_file": "ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz.md5",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "068f13736701e3c39ac4fa2d03daae7f75535ba1",
+    "sha1_file": "ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz.sha1",
+    "sha256": "fc1c47ed45e51561ddadf204e04618fa6f9784c31ce2ad34db196095dc05f652",
+    "sha256_file": "ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz.sha256",
+    "sha512": "682389afc8eb9ffff7549cac466a67e297156ed8539ac0757bed25223f995a22504e9b3cc257beb5b13ad214c1d97d8081ba2f56bbe770517dc98b1366cf1727",
+    "sha512_file": "ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz.sha512",
+    "size": 119719934,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/8u345-b01_openj9-0.33.0/ibm-semeru-open-jdk_ppc64_aix_8u345b01_openj9-0.33.0.tar.gz",
+    "vendor": "semeru",
+    "version": "_openj9-"
   }
 ]
