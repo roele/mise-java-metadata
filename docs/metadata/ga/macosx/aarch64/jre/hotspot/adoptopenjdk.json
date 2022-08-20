@@ -205,5 +205,28 @@
     "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz",
     "vendor": "adoptopenjdk",
     "version": "18.0.2+9"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz",
+    "image_type": "jre",
+    "java_version": "19-beta+36-202208190932",
+    "jvm_impl": "hotspot",
+    "md5": "8ad715a28aeafb312073767a953a2637",
+    "md5_file": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "0534d416bc9184410a8c39d23b14ede10eafbf50",
+    "sha1_file": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz.sha1",
+    "sha256": "2fb4a6e54ee7579b01431b26b718dbf27d06f1b2160d3efb598f8dba57293171",
+    "sha256_file": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz.sha256",
+    "sha512": "64a13b434756b28bead3f2c7fdab9e0c4adf41fadca360272290c5eb33a9693f643440cdc1dc275728b29af4c3c811fe0e35d3ef300cb7d793f4fac26aee9d5d",
+    "sha512_file": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz.sha512",
+    "size": 38083270,
+    "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36-RC1-beta/OpenJDK19U-jre_aarch64_mac_hotspot_19_36-RC1.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "19.0.0-beta+36.0.202208190932"
   }
 ]
