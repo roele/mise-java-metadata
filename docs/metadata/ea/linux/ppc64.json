@@ -4058,6 +4058,31 @@
       "le"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.4.1-ea.1",
+    "jvm_impl": "hotspot",
+    "md5": "c3bacb8d96865c3187afe54ab21ebe14",
+    "md5_file": "sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "61c9cb4b3755d1809e63373ba7f7b61dd25d1823",
+    "sha1_file": "sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "ccd8f96866414448d2ca97e52e94025514581b04047227ab0193fefc6f48947a",
+    "sha256_file": "sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "a117c15e6c8445a51e82120099e69258202b86a0702681d704cc9c56372cf9177447d6b2230e079b076c8ee79e4eae997f992f2471dfa0f97b752a4bca79e947",
+    "sha512_file": "sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 191417634,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.4.1+1/sapmachine-jdk-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "17.0.4.1-ea.1"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jdk-17.0.5-ea.1_linux-ppc64le_bin.tar.gz",
     "image_type": "jdk",
     "java_version": "17.0.5-ea.1",
@@ -4476,6 +4501,31 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jdk-20-ea.10_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "20-ea.10"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "20-ea.11",
+    "jvm_impl": "hotspot",
+    "md5": "5a09a27dddf73f27b13811235202a6c6",
+    "md5_file": "sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "3a5ac55da4f94aa60e6a6a2b493d437df171f640",
+    "sha1_file": "sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "3f2bfabbccc57ed051818d5af80cfe2155e15c33d025716def2cecabf7e3fc48",
+    "sha256_file": "sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "c73a0158a19fca3ce2e5a26362611f53ada7fcee804524cac018e59b5b9a868dd36c4706eba39ba6f47ad0c6ddd7eb3603e822f7266359ba47de3b75ad98be41",
+    "sha512_file": "sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 200339583,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jdk-20-ea.11_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "20-ea.11"
   },
   {
     "architecture": "ppc64",
@@ -8761,6 +8811,31 @@
       "le"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.4.1-ea.1",
+    "jvm_impl": "hotspot",
+    "md5": "e45ae80329406af77ab98a5032ddefb6",
+    "md5_file": "sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "373a79c232c138e5592c4ca76b6f0fe8ad81b06c",
+    "sha1_file": "sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "07f34071e799fcca27b77d197dad9fc71b7764c3a79b7698a162e4aff82bca5d",
+    "sha256_file": "sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "a0fce61e7f826e5a796c01affd6d04ebb5e8f5af62fe0f125ef144acf0d06d36e080cab32d8b360b556ac2a0631020186ea3af63671cb91bd61d42ec62a11a82",
+    "sha512_file": "sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 46463503,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.4.1+1/sapmachine-jre-17.0.4.1-ea.1_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "17.0.4.1-ea.1"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jre-17.0.5-ea.1_linux-ppc64le_bin.tar.gz",
     "image_type": "jre",
     "java_version": "17.0.5-ea.1",
@@ -9179,6 +9254,31 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "20-ea.10"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "20-ea.11",
+    "jvm_impl": "hotspot",
+    "md5": "069a7fa47451fc68d98cd504ba5f6f1c",
+    "md5_file": "sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "8e6177bc0852117a6c27794400ea95f08e561d52",
+    "sha1_file": "sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "4e175f5b8ebefb5584bc745f7d2a26d3e4bbffd0dfa39813832ab07ac1f165ec",
+    "sha256_file": "sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "d56ef100fb24bfb548c63326f69b93deec5a5c1cf86ac96154e564b59f8958a03847e7fcf7ac5c9448794d162ec61794ddfd52c22e1ae5ec58f43b50d0070116",
+    "sha512_file": "sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 48865110,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "20-ea.11"
   },
   {
     "architecture": "ppc64",
