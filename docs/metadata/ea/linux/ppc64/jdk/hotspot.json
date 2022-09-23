@@ -4258,6 +4258,31 @@
       "le"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.5-ea.6",
+    "jvm_impl": "hotspot",
+    "md5": "fed7ad557fbb4c5b016d8da71fa5dd69",
+    "md5_file": "sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "bfcbc585dfbce0f26dd71f77eab15bb59dabec24",
+    "sha1_file": "sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "4bf1bdfc2a2bd725ecd492aa8948670f70d739491eee222a140b3b6b0f997507",
+    "sha256_file": "sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "63ae6d7d909433b88a7177e5c5223c99afbea5581446f245930dcc1e535784d6bcb85ba14be7e6b4344aa2b610bbf333d6a3dc9a3887d876524e0268a94890d2",
+    "sha512_file": "sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 191705374,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.5+6/sapmachine-jdk-17.0.5-ea.6_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "17.0.5-ea.6"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jdk-18.0.2-ea.9_linux-ppc64le_bin.tar.gz",
     "image_type": "jdk",
     "java_version": "18.0.2-ea.9",
