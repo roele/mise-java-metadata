@@ -435,5 +435,28 @@
     "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36-RC1-beta/OpenJDK19U-jdk_s390x_linux_hotspot_19_36-RC1.tar.gz",
     "vendor": "temurin",
     "version": "19.0.0-beta+36.0.202208190932"
+  },
+  {
+    "architecture": "s390x",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz",
+    "image_type": "jdk",
+    "java_version": "19+36",
+    "jvm_impl": "hotspot",
+    "md5": "24f8d485a288cc2a9871b40caa71d80c",
+    "md5_file": "OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f1adbd0a343f2427c2e39ff5f6e81a58b5ea4428",
+    "sha1_file": "OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz.sha1",
+    "sha256": "a5452599d0172ff6a72ae92436042ee8ce0598583197d6ca5c3501a1b379eb0c",
+    "sha256_file": "OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz.sha256",
+    "sha512": "0d628986f29122c34112ef345268be203e020e394339ccdf837b3b34e1ecb4ca6d84c3bd8882bcd129f775abe92f68a29d388a389e1425cb42d2571c388a265c",
+    "sha512_file": "OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz.sha512",
+    "size": 187473153,
+    "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jdk_s390x_linux_hotspot_19_36.tar.gz",
+    "vendor": "temurin",
+    "version": "19.0.0+36"
   }
 ]
