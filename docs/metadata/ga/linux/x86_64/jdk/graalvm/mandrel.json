@@ -757,5 +757,28 @@
     "url": "https://github.com/graalvm/mandrel/releases/download/mandrel-22.2.0.0-Final/mandrel-java17-linux-amd64-22.2.0.0-Final.tar.gz",
     "vendor": "mandrel",
     "version": "22.2.0.0-Final+java17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17",
+    "jvm_impl": "graalvm",
+    "md5": "a2346971602c2185dc1c01e02f777442",
+    "md5_file": "mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c44b0c3b387bb9a7fe16acf0f85c56363203b3f4",
+    "sha1_file": "mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz.sha1",
+    "sha256": "72ba94f4ca8e48eaa905433a6d0cfff5e7a657fb4f5419e86d7b8f5332ed0345",
+    "sha256_file": "mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz.sha256",
+    "sha512": "e1a5a4ed437119d9f30d02ea98f446b87cc30ed8ea5d4aabdc31a750bda32cd51d1dbb333582b40b8d58eb364efbc167d688f33d55f6ce89ee4afdb6866239ad",
+    "sha512_file": "mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz.sha512",
+    "size": 226681193,
+    "url": "https://github.com/graalvm/mandrel/releases/download/mandrel-22.3.0.1-Final/mandrel-java17-linux-amd64-22.3.0.1-Final.tar.gz",
+    "vendor": "mandrel",
+    "version": "22.3.0.1-Final+java17"
   }
 ]
