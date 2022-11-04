@@ -11076,6 +11076,29 @@
   },
   {
     "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip",
+    "image_type": "jre",
+    "java_version": "1.8.0_352-b08",
+    "jvm_impl": "hotspot",
+    "md5": "d0c2a155dbee228ffe5f5da24b92828c",
+    "md5_file": "OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "6dbb67ceebb37682cd4befaa25ac9851dd6be583",
+    "sha1_file": "OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip.sha1",
+    "sha256": "072986277701a967e15bf4c4be0c15a69fda00ab973e5e69e62b0f078d6614a4",
+    "sha256_file": "OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip.sha256",
+    "sha512": "af179583113d27d5b0b1d3a49b1750be736462d80fe8fd3c4144cca3d04e5c1652a452282137124377f259344fc6e46784cfbd39040384e6515ce1361537f7b6",
+    "sha512_file": "OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip.sha512",
+    "size": 39306391,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip",
+    "vendor": "temurin",
+    "version": "8.0.352+8"
+  },
+  {
+    "architecture": "x86_64",
     "features": [
       "javafx"
     ],
