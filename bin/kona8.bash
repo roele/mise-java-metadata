@@ -54,7 +54,8 @@ function download {
 			EXT="tar.gz"
 		else
 			# shellcheck disable=SC2016
-			regex='s/^TencentKona([0-9b.]{1,})_jdk_(linux|macosx)-(aarch64|x86_64)_(8u[0-9]+)(_(notarized|signed))?\.(tar\.gz|zip)$/VERSION="$1" OS="$2" ARCH="$3" JAVA_VERSION="$4" FEATURES="$6" EXT="$7"/g'
+			regex='s/^TencentKona([0-9b.]{1,})[-_]jdk[-_](fiber)?[-_]?(linux|macosx|windows)[-_](aarch64|x86_64)[-_](8u[0-9]+
+)(?:_(notarized|signed))?\.(tar\.gz|tgz|zip)$/VERSION="$1" OS="$3" ARCH="$4" JAVA_VERSION="$5" FEATURES="$2 $6" EXT="$7"/g'
 		fi
 
 
