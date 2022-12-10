@@ -48,7 +48,7 @@ function download {
 		if [[ "${filename}" = TencentKona-* ]];
 		then
 			# shellcheck disable=SC2016
-			regex='s/^TencentKona-([0-9b.]{1,})[-_]jdk_(linux|macosx|windows)-(aarch64|x86_64)_(8u[0-9]+)(_(notarized|signed))?\.(tar\.gz|zip)$/VERSION="$1" OS="$2" ARCH="$3" JAVA_VERSION="$1" EXT="$6"/g'
+			regex='s/^TencentKona-([0-9b.]{1,})[-_]jdk_(linux|macosx|windows)-(aarch64|x86_64).*\.(tar\.gz|zip)$/VERSION="$1" OS="$2" ARCH="$3" JAVA_VERSION="$1" EXT="$4"/g'
 		else
 			# shellcheck disable=SC2016
 			regex='s/^TencentKona([0-9b.]+)\.tgz$/VERSION="$1" JAVA_VERSION="$1"/g'
