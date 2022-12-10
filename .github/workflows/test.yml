@@ -11,9 +11,8 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
     - uses: actions/checkout@v3
-    - uses: mstksg/get-package@v1
-      with:
-        apt-get: shellcheck
+    - name: Install dependencies
+      run: sudo apt -y install shellcheck
     - name: Run ShellCheck
       run: |
         shellcheck -V

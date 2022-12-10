@@ -8,9 +8,8 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
     - uses: actions/checkout@v3
-    - uses: mstksg/get-package@v1
-      with:
-        apt-get: jq curl
+    - name: Install dependencies
+      run: sudo apt -y install jq curl
     - name: Run validation script
       run: "git rm $(find docs/metadata/vendor -name '*.json' ! -name all.json | xargs -t -P 8 -I % -n 1 bin/validate.bash %) || true"
     - name: Commit files
