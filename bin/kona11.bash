@@ -48,7 +48,7 @@ function download {
 		if [[ "${filename}" = TencentKona-* ]];
 		then
 			# shellcheck disable=SC2016
-			regex='s/^TencentKona-([0-9b.]{1,})[-_]jdk_(linux|macosx|windows)-(aarch64|x86_64).*\.(tar\.gz|zip)$/VERSION="$1" OS="$2" ARCH="$3" JAVA_VERSION="$1" EXT="$4"/g'
+			regex='s/^TencentKona-([0-9b.]{1,})[-_]jdk_(fiber)?_?(linux|macosx|windows)-(aarch64|x86_64).*\.(tar\.gz|zip)$/VERSION="$1" OS="$3" ARCH="$4" JAVA_VERSION="$1" FEATURES="$2" EXT="$5"/g'
 		else
 			# shellcheck disable=SC2016
 			regex='s/^TencentKona([0-9b.]+)\.tgz$/VERSION="$1" JAVA_VERSION="$1"/g'
@@ -71,7 +71,7 @@ function download {
 		json="$(metadata_json \
 			"${VENDOR}" \
 			"${filename}" \
-			"$(normalize_release_type "${RELEASE_TYPE}")" \
+			"${RELEASE_TYPE}" \
 			"${VERSION}" \
 			"${JAVA_VERSION}" \
 			'hotspot' \
