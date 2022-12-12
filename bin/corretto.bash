@@ -119,6 +119,9 @@ function download {
 		if check_url_exists "https://corretto.aws/downloads/resources/${version}/${filename}"
 		then
 			url="https://corretto.aws/downloads/resources/${version}/${filename}"
+		elif check_url_exists "https://d3pxv6yz143wms.cloudfront.net/${version}/${filename}"
+		then
+			url="https://d3pxv6yz143wms.cloudfront.net/${version}/${filename}"
 		else
 			echo "Couldn't find download URL for ${filename}"
 			return 1
