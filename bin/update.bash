@@ -47,9 +47,9 @@ vendors=(
 	"$(cmd 'trava8')"
 	"$(cmd 'trava11')"
 	"$(cmd 'microsoft')"
-#	"$(cmd 'kona8')"
-#	"$(cmd 'kona11')"
-#	"$(cmd 'kona17')"
+	"$(cmd 'kona8')"
+	"$(cmd 'kona11')"
+	"$(cmd 'kona17')"
 )
 
 printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ${CHECKSUM_DIR} ; echo \"EXIT CODE: \$?\""
