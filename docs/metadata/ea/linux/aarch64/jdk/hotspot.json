@@ -10900,5 +10900,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu21.0.33-ea-jdk21.0.0-ea.10-linux_aarch64.tar.gz",
     "vendor": "zulu",
     "version": "21.0.33"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.0-ea.11",
+    "jvm_impl": "hotspot",
+    "md5": "6b83939dc566b59df943c0e4d7f214bb",
+    "md5_file": "zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "49b4b49dea3fa11fcd9dd1723d01bbdc0167fa60",
+    "sha1_file": "zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz.sha1",
+    "sha256": "a7834bf90feef5cf4beb4f13ba01ec61ae9625279be78ca110bb301be84baf25",
+    "sha256_file": "zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz.sha256",
+    "sha512": "7e21d9bbb6e94456df8a60bb9a87d9805ac66a4867bffb145faaf9df116e7bd4cfcff426e4c9263fec836d64c7fc191de5d419f77c85436dad395fdcca148dc1",
+    "sha512_file": "zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz.sha512",
+    "size": 199344584,
+    "url": "https://static.azul.com/zulu/bin/zulu21.0.35-ea-jdk21.0.0-ea.11-linux_aarch64.tar.gz",
+    "vendor": "zulu",
+    "version": "21.0.35"
   }
 ]
