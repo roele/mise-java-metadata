@@ -37,11 +37,13 @@ INDEX_ARCHIVE="${TEMP_DIR}/index-archive.html"
 INDEX_18="${TEMP_DIR}/index-18.html"
 INDEX_19="${TEMP_DIR}/index-19.html"
 INDEX_20="${TEMP_DIR}/index-20.html"
+INDEX_21="${TEMP_DIR}/index-21.html"
 
 download_file 'http://jdk.java.net/archive/' "${INDEX_ARCHIVE}"
 download_file 'http://jdk.java.net/18/' "${INDEX_18}"
 download_file 'http://jdk.java.net/19/' "${INDEX_19}"
 download_file 'http://jdk.java.net/20/' "${INDEX_20}"
+download_file 'http://jdk.java.net/21/' "${INDEX_21}"
 
 URLS=$(grep -h -o -E 'href="https://download.java.net/java/.*/[^/]*\.(tar\.gz|zip)"' "${INDEX_ARCHIVE}" "${INDEX_18}" "${INDEX_19}" "${INDEX_20}" | perl -pe 's/href="(.+)"/$1/g' | sort -V)
 for URL in ${URLS}
