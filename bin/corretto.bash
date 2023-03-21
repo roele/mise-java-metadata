@@ -50,7 +50,7 @@ function get_archs_for_os {
 	case "${1}" in
 	'linux') echo 'x86' 'x64' 'aarch64' 'armv7'
 		;;
-	'alpine-linux') echo 'x64'
+	'alpine-linux') echo 'x64' 'aarch64'
 		;;
 	'macosx') echo 'x64' 'aarch64'
 		;;
@@ -166,9 +166,18 @@ download_github_releases 'corretto' 'corretto-11' "${TEMP_DIR}/releases-corretto
 download_github_releases 'corretto' 'corretto-17' "${TEMP_DIR}/releases-corretto-17.json"
 download_github_releases 'corretto' 'corretto-18' "${TEMP_DIR}/releases-corretto-18.json"
 download_github_releases 'corretto' 'corretto-19' "${TEMP_DIR}/releases-corretto-19.json"
+download_github_releases 'corretto' 'corretto-20' "${TEMP_DIR}/releases-corretto-20.json"
 download_github_releases 'corretto' 'corretto-jdk' "${TEMP_DIR}/releases-corretto-jdk.json"
 
-jq -s 'add' "${TEMP_DIR}/releases-corretto-8.json" "${TEMP_DIR}/releases-corretto-11.json" "${TEMP_DIR}/releases-corretto-17.json" "${TEMP_DIR}/releases-corretto-18.json" "${TEMP_DIR}/releases-corretto-19.json" "${TEMP_DIR}/releases-corretto-jdk.json" > "${TEMP_DIR}/releases-corretto.json"
+jq -s 'add' \
+	"${TEMP_DIR}/releases-corretto-8.json" \
+	"${TEMP_DIR}/releases-corretto-11.json" \
+	"${TEMP_DIR}/releases-corretto-17.json" \
+	"${TEMP_DIR}/releases-corretto-18.json" \
+	"${TEMP_DIR}/releases-corretto-19.json" \
+	"${TEMP_DIR}/releases-corretto-20.json" \
+	"${TEMP_DIR}/releases-corretto-jdk.json" \
+	> "${TEMP_DIR}/releases-corretto.json"
 
 for CORRETTO_VERSION in $(jq -r '.[].tag_name' "${TEMP_DIR}/releases-corretto.json" | sort -V)
 do
