@@ -35,7 +35,7 @@ function download {
 	local asset_name="${2}"
 	local filename="${asset_name}"
 
-	local url="https://github.com/alibaba/dragonwell11/releases/download/${tag_name}/${asset_name}"
+	local url="https://github.com/dragonwell-project/dragonwell11/releases/download/${tag_name}/${asset_name}"
 	local metadata_file="${METADATA_DIR}/${filename}.json"
 	local archive="${TEMP_DIR}/${filename}"
 
@@ -126,7 +126,7 @@ function download {
 }
 
 RELEASE_FILE="${TEMP_DIR}/releases-${VENDOR}-11.json"
-download_github_releases 'alibaba' 'dragonwell11' "${RELEASE_FILE}"
+download_github_releases 'dragonwell-project' 'dragonwell11' "${RELEASE_FILE}"
 
 versions=$(jq -r '.[].tag_name' "${RELEASE_FILE}" | sort -V)
 for version in ${versions}
