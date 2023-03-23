@@ -481,5 +481,28 @@
     "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jdk_aarch64_mac_hotspot_19_36.tar.gz",
     "vendor": "temurin",
     "version": "19.0.0+36"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz",
+    "image_type": "jdk",
+    "java_version": "20+36",
+    "jvm_impl": "hotspot",
+    "md5": "3f4f2db0f80506cf49072a867b042c3d",
+    "md5_file": "OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "164e8b0278b54702ab8c42c907e4c7820881bf3a",
+    "sha1_file": "OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz.sha1",
+    "sha256": "1cd48a8b1070826a52e4895e9a406a3b2ccd207f863588c25c29fb96cdccc7c4",
+    "sha256_file": "OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz.sha256",
+    "sha512": "904130cb78f477593486dcbc3450b5442a87610f333768c062409e77c5bd0be4635eb507462468741e6ded90d7c6b9d34acf38b6edff6a6f66912092f5df7260",
+    "sha512_file": "OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz.sha512",
+    "size": 186401798,
+    "url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20%2B36/OpenJDK20U-jdk_aarch64_mac_hotspot_20_36.tar.gz",
+    "vendor": "temurin",
+    "version": "20.0.0+36"
   }
 ]
