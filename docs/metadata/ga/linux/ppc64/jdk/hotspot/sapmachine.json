@@ -195,6 +195,31 @@
   },
   {
     "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.19",
+    "jvm_impl": "hotspot",
+    "md5": "000f6ef41c2c55c371bab1d275d85716",
+    "md5_file": "sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3ad30c01bbb2a2c4ce7a885c7a365c83eeeb9bd4",
+    "sha1_file": "sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "a7596b54fe1e9f2cbab0136a9476286693cecfa725715c501b300a7540afc987",
+    "sha256_file": "sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "3452ebfc849d178cdfb08ffc48788c7532741bcc10453be72eb83f08ed242f2aafdfb89e689a96705eeb0eb23befe6f0acaeed2cfa43604b1de4c56df05cf34f",
+    "sha512_file": "sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 178986890,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.19/sapmachine-jdk-11.0.19_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "11.0.19"
+  },
+  {
+    "architecture": "ppc64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "sapmachine-jdk-11.0.6.0.1_linux-ppc64_bin.tar.gz",
@@ -717,6 +742,31 @@
       "le"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.7",
+    "jvm_impl": "hotspot",
+    "md5": "5559eb04449e2c46de7b20c4cb208de8",
+    "md5_file": "sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6283bc03a678b88db90ddf81012607b7e4136b82",
+    "sha1_file": "sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "c498452ad40300e90abc7c42f1990b2434f45f6cfd4972368f448746125871c3",
+    "sha256_file": "sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "6c6c8db71c881781a497955fb96dc321cf8ac643156560dcbd6ab50be5a274f01c3e269d88f52b5e4c8a184c3d1b67d52512b56f8467a92a2891ccc49468bdfb",
+    "sha512_file": "sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 192692338,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.7/sapmachine-jdk-17.0.7_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "17.0.7"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jdk-18.0.2.1_linux-ppc64le_bin.tar.gz",
     "image_type": "jdk",
     "java_version": "18.0.2.1",
@@ -885,6 +935,31 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "20-snapshot.35"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "20.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "cd19a43aa16f7c911d006bd21cf5c096",
+    "md5_file": "sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9cfb2f2a0e0cb90599515ab6d62d464282a2fde1",
+    "sha1_file": "sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "eae061ad131bcfd6cb81160a00a044ee4c05216a849005cfff8186ae5bb1c517",
+    "sha256_file": "sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "5fc13dd490b3244cc8cb6eb2d820892fed8c19d23e5fc4280e8a355ab4b6510d02236ddc77afd767f0fb9a48612effe4383300fa4d5a0e18f7178629e2219bb4",
+    "sha512_file": "sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 201715212,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20.0.1/sapmachine-jdk-20.0.1_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "20.0.1"
   },
   {
     "architecture": "ppc64",

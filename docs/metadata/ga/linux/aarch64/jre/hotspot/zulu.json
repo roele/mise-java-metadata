@@ -688,5 +688,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu20.28.85-ca-jre20.0.0-linux_aarch64.tar.gz",
     "vendor": "zulu",
     "version": "20.28.85"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz",
+    "image_type": "jre",
+    "java_version": "20.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "499d0c3199371dbe92ca48536beb7330",
+    "md5_file": "zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9101cab1d6c4defbabd6fef3f91febbc72f60cdb",
+    "sha1_file": "zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz.sha1",
+    "sha256": "7c017b97b4d9c89ead2e68cbfe599a52c669ffb73a73d10c70ed85d1c564ffe0",
+    "sha256_file": "zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz.sha256",
+    "sha512": "7297ea5bf06f355aa5404681cf5e2ecb0df0bf055b656c495f6423fa6943163819aa2dbc4a7f425415ef274d5ea16d160aa62cbf28421634186f5a731ba60eb3",
+    "sha512_file": "zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz.sha512",
+    "size": 41978568,
+    "url": "https://static.azul.com/zulu/bin/zulu20.30.11-ca-jre20.0.1-linux_aarch64.tar.gz",
+    "vendor": "zulu",
+    "version": "20.30.11"
   }
 ]
