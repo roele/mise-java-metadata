@@ -803,5 +803,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_aarch64_linux_hotspot_8u362b09.tar.gz",
     "vendor": "temurin",
     "version": "8.0.362+9"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_372-b07",
+    "jvm_impl": "hotspot",
+    "md5": "ee9b31bc08fc80bc783a5b93e0df46da",
+    "md5_file": "OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "83f616e7c85cf445f31982317f2421fc285b3620",
+    "sha1_file": "OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz.sha1",
+    "sha256": "f8e440273c8feb3fcfaca88ba18fec291deae18a548adde8a37cd1db08107b95",
+    "sha256_file": "OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz.sha256",
+    "sha512": "904789b03377a9c5a0c9e5b6ec21eb8ec11e0da65c157438aadddab04be028e6b31cebac0459fdb4ac432fd143c2e637b51c6626043e7ba618994e34d8bfae5b",
+    "sha512_file": "OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz.sha512",
+    "size": 40361204,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jre_aarch64_linux_hotspot_8u372b07.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.372+7"
   }
 ]
