@@ -2233,6 +2233,31 @@
   {
     "architecture": "x86_64",
     "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.19",
+    "jvm_impl": "hotspot",
+    "md5": "82919e9b20bb4cc6a873e168f2094d08",
+    "md5_file": "zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "12f92c32f80d67eec0a51a208c6d7dc66db57d74",
+    "sha1_file": "zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz.sha1",
+    "sha256": "1c1340cf74c3deca36b0d68e23c7d5151cdfab0798e1c8a228b84c43d45c43ca",
+    "sha256_file": "zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz.sha256",
+    "sha512": "c0bff11afee92834eaa5f84d2d15ffb7b9ea0424194d79f33c938cf68a1bda7161e417e456d8ed192382d930f8e0abc0c86234f31e8c4c32296e6072af6f4b45",
+    "sha512_file": "zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz.sha512",
+    "size": 296544561,
+    "url": "https://static.azul.com/zulu/bin/zulu11.64.19-ca-fx-jdk11.0.19-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "11.64.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
       "musl"
     ],
     "file_type": "tar.gz",
@@ -6227,6 +6252,31 @@
     "url": "https://static.azul.com/zulu/bin/zulu17.40.19-ca-jdk17.0.6-linux_x64.zip",
     "vendor": "zulu",
     "version": "17.40.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.7",
+    "jvm_impl": "hotspot",
+    "md5": "52f6a1e92eab839999e7ddf443ac54d8",
+    "md5_file": "zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c74e3cc0d1a87b1ccf4a48e49770be656a666819",
+    "sha1_file": "zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz.sha1",
+    "sha256": "8098205caf407020203da278798f51fb1e99b60d49f9d4e6dbf29732674e26a2",
+    "sha256_file": "zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz.sha256",
+    "sha512": "871016acadea15356257f504f09f6b24dec8773b95ae39f260da7cbcdd5b885e95d09f0c12d9e8721f22c0efd76ad2c3f1eccfc4ced7be033f1fefa1caeb05d6",
+    "sha512_file": "zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz.sha512",
+    "size": 295016452,
+    "url": "https://static.azul.com/zulu/bin/zulu17.42.19-ca-fx-jdk17.0.7-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "17.42.19"
   },
   {
     "architecture": "x86_64",
