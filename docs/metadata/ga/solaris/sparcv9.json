@@ -5042,5 +5042,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu8.68.0.21-ca-jdk8.0.362-solaris_sparcv9.zip",
     "vendor": "zulu",
     "version": "8.68.0.21"
+  },
+  {
+    "architecture": "sparcv9",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip",
+    "image_type": "jdk",
+    "java_version": "8.0.372",
+    "jvm_impl": "hotspot",
+    "md5": "167e47347b9e10e95604c95a41a02190",
+    "md5_file": "zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "639a9ccb2dd47edef951a7ba6807837d850a83bc",
+    "sha1_file": "zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip.sha1",
+    "sha256": "cb69af033be97a949a2f2045637d9c751687837c85a0c133a8d57aa9a6f83316",
+    "sha256_file": "zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip.sha256",
+    "sha512": "7b0c7fcf35d43125cf7e3a41e0979f5786925615f0427ba10ed857a5a2d88293a94175b53312e18bde1b4cb76784e9a4ed1e73dab4c910835d6ebeb0ce5ba52a",
+    "sha512_file": "zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip.sha512",
+    "size": 116854188,
+    "url": "https://static.azul.com/zulu/bin/zulu8.70.0.23-ca-jdk8.0.372-solaris_sparcv9.zip",
+    "vendor": "zulu",
+    "version": "8.70.0.23"
   }
 ]
