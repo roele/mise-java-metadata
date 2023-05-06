@@ -2899,6 +2899,29 @@
   },
   {
     "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.19.b1",
+    "jvm_impl": "hotspot",
+    "md5": "99b7698e8e7a4a16d7536b24e0bb20d2",
+    "md5_file": "TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "970f99787f133069078e2251d85e717e3df62f7e",
+    "sha1_file": "TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz.sha1",
+    "sha256": "aab38a84c8fe0f7e41450815bdbf34777b43ccf4744ec238abd07ab7ba78f067",
+    "sha256_file": "TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz.sha256",
+    "sha512": "d04bc3472dece07a1075bbebc5e8de278b8f39bca770e67caa39c62e01a4adfddf67691f4f4c7316f6b10966878f12a4ba2456eb193863dd43b929257b03c57a",
+    "sha512_file": "TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz.sha512",
+    "size": 190797113,
+    "url": "https://github.com/Tencent/TencentKona-11/releases/download/kona11.0.19/TencentKona-11.0.19.b1_jdk_macosx-aarch64_notarized.tar.gz",
+    "vendor": "kona",
+    "version": "11.0.19.b1"
+  },
+  {
+    "architecture": "aarch64",
     "features": [
       "notarized"
     ],
@@ -2996,6 +3019,31 @@
     "url": "https://github.com/Tencent/TencentKona-17/releases/download/TencentKona-17.0.6/TencentKona-17.0.6.b1_jdk_macosx-aarch64_notarized.tar.gz",
     "vendor": "kona",
     "version": "17.0.6.b1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "notarized"
+    ],
+    "file_type": "tar.gz",
+    "filename": "TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.7.b1",
+    "jvm_impl": "hotspot",
+    "md5": "24e455c50807e1f51387043c68722b60",
+    "md5_file": "TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "d60e926ff1c347ac9cb763c9daccf1970ade5ed0",
+    "sha1_file": "TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz.sha1",
+    "sha256": "e64618a46fb90751276452b8da4a22a876ce7b2e0e11776a54edd4c46118ec35",
+    "sha256_file": "TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz.sha256",
+    "sha512": "41663aaf0433e774bdb692adf345c7d3a784cd52ded2768e9626138fb55a779b473d54e4a20909cb717e5bab3754d8a4fae61facc103770fd35bd0b07ea74598",
+    "sha512_file": "TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz.sha512",
+    "size": 191217918,
+    "url": "https://github.com/Tencent/TencentKona-17/releases/download/TencentKona-17.0.7/TencentKona-17.0.7.b1_jdk_macosx-aarch64_notarized.tar.gz",
+    "vendor": "kona",
+    "version": "17.0.7.b1"
   },
   {
     "architecture": "aarch64",
