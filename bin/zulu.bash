@@ -23,7 +23,7 @@ ensure_directory "${CHECKSUM_DIR}"
 
 function normalize_release_type {
 	case "${1}" in
-	"ca"|"ca-fx"|"") echo 'ga'
+	"ca"|"ca-fx"|"ca-crac"|"") echo 'ga'
 		;;
 	"ea") echo 'ea'
 		;;
@@ -40,7 +40,11 @@ function normalize_features {
 	then
 		features+=("javafx")
 	fi
-	if [[ "${2}" == "musl_x64" ]]
+	if [[ "${1}" == "ca-crac" ]]
+	then
+		features+=("crac")
+	fi
+	if [[ "${2}" == "musl_x64" ]] || [[ "${2}" == "musl_aarch64" ]]
 	then
 		features+=("musl")
 	fi
@@ -48,12 +52,12 @@ function normalize_features {
 }
 
 # shellcheck disable=SC2016
-REGEX='s/^zulu([0-9+_.]{2,})-(?:(ca-fx-dbg|ca-fx|ca-hl|ca-dbg|ea-cp3|ca|ea|dbg|oem)-)?(jdk|jre)(.*)-(linux|macosx|win|solaris)_(musl_aarch64|musl_x64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(.*)$/VERSION="$1" RELEASE_TYPE="$2" IMAGE_TYPE="$3" JAVA_VERSION="$4" OS="$5" ARCH="$6" ARCHIVE="$7"/g'
+REGEX='s/^zulu([0-9+_.]{2,})-(?:(ca-crac|ca-fx-dbg|ca-fx|ca-hl|ca-dbg|ea-cp3|ca|ea|dbg|oem)-)?(jdk|jre)(.*)-(linux|macosx|win|solaris)_(musl_aarch64|musl_x64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(.*)$/VERSION="$1" RELEASE_TYPE="$2" IMAGE_TYPE="$3" JAVA_VERSION="$4" OS="$5" ARCH="$6" ARCHIVE="$7"/g'
 
 INDEX_FILE="${TEMP_DIR}/index.html"
 download_file 'https://static.azul.com/zulu/bin/' "${INDEX_FILE}"
 
-ZULU_FILES=$(grep -o -E '<a href="(zulu.+-(linux|macosx|win|solaris)_(musl_x64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(tar\.gz|zip|msi|dmg))">' "${INDEX_FILE}" | perl -pe 's/<a href="(.+)">/$1/g' | sort -V)
+ZULU_FILES=$(grep -o -E '<a href="(zulu.+-(linux|macosx|win|solaris)_(musl_x64|musl_aarch64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(tar\.gz|zip|msi|dmg))">' "${INDEX_FILE}" | perl -pe 's/<a href="(.+)">/$1/g' | sort -V)
 for ZULU_FILE in ${ZULU_FILES}
 do
 	METADATA_FILE="${METADATA_DIR}/${ZULU_FILE}.json"
@@ -83,6 +87,10 @@ do
 		fi
 
 		FEATURES="$(normalize_features "${RELEASE_TYPE}" "${ARCH}")"
+		if [[ "${ARCH}" = 'musl_aarch64' ]]
+		then
+			ARCH='aarch64'
+		fi
 		if [[ "${ARCH}" = 'musl_x64' ]]
 		then
 			ARCH='x64'
