@@ -42,7 +42,8 @@ function download {
 	if [[ -f "${metadata_file}" ]]
 	then
 		echo "Skipping ${filename}"
-	else
+	elif [[ "${filename}" =~ (tar\.gz|zip)$ ]]
+	then
 		download_file "${url}" "${archive}" || return 1
 
 		local regex
@@ -122,6 +123,8 @@ function download {
 
 		echo "${json}" > "${metadata_file}"
 		rm -f "${archive}"
+	else
+		echo "Skipping ${filename}"
 	fi
 }
 
