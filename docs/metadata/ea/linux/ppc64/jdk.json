@@ -1451,6 +1451,31 @@
   },
   {
     "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.20-ea.6",
+    "jvm_impl": "hotspot",
+    "md5": "66567b33304fda7933c5726e6dfc34bb",
+    "md5_file": "sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "432fe4bafca389b0fbe9f1aae69c4001ad15c660",
+    "sha1_file": "sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "7079c1d12fc229427dab6ddc5a9a37fcedd0df25e9d0e38274edb667f4587683",
+    "sha256_file": "sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "a8e7cb09ae729b5fcc29519173f67afc76ff493bb40682c30d01ab3815d1c7b10cb4625ae15f39987093c71391e016ef107394a08a0890f36875f067cafd6abf",
+    "sha512_file": "sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 179305758,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.20+6/sapmachine-jdk-11.0.20-ea.6_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "11.0.20-ea.6"
+  },
+  {
+    "architecture": "ppc64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "sapmachine-jdk-11.0.6-ea.10_linux-ppc64_bin.tar.gz",
