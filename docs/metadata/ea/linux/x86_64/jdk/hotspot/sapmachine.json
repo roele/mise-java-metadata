@@ -12882,5 +12882,53 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jdk-22-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "22-ea.1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22-ea.2",
+    "jvm_impl": "hotspot",
+    "md5": "9c53cd07b7041d6d8158c4fd159c19c7",
+    "md5_file": "sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "641d656b3c44691c4d0d52ec132d164c703acaca",
+    "sha1_file": "sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz.sha1",
+    "sha256": "746e9812d517f807d7abf85deec0cd2ccc8b68872ad3dd11c58f3fe0d744febb",
+    "sha256_file": "sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz.sha256",
+    "sha512": "81f81384aa5a3976da3bd9acef7144469627dcb78cfdab31f6f9ae02011cd4fb087f2108c703b42a5342a1de608399a420ce850c8a4fa7e71cba62044a04e276",
+    "sha512_file": "sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz.sha512",
+    "size": 209711679,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jdk-22-ea.2_linux-x64-musl_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "22-ea.2"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22-ea.2",
+    "jvm_impl": "hotspot",
+    "md5": "96a510b7c254adcb639b5679279062cb",
+    "md5_file": "sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d77fecb5cd3928ae27195d6ee9fd35356071856d",
+    "sha1_file": "sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz.sha1",
+    "sha256": "02415da41715369afa7bfd2aeb108f6d8dd439e8dcf52ad36467672d25db2060",
+    "sha256_file": "sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz.sha256",
+    "sha512": "9f2575fb3b3acce5af65241234861f66bb6e2183c2fd17e7b4479d86c112c034c8e4ab93a37a559f3ed2e3de7980cf4fe62becb9141f40e05db572d1156b4945",
+    "sha512_file": "sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz.sha512",
+    "size": 208162986,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jdk-22-ea.2_linux-x64_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "22-ea.2"
   }
 ]
