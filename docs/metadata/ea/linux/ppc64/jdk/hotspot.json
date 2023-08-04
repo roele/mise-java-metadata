@@ -1501,6 +1501,31 @@
   },
   {
     "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.21-ea.1",
+    "jvm_impl": "hotspot",
+    "md5": "47148736c0aded40bb82780f290fde6d",
+    "md5_file": "sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "38ab8592a137b3b5064424e0699caf533109a4ce",
+    "sha1_file": "sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "2219ec733ed690b82aff07947871fe4c0c662bacb8a31b32dcb4b50cdf19d374",
+    "sha256_file": "sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "02ecb96f34c10a08f4a32ada4f6746e5fa82776525f233cd17a0ce40970867d9ae68c63d6da4c9128a8b7b9a2b76e516bd5255e296385fd72809e7193304ae2e",
+    "sha512_file": "sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 179412442,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.21+1/sapmachine-jdk-11.0.21-ea.1_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "11.0.21-ea.1"
+  },
+  {
+    "architecture": "ppc64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "sapmachine-jdk-11.0.6-ea.10_linux-ppc64_bin.tar.gz",
