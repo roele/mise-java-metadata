@@ -40557,5 +40557,53 @@
     "url": "https://static.azul.com/zulu/bin/zulu22.0.25-ea-jdk22.0.0-ea.8-linux_x64.tar.gz",
     "vendor": "zulu",
     "version": "22.0.25"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.0-ea.9",
+    "jvm_impl": "hotspot",
+    "md5": "f08e0c2eac45c9c5424b69aecdd9f307",
+    "md5_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "8b87feb1fd041df30357eea0828207240bcd7c9d",
+    "sha1_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz.sha1",
+    "sha256": "d321fca3c8b9cab16473e7d0abf875962fa523ab758171a354b98c513f4125f0",
+    "sha256_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz.sha256",
+    "sha512": "c72e599df5ff27c6de498781c1cbd0a222aa8955c29a0701c71dc501de90e95d8d71ba1af058503aea36afbc2d967b5624303272e12114f5c278715d6ec9428c",
+    "sha512_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz.sha512",
+    "size": 214979617,
+    "url": "https://static.azul.com/zulu/bin/zulu22.0.27-ea-jdk22.0.0-ea.9-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "22.0.27"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.0-ea.9",
+    "jvm_impl": "hotspot",
+    "md5": "be22405cc40e29394e38764fe1231121",
+    "md5_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "5b19eb53a572e0b5d574a63e6c223d5bc060cde2",
+    "sha1_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz.sha1",
+    "sha256": "3f3a9451c1133279055e02ef63a5875a53e0a94e17301c47a8ca1ff15fe79ba6",
+    "sha256_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz.sha256",
+    "sha512": "d949c02476f74a4e8aeb77cc20f3537dc653cb4ab8358cac2b046629f6cd18ac21598d10afc11796334494cb3ff1143bf755562a9fa4002cf8dd0bed5c9f1fa0",
+    "sha512_file": "zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz.sha512",
+    "size": 213925595,
+    "url": "https://static.azul.com/zulu/bin/zulu22.0.27-ea-jdk22.0.0-ea.9-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "22.0.27"
   }
 ]
