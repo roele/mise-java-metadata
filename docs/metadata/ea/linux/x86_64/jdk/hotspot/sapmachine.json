@@ -7870,6 +7870,31 @@
   },
   {
     "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.9-ea.7",
+    "jvm_impl": "hotspot",
+    "md5": "7271baa7db3d2fb4eb8d7fa8dbbb7838",
+    "md5_file": "sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "73edb0792d6858a7e63c5228bb0d4add517f016c",
+    "sha1_file": "sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz.sha1",
+    "sha256": "1b20ae1531f13fc4d3c5e805b97206830e87168a0db87e865e94661fc062aa9b",
+    "sha256_file": "sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz.sha256",
+    "sha512": "61ca31683ff5ae153d9fe76f1b1a1d0f49e129ddb5790dbcf28e79e5f9a2c170aef5e6449ebead44970e80cbfd845affca309d41c17bc750af7a3b78323ac53f",
+    "sha512_file": "sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz.sha512",
+    "size": 193881027,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.9+7/sapmachine-jdk-17.0.9-ea.7_linux-x64-musl_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "17.0.9-ea.7"
+  },
+  {
+    "architecture": "x86_64",
     "features": [],
     "file_type": "tar.gz",
     "filename": "sapmachine-jdk-18-ea.10_linux-x64_bin.tar.gz",
