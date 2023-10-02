@@ -32075,6 +32075,31 @@
   },
   {
     "architecture": "x86_64",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.0",
+    "jvm_impl": "hotspot",
+    "md5": "cc2b6422c1b1786220653a8966fb9292",
+    "md5_file": "zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d45b1985fed086763f5d7e2fab71b02656aef914",
+    "sha1_file": "zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz.sha1",
+    "sha256": "09d147410fc6d17c243d90950667939c65650bb5d57a2c9280ef018aa07d1301",
+    "sha256_file": "zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz.sha256",
+    "sha512": "193cbdc77c5224f940b8e97a481c2d082adfff60856073579d0cd71b0a73bb5ac165213376ebcf90d4dac05f52fb3eb56c43f14b04ebe5514d8638740c667dfb",
+    "sha512_file": "zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz.sha512",
+    "size": 55434179,
+    "url": "https://static.azul.com/zulu/bin/zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "21.28.89"
+  },
+  {
+    "architecture": "x86_64",
     "features": [],
     "file_type": "zip",
     "filename": "zulu7.6.0.7-ca-hl-jre7.0.65-linux_x64.zip",
