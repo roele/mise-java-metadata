@@ -1884,5 +1884,28 @@
     "url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.0.1.2-Final/mandrel-java20-linux-aarch64-23.0.1.2-Final.tar.gz",
     "vendor": "mandrel",
     "version": "23.0.1.2-Final+java20"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "graalvm",
+    "md5": "90fff444afcfeec4553bf9f7e72f6965",
+    "md5_file": "mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "deeb08d1b2bb624eec8e0f66c5de19ae5ef10185",
+    "sha1_file": "mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz.sha1",
+    "sha256": "883b0505d721355864a7de1d32b4198c20bf41c43d93f3f2e5d0fda78e0c36bc",
+    "sha256_file": "mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz.sha256",
+    "sha512": "b45c5c29f2763e8ed91c1250ef02bef73386d8560840a2f915c7b14c542f0683ef21c7b33d4858e547425b80d581e8e929dcb279f565b4768084d21c341c1dc7",
+    "sha512_file": "mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz.sha512",
+    "size": 262305215,
+    "url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.0.0-Final/mandrel-java21-linux-aarch64-23.1.0.0-Final.tar.gz",
+    "vendor": "mandrel",
+    "version": "23.1.0.0-Final+java21"
   }
 ]
