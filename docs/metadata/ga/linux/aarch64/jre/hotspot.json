@@ -20289,6 +20289,29 @@
   },
   {
     "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz",
+    "image_type": "jre",
+    "java_version": "8.0.392",
+    "jvm_impl": "hotspot",
+    "md5": "8dc5552f9e97a3d76c85b91f9e11f932",
+    "md5_file": "zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "735e4370571f4e3e616d79b004fb06872421d43d",
+    "sha1_file": "zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz.sha1",
+    "sha256": "b3961f270ad46537698cc5781acfaed5bdff0df95eef65edadb4ff4b3c8fab4c",
+    "sha256_file": "zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz.sha256",
+    "sha512": "4de439166705f00ab9a79121600057090e139328774738d1a417ec9e40b68a49c92cff5ba13493ed7524b977ab00308b6295b208d9516cdb32b2678b60855d68",
+    "sha512_file": "zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz.sha512",
+    "size": 48944132,
+    "url": "https://static.azul.com/zulu/bin/zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz",
+    "vendor": "zulu",
+    "version": "8.74.0.17"
+  },
+  {
+    "architecture": "aarch64",
     "features": [
       "musl"
     ],
