@@ -159,5 +159,28 @@
     "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.1/graalvm-community-jdk-21.0.1_linux-aarch64_bin.tar.gz",
     "vendor": "graalvm-community",
     "version": "21.0.1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.2",
+    "jvm_impl": "graalvm",
+    "md5": "6d7b41b95b68e59e2a9804194a0023a1",
+    "md5_file": "graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bffa89f4fb06047786ba4bb1a36c93a0b97a6d2e",
+    "sha1_file": "graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "a34be691ce68f0acf4655c7c6c63a9a49ed276a11859d7224fd94fc2f657cd7a",
+    "sha256_file": "graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "e806e2565c1c6791ba6c32cdb0ce8261bb59390e5164d9256236b76d6aa45b67e89d1b36ab5dff1ea2472f90a6cf184b59a3c50df2f6d8f78c8abdd84427687f",
+    "sha512_file": "graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz.sha512",
+    "size": 279865596,
+    "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.2/graalvm-community-jdk-21.0.2_linux-aarch64_bin.tar.gz",
+    "vendor": "graalvm-community",
+    "version": "21.0.2"
   }
 ]

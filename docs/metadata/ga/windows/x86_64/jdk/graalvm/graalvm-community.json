@@ -159,5 +159,28 @@
     "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.1/graalvm-community-jdk-21.0.1_windows-x64_bin.zip",
     "vendor": "graalvm-community",
     "version": "21.0.1"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "graalvm-community-jdk-21.0.2_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.2",
+    "jvm_impl": "graalvm",
+    "md5": "9ca46523ef991040dadd205482aa040f",
+    "md5_file": "graalvm-community-jdk-21.0.2_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "723ab27d9cd4a7995ddc7844c6cd73f0b853d37a",
+    "sha1_file": "graalvm-community-jdk-21.0.2_windows-x64_bin.zip.sha1",
+    "sha256": "e17b7bead097bf372a5c75df17815b0a2f30b777a019d25eff7706b21421f7fa",
+    "sha256_file": "graalvm-community-jdk-21.0.2_windows-x64_bin.zip.sha256",
+    "sha512": "0a3f9fc5054f44d7326a4e62923290a0dd43af2a89141f3da76d70096412be06705c2c57bc60119d2ef75070bfbe2d6d13a97a95acb010adae428410f1897ed9",
+    "sha512_file": "graalvm-community-jdk-21.0.2_windows-x64_bin.zip.sha512",
+    "size": 294517795,
+    "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.2/graalvm-community-jdk-21.0.2_windows-x64_bin.zip",
+    "vendor": "graalvm-community",
+    "version": "21.0.2"
   }
 ]
