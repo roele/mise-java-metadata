@@ -21,5 +21,28 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.1/sapmachine-jdk-21.0.1-beta_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "21.0.1-beta"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.2",
+    "jvm_impl": "hotspot",
+    "md5": "04cc7b7088ed72d9930fda65dd3e879c",
+    "md5_file": "sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz.md5",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "895c2b8153847dceae5acf7ace9c49332f0868c1",
+    "sha1_file": "sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz.sha1",
+    "sha256": "dfa8c80057d1fad0b5162e4fd9f64579a2a31006766115d2522e49ec549a7d5c",
+    "sha256_file": "sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz.sha256",
+    "sha512": "43d86e6e02387c91ab64a7391dbd6d33b4d359680b2a588db22e51309e40fd1571c61bc2939e9a631325cb75479a72ecadb12627825b2602ebad08d94ab84618",
+    "sha512_file": "sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz.sha512",
+    "size": 186252710,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.2/sapmachine-jdk-21.0.2_aix-ppc64_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "21.0.2"
   }
 ]
