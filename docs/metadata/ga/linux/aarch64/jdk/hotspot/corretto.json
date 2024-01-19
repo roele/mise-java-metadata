@@ -2674,5 +2674,53 @@
     "url": "https://corretto.aws/downloads/resources/8.402.06.1/amazon-corretto-8.402.06.1-linux-aarch64.tar.gz",
     "vendor": "corretto",
     "version": "8.402.06.1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.402.08.1",
+    "jvm_impl": "hotspot",
+    "md5": "91e0183d5f6b8d3f6d6cfbd20930d346",
+    "md5_file": "amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4f558d4672af073b437565d5762a6d47169408a4",
+    "sha1_file": "amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz.sha1",
+    "sha256": "96b7cf592b34e2be1d60938d01c34b835cd85e5f6992dc3160e4f13f84c1d1fc",
+    "sha256_file": "amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz.sha256",
+    "sha512": "7165714a94857315071c28847ad4542f41cf391b7ce355387ad91a8b2d585f7d77b477e763e4b778b70a1e1b183df687d3437fff116a13ad31f44b2483b1bd1a",
+    "sha512_file": "amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz.sha512",
+    "size": 99590826,
+    "url": "https://corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-alpine-linux-aarch64.tar.gz",
+    "vendor": "corretto",
+    "version": "8.402.08.1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-8.402.08.1-linux-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.402.08.1",
+    "jvm_impl": "hotspot",
+    "md5": "061fc21a63bc0a1d0e78ffa855d0982d",
+    "md5_file": "amazon-corretto-8.402.08.1-linux-aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b6138d447580b9967552ffdde2dce626f2285a99",
+    "sha1_file": "amazon-corretto-8.402.08.1-linux-aarch64.tar.gz.sha1",
+    "sha256": "0175334bec3b5aaace0b600f0f67eb7770deb5e41abefdebaf7a01f47765e299",
+    "sha256_file": "amazon-corretto-8.402.08.1-linux-aarch64.tar.gz.sha256",
+    "sha512": "dd0545dd62a73851b9972c882d67f2e5845bd76fdbdda55869e2c5fa62a02ebb02f29efe6cfff5938f468d20abed8429b9e641a48d9bd8d1299aa92d3107ef35",
+    "sha512_file": "amazon-corretto-8.402.08.1-linux-aarch64.tar.gz.sha512",
+    "size": 101999273,
+    "url": "https://corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-linux-aarch64.tar.gz",
+    "vendor": "corretto",
+    "version": "8.402.08.1"
   }
 ]

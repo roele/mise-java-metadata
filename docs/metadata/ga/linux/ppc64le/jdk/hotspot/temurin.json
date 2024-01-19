@@ -1079,5 +1079,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u392b08.tar.gz",
     "vendor": "temurin",
     "version": "8.0.392+8"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_402-b06",
+    "jvm_impl": "hotspot",
+    "md5": "d2eb6acb3f6c48da0594dbad556632cd",
+    "md5_file": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "535d074c3e90350557b7cc12da6014b8afde12c8",
+    "sha1_file": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz.sha1",
+    "sha256": "64bc05cdffe827c84000177dca2eb4ff0a8ff0021889bb75abff3639d4f51838",
+    "sha256_file": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz.sha256",
+    "sha512": "e00df5042f7f813153689e33e7e64b23efbe2b64d8a11e60072f50f0ba38a61cf66214c535d75175f9ed99f67c22857ccc36d62c9c34962a7385e4b9c880c5d0",
+    "sha512_file": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz.sha512",
+    "size": 100525497,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u402b06.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.402+6"
   }
 ]
