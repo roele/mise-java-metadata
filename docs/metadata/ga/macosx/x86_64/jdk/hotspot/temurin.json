@@ -1171,5 +1171,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_mac_hotspot_8u392b08.tar.gz",
     "vendor": "temurin",
     "version": "8.0.392+8"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_402-b06",
+    "jvm_impl": "hotspot",
+    "md5": "495cabec45fabae85a2d5f89988692a2",
+    "md5_file": "OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "15b12307a19fc228a740099745b9f015f6040bd6",
+    "sha1_file": "OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz.sha1",
+    "sha256": "b08515f4ff1f2a465ad6058af7bd1206717bb024e63fee471a27bfda75bdf150",
+    "sha256_file": "OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz.sha256",
+    "sha512": "718a120a1c6a861cba900ad267f646177e1b56d9646068121341ae9ce52a9ae9a20afa173d85c4870d539105f94b75685108c019da84bd23e973ce80e2356841",
+    "sha512_file": "OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz.sha512",
+    "size": 109474943,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jdk_x64_mac_hotspot_8u402b06.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.402+6"
   }
 ]
