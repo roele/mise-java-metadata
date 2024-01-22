@@ -53,6 +53,10 @@ function normalize_features {
 	then
 		features+=("musl")
 	fi
+	if [[ "${1}" == "crac" ]]
+	then
+		features+=("crac")
+	fi
 	echo "${features[@]}"
 }
 
@@ -71,7 +75,7 @@ function download {
 		echo "Skipping ${tag_name} - ${filename}"
 	else
 		# shellcheck disable=SC2016
-		local regex='s/^bellsoft-(jre|jdk)(.+)-(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9)-?(fx|lite|full|musl|musl-lite)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
+		local regex='s/^bellsoft-(jre|jdk)(.+)-(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9)-?(fx|lite|full|musl|musl-lite|crac)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
 
 		local IMAGE_TYPE=""
 		local VERSION=""
@@ -118,7 +122,7 @@ versions=$(jq -r '.[].tag_name' "${TEMP_DIR}/releases-${VENDOR}.json" | sort -V)
 for version in ${versions}
 do
 	prerelease=$(jq -r  ".[] | select(.tag_name == \"${version}\") | .prerelease" "${TEMP_DIR}/releases-${VENDOR}.json")
-	assets=$(jq -r  ".[] | select(.tag_name == \"${version}\") | .assets[] | select(.content_type != \"text/plain\") | select (.name | endswith(\".txt\") | not) | select (.name | endswith(\".bom\") | not) | select (.name | endswith(\".json\") | not) | select (.name | endswith(\"-src.tar.gz\") | not) | select (.name | endswith(\"-src-full.tar.gz\") | not) | select (.name | contains(\"-full-nosign\") | not) | .name" "${TEMP_DIR}/releases-${VENDOR}.json")
+	assets=$(jq -r  ".[] | select(.tag_name == \"${version}\") | .assets[] | select(.content_type != \"text/plain\") | select (.name | endswith(\".txt\") | not) | select (.name | endswith(\".bom\") | not) | select (.name | endswith(\".json\") | not) | select (.name | endswith(\"-src.tar.gz\") | not) | select (.name | endswith(\"-src-full.tar.gz\") | not) | select (.name | endswith(\"-src-crac.tar.gz\") | not) | select (.name | contains(\"-full-nosign\") | not) | .name" "${TEMP_DIR}/releases-${VENDOR}.json")
 	for asset in ${assets}
 	do
 		download "${version}" "${asset}" "${prerelease}" || echo "Cannot download ${asset}"
