@@ -50,7 +50,7 @@ function download {
 		if [[ "${filename}" =~ ^Alibaba_Dragonwell_(Standard|Extended) ]]
 		then
 			# shellcheck disable=SC2016
-			regex='s/^Alibaba_Dragonwell_(?:Standard|Extended)_([0-9\+.]{1,}[^_]*)(?:_alpine)?[_-](?:(GA|Experimental|GA_Experimental|FP1)_)?(aarch64|x64)_(Linux|linux|Windows|windows)\.(.*)$/VERSION="$1" JAVA_VERSION="$1" RELEASE_TYPE="$2" OS="$3" ARCH="$4" EXT="$5"/g'
+			regex='s/^Alibaba_Dragonwell_(?:Standard|Extended)_([0-9\+.]{1,}[^_]*)(?:_alpine)?[_-](?:(GA|Experimental|GA_Experimental|FP1)_)?(aarch64|x64)_(Linux|linux|Windows|windows)\.(.*)$/VERSION="$1" JAVA_VERSION="$1" RELEASE_TYPE="$2" ARCH="$3" OS="$4" EXT="$5"/g'
 		elif [[ "${filename}" = Alibaba_Dragonwell* ]];
 		then
 			# shellcheck disable=SC2016
