@@ -1079,5 +1079,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_arm_linux_hotspot_8u392b08.tar.gz",
     "vendor": "temurin",
     "version": "8.0.392+8"
+  },
+  {
+    "architecture": "arm32",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_402-b06",
+    "jvm_impl": "hotspot",
+    "md5": "64345e234914a56bf327e141514adcda",
+    "md5_file": "OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3359cfe16655b0e1de7e11d547bf1a62e8fff7d6",
+    "sha1_file": "OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz.sha1",
+    "sha256": "271f28c7b3592b201b7434292c21d923f520af8ff1c090b6849cb946e34a6bdb",
+    "sha256_file": "OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz.sha256",
+    "sha512": "6595b35a5d883d17de56fcac638a4936397e01c2a132269ce66e325a8cb0fc6b437ab16062c1decaf5a93b6597e72034e2aef1ddbe5442f23575f31504a3767c",
+    "sha512_file": "OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz.sha512",
+    "size": 98319479,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jdk_arm_linux_hotspot_8u402b06.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.402+6"
   }
 ]
