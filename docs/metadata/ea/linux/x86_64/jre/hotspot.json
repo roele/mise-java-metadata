@@ -16748,5 +16748,53 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "23-ea.7"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "23-ea.8",
+    "jvm_impl": "hotspot",
+    "md5": "90d4874e4fec2f4e74f5009efcb74694",
+    "md5_file": "sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "05e05c04c47480fcaf1c8fc6c023f1b1e0a6d36a",
+    "sha1_file": "sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz.sha1",
+    "sha256": "01d6abfae5e927f51c3bd822c4425a545390d900659897bf866dd4bd935239b3",
+    "sha256_file": "sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz.sha256",
+    "sha512": "a307f01e8aa40f17d0830cec51b415fc735df85d3f4b53226ba8aa2593e08289f887e7e123215615454f7fabe9b919655ac8a0d91d8d8a7c39037c6cee86cb2f",
+    "sha512_file": "sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz.sha512",
+    "size": 53159920,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "23-ea.8"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "23-ea.8",
+    "jvm_impl": "hotspot",
+    "md5": "aff1b24992d72d1e06f146efa605be87",
+    "md5_file": "sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "c75d4336c601a7c63b918a821dc950ef825e576d",
+    "sha1_file": "sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz.sha1",
+    "sha256": "cd21430444bd737bda23900253815c2db56e4009c9253724fe8bc3a210ab5009",
+    "sha256_file": "sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz.sha256",
+    "sha512": "e1cec382412f413a76b23a62485395d223a71fcd69c660db5f804900621fcfc094ba06ee511ac205a87400889c6a00789e8275c4686206678f81e8e1bdab8286",
+    "sha512_file": "sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz.sha512",
+    "size": 52427293,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "23-ea.8"
   }
 ]
