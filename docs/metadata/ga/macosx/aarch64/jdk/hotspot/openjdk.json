@@ -412,5 +412,28 @@
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
     "version": "22"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-loom+2-48",
+    "jvm_impl": "hotspot",
+    "md5": "7a41e8f09d44a94d8dc502f82d2a7db1",
+    "md5_file": "openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "30c525ad4a6860330270c2f6c48e4319af4cf75a",
+    "sha1_file": "openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "e9c8c861cda1799d9364cee5f90f4844e919adc85b1ec5ee10cad3c1b1dc88e5",
+    "sha256_file": "openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "519269f2f7f012e0017e1e303b40d25aa0a7d697f3cf826ae239d75057aaad0d700532dd30459b32cac1f28a681088e6ccebfd26e6a397397e891a8ce0d23b82",
+    "sha512_file": "openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz.sha512",
+    "size": 196124359,
+    "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-loom+2-48"
   }
 ]
