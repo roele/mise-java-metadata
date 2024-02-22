@@ -42,6 +42,7 @@ vendors=(
 	"$(cmd 'oracle')"
 	"$(cmd 'oracle-graalvm')"
 	"$(cmd 'openjdk')"
+	"$(cmd 'openjdk-loom')"
 	"$(cmd 'openjdk-valhalla')"
 	"$(cmd 'java-se-ri')"
 	"$(cmd 'mandrel')"
