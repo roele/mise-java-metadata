@@ -86,4 +86,4 @@ do
 	done
 done
 
-jq -s -S . "${METADATA_DIR}"/graalvm-oracle-ea-*.json > "${METADATA_DIR}/all.json"
+jq -s -S . "${METADATA_DIR}"/graalvm-*.json > "${METADATA_DIR}/all.json"

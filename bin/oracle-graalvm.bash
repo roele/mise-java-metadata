@@ -88,7 +88,7 @@ function download_and_parse {
 				"ga" \
 				"${VERSION}" \
 				"${VERSION}" \
-				'hotspot' \
+				'graalvm' \
 				"$(normalize_os "${OS}")" \
 				"$(normalize_arch "${ARCH}")" \
 				"${ARCHIVE}" \
@@ -114,4 +114,4 @@ do
 	download_and_parse "$version"
 done
 
-jq -s -S . "${METADATA_DIR}"/graalvm-jdk-*.json > "${METADATA_DIR}/all.json"
+jq -s -S . "${METADATA_DIR}"/graalvm-*.json > "${METADATA_DIR}/all.json"
