@@ -25,7 +25,7 @@ function normalize_release_type {
 	case "${1}" in
 	"ca"|"ca-fx"|"ca-crac"|"") echo 'ga'
 		;;
-	"ea") echo 'ea'
+	"ea"|"beta") echo 'ea'
 		;;
 	"ca-dbg"|"ca-fx-dbg"|"dbg") echo 'debug'
 		;;
@@ -52,7 +52,7 @@ function normalize_features {
 }
 
 # shellcheck disable=SC2016
-REGEX='s/^zulu([0-9+_.]{2,})-(?:(ca-crac|ca-fx-dbg|ca-fx|ca-hl|ca-dbg|ea-cp3|ca|ea|dbg|oem)-)?(jdk|jre)(.*)-(linux|macosx|win|solaris)_(musl_aarch64|musl_x64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(.*)$/VERSION="$1" RELEASE_TYPE="$2" IMAGE_TYPE="$3" JAVA_VERSION="$4" OS="$5" ARCH="$6" ARCHIVE="$7"/g'
+REGEX='s/^zulu([0-9+_.]{2,})-(?:(ca-crac|ca-fx-dbg|ca-fx|ca-hl|ca-dbg|ea-cp3|ca|ea|dbg|oem|beta)-)?(jdk|jre)(.*)-(linux|macosx|win|solaris)_(musl_aarch64|musl_x64|x64|i686|aarch32hf|aarch32sf|aarch64|ppc64|sparcv9)\.(.*)$/VERSION="$1" RELEASE_TYPE="$2" IMAGE_TYPE="$3" JAVA_VERSION="$4" OS="$5" ARCH="$6" ARCHIVE="$7"/g'
 
 INDEX_FILE="${TEMP_DIR}/index.html"
 download_file 'https://static.azul.com/zulu/bin/' "${INDEX_FILE}"
