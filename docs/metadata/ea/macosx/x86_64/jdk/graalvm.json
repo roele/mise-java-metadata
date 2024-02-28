@@ -320,5 +320,28 @@
     "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-22.0.0-ea.05/graalvm-jdk-22.0.0-ea.05_macos-x64_bin.tar.gz",
     "vendor": "oracle-graalvm",
     "version": "22.0.0-ea.05"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.0-ea.06",
+    "jvm_impl": "graalvm",
+    "md5": "70723632427979f7377c132f94a718bb",
+    "md5_file": "graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "b32e3f2c2f33604cb38e92693282941afc71c27a",
+    "sha1_file": "graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz.sha1",
+    "sha256": "0a1d18799a5cfe3c46127e409b7579924b1f75c384e7935b6f610d575ae2eb8d",
+    "sha256_file": "graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz.sha256",
+    "sha512": "29547f6039a2ffeface01f95174a8a8731e87050a6d3474c68474d2d6e0f77c3e9903c10364845ab75ef08e1aa63aa00df482ed0aa443654a6f2c9dcd0e96e29",
+    "sha512_file": "graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz.sha512",
+    "size": 325019328,
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-22.0.0-ea.06/graalvm-jdk-22.0.0-ea.06_macos-x64_bin.tar.gz",
+    "vendor": "oracle-graalvm",
+    "version": "22.0.0-ea.06"
   }
 ]
