@@ -44,5 +44,28 @@
     "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-22.0.0-ea.06/graalvm-jdk-22.0.0-ea.06_linux-aarch64_bin.tar.gz",
     "vendor": "oracle-graalvm",
     "version": "22.0.0-ea.06"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23.0.0-ea.01",
+    "jvm_impl": "graalvm",
+    "md5": "6ed46f5876cef7535c7f3fe2e3abf590",
+    "md5_file": "graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "1118b259daef880fd43571134c06b19a47b99a93",
+    "sha1_file": "graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "3f26664c32dedce2587ec186d076accdc810ce6d3986abf751561a8229ec613c",
+    "sha256_file": "graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "20cf7dc49b6303060984612b0adb4e1cbd8f3632419895868db301a0e785ba97f4fd3e6549ae7e03cb0b992d41e36572e0e1f1c0f8e6de1bf80b153b833b85a1",
+    "sha512_file": "graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz.sha512",
+    "size": 338612300,
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-23.0.0-ea.01/graalvm-jdk-23.0.0-ea.01_linux-aarch64_bin.tar.gz",
+    "vendor": "oracle-graalvm",
+    "version": "23.0.0-ea.01"
   }
 ]
