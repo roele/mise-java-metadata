@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "architecture": "riscv64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.2+13-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "85dcea933526797e5cdb5784cf682069",
+    "md5_file": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "557a17a6f5092e11b59d25027e3ef4092ccbfb6a",
+    "sha1_file": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz.sha1",
+    "sha256": "791a37ddb040e1a02bbfc61abfbc7e7321431a28054c9ac59ba1738fd5320b02",
+    "sha256_file": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz.sha256",
+    "sha512": "6ab853b47b73dbdc5e0ea9382a06818fe6a582947ddcf4084f179f0d4f2c8ab9e2ed716c3c9919694e72ce9afa43ba541e571e952f0610eb3d1bbdbddb2e02e2",
+    "sha512_file": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz.sha512",
+    "size": 203621908,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.2_13.tar.gz",
+    "vendor": "temurin",
+    "version": "21.0.2+13.0.LTS"
+  }
+]
