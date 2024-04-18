@@ -182,5 +182,28 @@
     "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-23.0.0-ea.06/graalvm-jdk-23.0.0-ea.06_windows-x64_bin.zip",
     "vendor": "oracle-graalvm",
     "version": "23.0.0-ea.06"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23.0.0-ea.07",
+    "jvm_impl": "graalvm",
+    "md5": "6d5451bb0f7075de204d6afd635b92a8",
+    "md5_file": "graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "9cb0217f4999893dfa15b8a9f820ae1043c758f9",
+    "sha1_file": "graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip.sha1",
+    "sha256": "d934c52e631cbd70078243916117bd7ae49f9c3a99e259a8cd21a57a9ccc931a",
+    "sha256_file": "graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip.sha256",
+    "sha512": "b1c0e302a40dd40d67e49b4ae9d8a18b8e1388cb2c64d9ce17b808b95922cec193afd193118a3b01b6c8397e5b6d9305227583f3cdc1decf6887a79b33e12e25",
+    "sha512_file": "graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip.sha512",
+    "size": 351370511,
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-23.0.0-ea.07/graalvm-jdk-23.0.0-ea.07_windows-x64_bin.zip",
+    "vendor": "oracle-graalvm",
+    "version": "23.0.0-ea.07"
   }
 ]

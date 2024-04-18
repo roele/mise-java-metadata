@@ -481,5 +481,28 @@
     "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-23.0.0-ea.06/graalvm-jdk-23.0.0-ea.06_macos-x64_bin.tar.gz",
     "vendor": "oracle-graalvm",
     "version": "23.0.0-ea.06"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23.0.0-ea.07",
+    "jvm_impl": "graalvm",
+    "md5": "a138d14db702699bcaef1c6a018911ef",
+    "md5_file": "graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ca031409567faa9a6834103370e03411564cf63e",
+    "sha1_file": "graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz.sha1",
+    "sha256": "e61aee054f4ef4af33e76e5e1b70c1d0d685710311e2a0c04f9aacaa3bb48bb6",
+    "sha256_file": "graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz.sha256",
+    "sha512": "f3726f86bb367fbfeeda9edc161e5931ab9f51f034c2e0e27d836de6827429f091d83074a77d162d96359be24fb735d62b02a401ea4779e3fc13a5ef7f808493",
+    "sha512_file": "graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz.sha512",
+    "size": 332858079,
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-23.0.0-ea.07/graalvm-jdk-23.0.0-ea.07_macos-x64_bin.tar.gz",
+    "vendor": "oracle-graalvm",
+    "version": "23.0.0-ea.07"
   }
 ]
