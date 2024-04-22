@@ -228,5 +228,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jre_x64_solaris_hotspot_8u402b06.tar.gz",
     "vendor": "temurin",
     "version": "8.0.402+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_412-b08",
+    "jvm_impl": "hotspot",
+    "md5": "27ecc390b2c7e54dd9373f7e14876ee6",
+    "md5_file": "OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "66c4e396adbd5fdcb7d48ec514de69335ab77d36",
+    "sha1_file": "OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz.sha1",
+    "sha256": "a39c48fa8734b135be39e16d9e3c0f4d35e448eb2db066c4abff78138fbae780",
+    "sha256_file": "OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz.sha256",
+    "sha512": "f96d60753f41ae1f4c91faedbbc2e7959e6e8dd4de0fa7625db6a203bc89caac15eb2729075ecbd19df9d1135995da4be5fdf4e0c31415da322ee92a751610ec",
+    "sha512_file": "OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz.sha512",
+    "size": 50198012,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jre_x64_solaris_hotspot_8u412b08.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.412+8"
   }
 ]
