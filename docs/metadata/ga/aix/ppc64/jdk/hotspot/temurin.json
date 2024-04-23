@@ -688,5 +688,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jdk_ppc64_aix_hotspot_8u402b06.tar.gz",
     "vendor": "temurin",
     "version": "8.0.402+6"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_412-b08",
+    "jvm_impl": "hotspot",
+    "md5": "170a1edbb043618727c8f457e5b146c2",
+    "md5_file": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz.md5",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "25cb5c7bbce20d67e9ce985833a30fa93245545c",
+    "sha1_file": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz.sha1",
+    "sha256": "2107fb037a9d7bc0f41ad14376c70c6743558e36268d71d55dd33a88e2b9e301",
+    "sha256_file": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz.sha256",
+    "sha512": "40cb4013195367abaae6ba646664baf4200419461dcb9346643c92c8999f1e369b0b41f45c13ae97578fa7f120bb21f79ea6e233600935d7c1e430342e488f26",
+    "sha512_file": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz.sha512",
+    "size": 105131543,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jdk_ppc64_aix_hotspot_8u412b08.tar.gz",
+    "vendor": "temurin",
+    "version": "8.0.412+8"
   }
 ]
