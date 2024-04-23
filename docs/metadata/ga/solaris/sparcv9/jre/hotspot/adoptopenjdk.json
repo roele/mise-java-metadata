@@ -527,5 +527,28 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u402b06.tar.gz",
     "vendor": "adoptopenjdk",
     "version": "8.0.402+6"
+  },
+  {
+    "architecture": "sparcv9",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_412-b08",
+    "jvm_impl": "hotspot",
+    "md5": "879ece04ce0914edd490f11872b4b38a",
+    "md5_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "ca6e7009337a4963eddc7ad7b183694cccee00ba",
+    "sha1_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz.sha1",
+    "sha256": "e25b30003749c230dbe4b54b64a29bddfdb25b1a52bedbac23fabfc4d3e9caad",
+    "sha256_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz.sha256",
+    "sha512": "7d0be8ea116b87cffba68bcb3242c772fad2e57423e76f93bff230ccdd1d80f23cfbc10ac5cb2f5917b412ecce3453769913e6afd2bc4ba492904438b57fbb59",
+    "sha512_file": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz.sha512",
+    "size": 53314396,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u412b08.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "8.0.412+8"
   }
 ]
