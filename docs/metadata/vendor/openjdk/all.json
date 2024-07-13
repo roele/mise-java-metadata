@@ -158,7 +158,7 @@
     "size": 204869628,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10.0.0"
+    "version": "10"
   },
   {
     "architecture": "x86_64",
@@ -181,7 +181,7 @@
     "size": 200843096,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10.0.0"
+    "version": "10"
   },
   {
     "architecture": "x86_64",
@@ -204,7 +204,7 @@
     "size": 198895590,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_windows-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10.0.0"
+    "version": "10"
   },
   {
     "architecture": "x86_64",
@@ -365,7 +365,7 @@
     "size": 187611826,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "x86_64",
@@ -388,7 +388,7 @@
     "size": 182717049,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "x86_64",
@@ -411,7 +411,7 @@
     "size": 187396683,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "x86_64",
@@ -572,7 +572,7 @@
     "size": 197633782,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "x86_64",
@@ -595,7 +595,7 @@
     "size": 189970526,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "x86_64",
@@ -618,7 +618,7 @@
     "size": 196405895,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "x86_64",
@@ -779,7 +779,7 @@
     "size": 196363513,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "x86_64",
@@ -802,7 +802,7 @@
     "size": 189943388,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "x86_64",
@@ -825,7 +825,7 @@
     "size": 195897761,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "x86_64",
@@ -848,7 +848,7 @@
     "size": 197875661,
     "url": "https://download.java.net/java/early_access/valhalla/4/openjdk-14-valhalla+4-55_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "14.0.0-valhalla+4-55"
+    "version": "14-valhalla+4-55"
   },
   {
     "architecture": "x86_64",
@@ -871,7 +871,7 @@
     "size": 191074059,
     "url": "https://download.java.net/java/early_access/valhalla/4/openjdk-14-valhalla+4-55_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "14.0.0-valhalla+4-55"
+    "version": "14-valhalla+4-55"
   },
   {
     "architecture": "x86_64",
@@ -894,7 +894,7 @@
     "size": 196562252,
     "url": "https://download.java.net/java/early_access/valhalla/4/openjdk-14-valhalla+4-55_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "14.0.0-valhalla+4-55"
+    "version": "14-valhalla+4-55"
   },
   {
     "architecture": "x86_64",
@@ -1055,7 +1055,7 @@
     "size": 198578061,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "14.0.0"
+    "version": "14"
   },
   {
     "architecture": "x86_64",
@@ -1078,7 +1078,7 @@
     "size": 193317458,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "14.0.0"
+    "version": "14"
   },
   {
     "architecture": "x86_64",
@@ -1101,7 +1101,7 @@
     "size": 198745139,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "14.0.0"
+    "version": "14"
   },
   {
     "architecture": "aarch64",
@@ -1308,7 +1308,7 @@
     "size": 170467678,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "x86_64",
@@ -1331,7 +1331,7 @@
     "size": 195313679,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "x86_64",
@@ -1354,7 +1354,7 @@
     "size": 192743279,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "x86_64",
@@ -1377,7 +1377,7 @@
     "size": 195901213,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "aarch64",
@@ -1584,7 +1584,7 @@
     "size": 174456613,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "x86_64",
@@ -1607,7 +1607,7 @@
     "size": 184303539,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "x86_64",
@@ -1630,7 +1630,7 @@
     "size": 181599030,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "x86_64",
@@ -1653,7 +1653,7 @@
     "size": 183613419,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "x86_64",
@@ -1678,7 +1678,7 @@
     "size": 186136324,
     "url": "https://download.java.net/java/early_access/alpine/14/binaries/openjdk-17-ea+14_linux-x64-musl_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0-ea+14"
+    "version": "17-ea+14"
   },
   {
     "architecture": "x86_64",
@@ -1701,7 +1701,7 @@
     "size": 186512458,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-17-loom+7-342_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0-loom+7-342"
+    "version": "17-loom+7-342"
   },
   {
     "architecture": "x86_64",
@@ -1724,7 +1724,7 @@
     "size": 184515948,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-17-loom+7-342_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0-loom+7-342"
+    "version": "17-loom+7-342"
   },
   {
     "architecture": "x86_64",
@@ -1747,7 +1747,7 @@
     "size": 185369912,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-17-loom+7-342_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "17.0.0-loom+7-342"
+    "version": "17-loom+7-342"
   },
   {
     "architecture": "x86_64",
@@ -1770,7 +1770,7 @@
     "size": 310853844,
     "url": "https://download.java.net/java/early_access/panama/3/openjdk-17-panama+3-167_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0-panama+3-167"
+    "version": "17-panama+3-167"
   },
   {
     "architecture": "x86_64",
@@ -1793,7 +1793,7 @@
     "size": 238712526,
     "url": "https://download.java.net/java/early_access/panama/3/openjdk-17-panama+3-167_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0-panama+3-167"
+    "version": "17-panama+3-167"
   },
   {
     "architecture": "x86_64",
@@ -1816,7 +1816,7 @@
     "size": 235786913,
     "url": "https://download.java.net/java/early_access/panama/3/openjdk-17-panama+3-167_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "17.0.0-panama+3-167"
+    "version": "17-panama+3-167"
   },
   {
     "architecture": "aarch64",
@@ -2069,7 +2069,7 @@
     "size": 185360648,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -2092,7 +2092,7 @@
     "size": 186661523,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "aarch64",
@@ -2115,7 +2115,7 @@
     "size": 181735146,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -2138,7 +2138,7 @@
     "size": 184007871,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -2161,7 +2161,7 @@
     "size": 185665886,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "aarch64",
@@ -2184,7 +2184,7 @@
     "size": 186662757,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+2-74"
+    "version": "18-loom+2-74"
   },
   {
     "architecture": "x86_64",
@@ -2207,7 +2207,7 @@
     "size": 188087461,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+2-74"
+    "version": "18-loom+2-74"
   },
   {
     "architecture": "aarch64",
@@ -2230,7 +2230,7 @@
     "size": 183052828,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+2-74"
+    "version": "18-loom+2-74"
   },
   {
     "architecture": "x86_64",
@@ -2253,7 +2253,7 @@
     "size": 185338368,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+2-74"
+    "version": "18-loom+2-74"
   },
   {
     "architecture": "x86_64",
@@ -2276,7 +2276,7 @@
     "size": 187005010,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-18-loom+2-74_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+2-74"
+    "version": "18-loom+2-74"
   },
   {
     "architecture": "aarch64",
@@ -2299,7 +2299,7 @@
     "size": 187641174,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-18-loom+4-273_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+4-273"
+    "version": "18-loom+4-273"
   },
   {
     "architecture": "x86_64",
@@ -2322,7 +2322,7 @@
     "size": 188906718,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-18-loom+4-273_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+4-273"
+    "version": "18-loom+4-273"
   },
   {
     "architecture": "aarch64",
@@ -2345,7 +2345,7 @@
     "size": 184009797,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-18-loom+4-273_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+4-273"
+    "version": "18-loom+4-273"
   },
   {
     "architecture": "x86_64",
@@ -2368,7 +2368,7 @@
     "size": 186209059,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-18-loom+4-273_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+4-273"
+    "version": "18-loom+4-273"
   },
   {
     "architecture": "x86_64",
@@ -2391,7 +2391,7 @@
     "size": 188058380,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-18-loom+4-273_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+4-273"
+    "version": "18-loom+4-273"
   },
   {
     "architecture": "aarch64",
@@ -2414,7 +2414,7 @@
     "size": 187629648,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+5-274"
+    "version": "18-loom+5-274"
   },
   {
     "architecture": "x86_64",
@@ -2437,7 +2437,7 @@
     "size": 188904065,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+5-274"
+    "version": "18-loom+5-274"
   },
   {
     "architecture": "aarch64",
@@ -2460,7 +2460,7 @@
     "size": 184012301,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+5-274"
+    "version": "18-loom+5-274"
   },
   {
     "architecture": "x86_64",
@@ -2483,7 +2483,7 @@
     "size": 186209813,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+5-274"
+    "version": "18-loom+5-274"
   },
   {
     "architecture": "x86_64",
@@ -2506,7 +2506,7 @@
     "size": 188060976,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+5-274"
+    "version": "18-loom+5-274"
   },
   {
     "architecture": "aarch64",
@@ -2529,7 +2529,7 @@
     "size": 187863838,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-18-loom+6-282_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+6-282"
+    "version": "18-loom+6-282"
   },
   {
     "architecture": "x86_64",
@@ -2552,7 +2552,7 @@
     "size": 189171511,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-18-loom+6-282_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+6-282"
+    "version": "18-loom+6-282"
   },
   {
     "architecture": "aarch64",
@@ -2575,7 +2575,7 @@
     "size": 184192650,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-18-loom+6-282_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+6-282"
+    "version": "18-loom+6-282"
   },
   {
     "architecture": "x86_64",
@@ -2598,7 +2598,7 @@
     "size": 186424691,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-18-loom+6-282_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+6-282"
+    "version": "18-loom+6-282"
   },
   {
     "architecture": "x86_64",
@@ -2621,7 +2621,7 @@
     "size": 188243804,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-18-loom+6-282_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+6-282"
+    "version": "18-loom+6-282"
   },
   {
     "architecture": "aarch64",
@@ -2644,7 +2644,7 @@
     "size": 187929579,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-18-loom+7-288_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+7-288"
+    "version": "18-loom+7-288"
   },
   {
     "architecture": "x86_64",
@@ -2667,7 +2667,7 @@
     "size": 189174932,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-18-loom+7-288_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+7-288"
+    "version": "18-loom+7-288"
   },
   {
     "architecture": "aarch64",
@@ -2690,7 +2690,7 @@
     "size": 184217705,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-18-loom+7-288_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+7-288"
+    "version": "18-loom+7-288"
   },
   {
     "architecture": "x86_64",
@@ -2713,7 +2713,7 @@
     "size": 186428551,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-18-loom+7-288_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+7-288"
+    "version": "18-loom+7-288"
   },
   {
     "architecture": "x86_64",
@@ -2736,7 +2736,7 @@
     "size": 188251164,
     "url": "https://download.java.net/java/early_access/loom/7/openjdk-18-loom+7-288_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0-loom+7-288"
+    "version": "18-loom+7-288"
   },
   {
     "architecture": "aarch64",
@@ -3219,7 +3219,7 @@
     "size": 186983593,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -3242,7 +3242,7 @@
     "size": 188173501,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "aarch64",
@@ -3265,7 +3265,7 @@
     "size": 183221810,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -3288,7 +3288,7 @@
     "size": 185375922,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -3311,7 +3311,7 @@
     "size": 187504061,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "aarch64",
@@ -3334,7 +3334,7 @@
     "size": 188881706,
     "url": "https://download.java.net/java/early_access/loom/1/openjdk-19-loom+1-11_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+1-11"
+    "version": "19-loom+1-11"
   },
   {
     "architecture": "x86_64",
@@ -3357,7 +3357,7 @@
     "size": 190150416,
     "url": "https://download.java.net/java/early_access/loom/1/openjdk-19-loom+1-11_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+1-11"
+    "version": "19-loom+1-11"
   },
   {
     "architecture": "aarch64",
@@ -3380,7 +3380,7 @@
     "size": 184988407,
     "url": "https://download.java.net/java/early_access/loom/1/openjdk-19-loom+1-11_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+1-11"
+    "version": "19-loom+1-11"
   },
   {
     "architecture": "x86_64",
@@ -3403,7 +3403,7 @@
     "size": 187201954,
     "url": "https://download.java.net/java/early_access/loom/1/openjdk-19-loom+1-11_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+1-11"
+    "version": "19-loom+1-11"
   },
   {
     "architecture": "x86_64",
@@ -3426,7 +3426,7 @@
     "size": 189183783,
     "url": "https://download.java.net/java/early_access/loom/1/openjdk-19-loom+1-11_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+1-11"
+    "version": "19-loom+1-11"
   },
   {
     "architecture": "aarch64",
@@ -3449,7 +3449,7 @@
     "size": 188997912,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-19-loom+2-58_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+2-58"
+    "version": "19-loom+2-58"
   },
   {
     "architecture": "x86_64",
@@ -3472,7 +3472,7 @@
     "size": 189881808,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-19-loom+2-58_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+2-58"
+    "version": "19-loom+2-58"
   },
   {
     "architecture": "aarch64",
@@ -3495,7 +3495,7 @@
     "size": 185320999,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-19-loom+2-58_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+2-58"
+    "version": "19-loom+2-58"
   },
   {
     "architecture": "x86_64",
@@ -3518,7 +3518,7 @@
     "size": 187476817,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-19-loom+2-58_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+2-58"
+    "version": "19-loom+2-58"
   },
   {
     "architecture": "x86_64",
@@ -3541,7 +3541,7 @@
     "size": 189296835,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-19-loom+2-58_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+2-58"
+    "version": "19-loom+2-58"
   },
   {
     "architecture": "aarch64",
@@ -3564,7 +3564,7 @@
     "size": 189543845,
     "url": "https://download.java.net/java/early_access/loom/3/openjdk-19-loom+3-89_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+3-89"
+    "version": "19-loom+3-89"
   },
   {
     "architecture": "x86_64",
@@ -3587,7 +3587,7 @@
     "size": 190434998,
     "url": "https://download.java.net/java/early_access/loom/3/openjdk-19-loom+3-89_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+3-89"
+    "version": "19-loom+3-89"
   },
   {
     "architecture": "aarch64",
@@ -3610,7 +3610,7 @@
     "size": 185877827,
     "url": "https://download.java.net/java/early_access/loom/3/openjdk-19-loom+3-89_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+3-89"
+    "version": "19-loom+3-89"
   },
   {
     "architecture": "x86_64",
@@ -3633,7 +3633,7 @@
     "size": 188043572,
     "url": "https://download.java.net/java/early_access/loom/3/openjdk-19-loom+3-89_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+3-89"
+    "version": "19-loom+3-89"
   },
   {
     "architecture": "x86_64",
@@ -3656,7 +3656,7 @@
     "size": 189371273,
     "url": "https://download.java.net/java/early_access/loom/3/openjdk-19-loom+3-89_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+3-89"
+    "version": "19-loom+3-89"
   },
   {
     "architecture": "aarch64",
@@ -3679,7 +3679,7 @@
     "size": 189611212,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-19-loom+4-115_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+4-115"
+    "version": "19-loom+4-115"
   },
   {
     "architecture": "x86_64",
@@ -3702,7 +3702,7 @@
     "size": 190479008,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-19-loom+4-115_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+4-115"
+    "version": "19-loom+4-115"
   },
   {
     "architecture": "aarch64",
@@ -3725,7 +3725,7 @@
     "size": 185898360,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-19-loom+4-115_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+4-115"
+    "version": "19-loom+4-115"
   },
   {
     "architecture": "x86_64",
@@ -3748,7 +3748,7 @@
     "size": 188070413,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-19-loom+4-115_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+4-115"
+    "version": "19-loom+4-115"
   },
   {
     "architecture": "x86_64",
@@ -3771,7 +3771,7 @@
     "size": 189419632,
     "url": "https://download.java.net/java/early_access/loom/4/openjdk-19-loom+4-115_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+4-115"
+    "version": "19-loom+4-115"
   },
   {
     "architecture": "aarch64",
@@ -3794,7 +3794,7 @@
     "size": 192429496,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-19-loom+5-429_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+5-429"
+    "version": "19-loom+5-429"
   },
   {
     "architecture": "x86_64",
@@ -3817,7 +3817,7 @@
     "size": 193655045,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-19-loom+5-429_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+5-429"
+    "version": "19-loom+5-429"
   },
   {
     "architecture": "aarch64",
@@ -3840,7 +3840,7 @@
     "size": 188249612,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-19-loom+5-429_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+5-429"
+    "version": "19-loom+5-429"
   },
   {
     "architecture": "x86_64",
@@ -3863,7 +3863,7 @@
     "size": 190335614,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-19-loom+5-429_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+5-429"
+    "version": "19-loom+5-429"
   },
   {
     "architecture": "x86_64",
@@ -3886,7 +3886,7 @@
     "size": 192675142,
     "url": "https://download.java.net/java/early_access/loom/5/openjdk-19-loom+5-429_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+5-429"
+    "version": "19-loom+5-429"
   },
   {
     "architecture": "aarch64",
@@ -3909,7 +3909,7 @@
     "size": 193921683,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-19-loom+6-625_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+6-625"
+    "version": "19-loom+6-625"
   },
   {
     "architecture": "x86_64",
@@ -3932,7 +3932,7 @@
     "size": 195192801,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-19-loom+6-625_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+6-625"
+    "version": "19-loom+6-625"
   },
   {
     "architecture": "aarch64",
@@ -3955,7 +3955,7 @@
     "size": 189721353,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-19-loom+6-625_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+6-625"
+    "version": "19-loom+6-625"
   },
   {
     "architecture": "x86_64",
@@ -3978,7 +3978,7 @@
     "size": 191841701,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-19-loom+6-625_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+6-625"
+    "version": "19-loom+6-625"
   },
   {
     "architecture": "x86_64",
@@ -4001,7 +4001,7 @@
     "size": 193792681,
     "url": "https://download.java.net/java/early_access/loom/6/openjdk-19-loom+6-625_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-loom+6-625"
+    "version": "19-loom+6-625"
   },
   {
     "architecture": "x86_64",
@@ -4024,7 +4024,7 @@
     "size": 314242445,
     "url": "https://download.java.net/java/early_access/panama/1/openjdk-19-panama+1-13_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-panama+1-13"
+    "version": "19-panama+1-13"
   },
   {
     "architecture": "x86_64",
@@ -4047,7 +4047,7 @@
     "size": 241215495,
     "url": "https://download.java.net/java/early_access/panama/1/openjdk-19-panama+1-13_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0-panama+1-13"
+    "version": "19-panama+1-13"
   },
   {
     "architecture": "x86_64",
@@ -4070,7 +4070,7 @@
     "size": 239488077,
     "url": "https://download.java.net/java/early_access/panama/1/openjdk-19-panama+1-13_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0-panama+1-13"
+    "version": "19-panama+1-13"
   },
   {
     "architecture": "aarch64",
@@ -4323,7 +4323,7 @@
     "size": 194401252,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -4346,7 +4346,7 @@
     "size": 195673378,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "aarch64",
@@ -4369,7 +4369,7 @@
     "size": 190416515,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -4392,7 +4392,7 @@
     "size": 192323254,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -4415,7 +4415,7 @@
     "size": 194357214,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "aarch64",
@@ -4438,7 +4438,7 @@
     "size": 194750479,
     "url": "https://download.java.net/java/early_access/jdk20/15/GPL/openjdk-20-ea+15_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+15"
+    "version": "20-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -4461,7 +4461,7 @@
     "size": 196318824,
     "url": "https://download.java.net/java/early_access/jdk20/15/GPL/openjdk-20-ea+15_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+15"
+    "version": "20-ea+15"
   },
   {
     "architecture": "aarch64",
@@ -4484,7 +4484,7 @@
     "size": 190721516,
     "url": "https://download.java.net/java/early_access/jdk20/15/GPL/openjdk-20-ea+15_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+15"
+    "version": "20-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -4507,7 +4507,7 @@
     "size": 192993065,
     "url": "https://download.java.net/java/early_access/jdk20/15/GPL/openjdk-20-ea+15_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+15"
+    "version": "20-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -4530,7 +4530,7 @@
     "size": 194943901,
     "url": "https://download.java.net/java/early_access/jdk20/15/GPL/openjdk-20-ea+15_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+15"
+    "version": "20-ea+15"
   },
   {
     "architecture": "aarch64",
@@ -4553,7 +4553,7 @@
     "size": 194778884,
     "url": "https://download.java.net/java/early_access/jdk20/16/GPL/openjdk-20-ea+16_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+16"
+    "version": "20-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -4576,7 +4576,7 @@
     "size": 196301323,
     "url": "https://download.java.net/java/early_access/jdk20/16/GPL/openjdk-20-ea+16_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+16"
+    "version": "20-ea+16"
   },
   {
     "architecture": "aarch64",
@@ -4599,7 +4599,7 @@
     "size": 190783470,
     "url": "https://download.java.net/java/early_access/jdk20/16/GPL/openjdk-20-ea+16_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+16"
+    "version": "20-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -4622,7 +4622,7 @@
     "size": 193070535,
     "url": "https://download.java.net/java/early_access/jdk20/16/GPL/openjdk-20-ea+16_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+16"
+    "version": "20-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -4645,7 +4645,7 @@
     "size": 194944599,
     "url": "https://download.java.net/java/early_access/jdk20/16/GPL/openjdk-20-ea+16_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+16"
+    "version": "20-ea+16"
   },
   {
     "architecture": "aarch64",
@@ -4668,7 +4668,7 @@
     "size": 194812486,
     "url": "https://download.java.net/java/early_access/jdk20/17/GPL/openjdk-20-ea+17_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+17"
+    "version": "20-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -4691,7 +4691,7 @@
     "size": 196348310,
     "url": "https://download.java.net/java/early_access/jdk20/17/GPL/openjdk-20-ea+17_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+17"
+    "version": "20-ea+17"
   },
   {
     "architecture": "aarch64",
@@ -4714,7 +4714,7 @@
     "size": 190825028,
     "url": "https://download.java.net/java/early_access/jdk20/17/GPL/openjdk-20-ea+17_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+17"
+    "version": "20-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -4737,7 +4737,7 @@
     "size": 193112866,
     "url": "https://download.java.net/java/early_access/jdk20/17/GPL/openjdk-20-ea+17_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+17"
+    "version": "20-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -4760,7 +4760,7 @@
     "size": 194990491,
     "url": "https://download.java.net/java/early_access/jdk20/17/GPL/openjdk-20-ea+17_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+17"
+    "version": "20-ea+17"
   },
   {
     "architecture": "aarch64",
@@ -4783,7 +4783,7 @@
     "size": 194856819,
     "url": "https://download.java.net/java/early_access/jdk20/18/GPL/openjdk-20-ea+18_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+18"
+    "version": "20-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -4806,7 +4806,7 @@
     "size": 196369580,
     "url": "https://download.java.net/java/early_access/jdk20/18/GPL/openjdk-20-ea+18_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+18"
+    "version": "20-ea+18"
   },
   {
     "architecture": "aarch64",
@@ -4829,7 +4829,7 @@
     "size": 190853332,
     "url": "https://download.java.net/java/early_access/jdk20/18/GPL/openjdk-20-ea+18_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+18"
+    "version": "20-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -4852,7 +4852,7 @@
     "size": 193145124,
     "url": "https://download.java.net/java/early_access/jdk20/18/GPL/openjdk-20-ea+18_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+18"
+    "version": "20-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -4875,7 +4875,7 @@
     "size": 195030729,
     "url": "https://download.java.net/java/early_access/jdk20/18/GPL/openjdk-20-ea+18_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+18"
+    "version": "20-ea+18"
   },
   {
     "architecture": "aarch64",
@@ -4898,7 +4898,7 @@
     "size": 194975195,
     "url": "https://download.java.net/java/early_access/jdk20/19/GPL/openjdk-20-ea+19_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+19"
+    "version": "20-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -4921,7 +4921,7 @@
     "size": 196511812,
     "url": "https://download.java.net/java/early_access/jdk20/19/GPL/openjdk-20-ea+19_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+19"
+    "version": "20-ea+19"
   },
   {
     "architecture": "aarch64",
@@ -4944,7 +4944,7 @@
     "size": 190964424,
     "url": "https://download.java.net/java/early_access/jdk20/19/GPL/openjdk-20-ea+19_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+19"
+    "version": "20-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -4967,7 +4967,7 @@
     "size": 193264593,
     "url": "https://download.java.net/java/early_access/jdk20/19/GPL/openjdk-20-ea+19_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+19"
+    "version": "20-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -4990,7 +4990,7 @@
     "size": 195134156,
     "url": "https://download.java.net/java/early_access/jdk20/19/GPL/openjdk-20-ea+19_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+19"
+    "version": "20-ea+19"
   },
   {
     "architecture": "aarch64",
@@ -5013,7 +5013,7 @@
     "size": 195017825,
     "url": "https://download.java.net/java/early_access/jdk20/20/GPL/openjdk-20-ea+20_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+20"
+    "version": "20-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -5036,7 +5036,7 @@
     "size": 196568892,
     "url": "https://download.java.net/java/early_access/jdk20/20/GPL/openjdk-20-ea+20_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+20"
+    "version": "20-ea+20"
   },
   {
     "architecture": "aarch64",
@@ -5059,7 +5059,7 @@
     "size": 191015612,
     "url": "https://download.java.net/java/early_access/jdk20/20/GPL/openjdk-20-ea+20_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+20"
+    "version": "20-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -5082,7 +5082,7 @@
     "size": 193320981,
     "url": "https://download.java.net/java/early_access/jdk20/20/GPL/openjdk-20-ea+20_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+20"
+    "version": "20-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -5105,7 +5105,7 @@
     "size": 195194963,
     "url": "https://download.java.net/java/early_access/jdk20/20/GPL/openjdk-20-ea+20_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+20"
+    "version": "20-ea+20"
   },
   {
     "architecture": "aarch64",
@@ -5128,7 +5128,7 @@
     "size": 196188708,
     "url": "https://download.java.net/java/early_access/jdk20/21/GPL/openjdk-20-ea+21_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+21"
+    "version": "20-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -5151,7 +5151,7 @@
     "size": 197704131,
     "url": "https://download.java.net/java/early_access/jdk20/21/GPL/openjdk-20-ea+21_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+21"
+    "version": "20-ea+21"
   },
   {
     "architecture": "aarch64",
@@ -5174,7 +5174,7 @@
     "size": 192076064,
     "url": "https://download.java.net/java/early_access/jdk20/21/GPL/openjdk-20-ea+21_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+21"
+    "version": "20-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -5197,7 +5197,7 @@
     "size": 194413374,
     "url": "https://download.java.net/java/early_access/jdk20/21/GPL/openjdk-20-ea+21_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+21"
+    "version": "20-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -5220,7 +5220,7 @@
     "size": 196322236,
     "url": "https://download.java.net/java/early_access/jdk20/21/GPL/openjdk-20-ea+21_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+21"
+    "version": "20-ea+21"
   },
   {
     "architecture": "aarch64",
@@ -5243,7 +5243,7 @@
     "size": 196159931,
     "url": "https://download.java.net/java/early_access/jdk20/22/GPL/openjdk-20-ea+22_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+22"
+    "version": "20-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -5266,7 +5266,7 @@
     "size": 197690683,
     "url": "https://download.java.net/java/early_access/jdk20/22/GPL/openjdk-20-ea+22_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+22"
+    "version": "20-ea+22"
   },
   {
     "architecture": "aarch64",
@@ -5289,7 +5289,7 @@
     "size": 192050896,
     "url": "https://download.java.net/java/early_access/jdk20/22/GPL/openjdk-20-ea+22_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+22"
+    "version": "20-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -5312,7 +5312,7 @@
     "size": 194401251,
     "url": "https://download.java.net/java/early_access/jdk20/22/GPL/openjdk-20-ea+22_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+22"
+    "version": "20-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -5335,7 +5335,7 @@
     "size": 196305958,
     "url": "https://download.java.net/java/early_access/jdk20/22/GPL/openjdk-20-ea+22_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+22"
+    "version": "20-ea+22"
   },
   {
     "architecture": "aarch64",
@@ -5358,7 +5358,7 @@
     "size": 196135092,
     "url": "https://download.java.net/java/early_access/jdk20/23/GPL/openjdk-20-ea+23_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+23"
+    "version": "20-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -5381,7 +5381,7 @@
     "size": 197671368,
     "url": "https://download.java.net/java/early_access/jdk20/23/GPL/openjdk-20-ea+23_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+23"
+    "version": "20-ea+23"
   },
   {
     "architecture": "aarch64",
@@ -5404,7 +5404,7 @@
     "size": 192026279,
     "url": "https://download.java.net/java/early_access/jdk20/23/GPL/openjdk-20-ea+23_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+23"
+    "version": "20-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -5427,7 +5427,7 @@
     "size": 194377986,
     "url": "https://download.java.net/java/early_access/jdk20/23/GPL/openjdk-20-ea+23_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+23"
+    "version": "20-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -5450,7 +5450,7 @@
     "size": 196271588,
     "url": "https://download.java.net/java/early_access/jdk20/23/GPL/openjdk-20-ea+23_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+23"
+    "version": "20-ea+23"
   },
   {
     "architecture": "aarch64",
@@ -5473,7 +5473,7 @@
     "size": 196163946,
     "url": "https://download.java.net/java/early_access/jdk20/24/GPL/openjdk-20-ea+24_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+24"
+    "version": "20-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -5496,7 +5496,7 @@
     "size": 197695269,
     "url": "https://download.java.net/java/early_access/jdk20/24/GPL/openjdk-20-ea+24_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+24"
+    "version": "20-ea+24"
   },
   {
     "architecture": "aarch64",
@@ -5519,7 +5519,7 @@
     "size": 192107122,
     "url": "https://download.java.net/java/early_access/jdk20/24/GPL/openjdk-20-ea+24_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+24"
+    "version": "20-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -5542,7 +5542,7 @@
     "size": 194480644,
     "url": "https://download.java.net/java/early_access/jdk20/24/GPL/openjdk-20-ea+24_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+24"
+    "version": "20-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -5565,7 +5565,7 @@
     "size": 196390555,
     "url": "https://download.java.net/java/early_access/jdk20/24/GPL/openjdk-20-ea+24_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+24"
+    "version": "20-ea+24"
   },
   {
     "architecture": "aarch64",
@@ -5588,7 +5588,7 @@
     "size": 195814046,
     "url": "https://download.java.net/java/early_access/jdk20/25/GPL/openjdk-20-ea+25_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+25"
+    "version": "20-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -5611,7 +5611,7 @@
     "size": 197381424,
     "url": "https://download.java.net/java/early_access/jdk20/25/GPL/openjdk-20-ea+25_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+25"
+    "version": "20-ea+25"
   },
   {
     "architecture": "aarch64",
@@ -5634,7 +5634,7 @@
     "size": 191718244,
     "url": "https://download.java.net/java/early_access/jdk20/25/GPL/openjdk-20-ea+25_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+25"
+    "version": "20-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -5657,7 +5657,7 @@
     "size": 194110190,
     "url": "https://download.java.net/java/early_access/jdk20/25/GPL/openjdk-20-ea+25_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+25"
+    "version": "20-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -5680,7 +5680,7 @@
     "size": 196004789,
     "url": "https://download.java.net/java/early_access/jdk20/25/GPL/openjdk-20-ea+25_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+25"
+    "version": "20-ea+25"
   },
   {
     "architecture": "aarch64",
@@ -5703,7 +5703,7 @@
     "size": 195817957,
     "url": "https://download.java.net/java/early_access/jdk20/26/GPL/openjdk-20-ea+26_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+26"
+    "version": "20-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -5726,7 +5726,7 @@
     "size": 197376804,
     "url": "https://download.java.net/java/early_access/jdk20/26/GPL/openjdk-20-ea+26_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+26"
+    "version": "20-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -5749,7 +5749,7 @@
     "size": 191714208,
     "url": "https://download.java.net/java/early_access/jdk20/26/GPL/openjdk-20-ea+26_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+26"
+    "version": "20-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -5772,7 +5772,7 @@
     "size": 194111352,
     "url": "https://download.java.net/java/early_access/jdk20/26/GPL/openjdk-20-ea+26_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+26"
+    "version": "20-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -5795,7 +5795,7 @@
     "size": 196003461,
     "url": "https://download.java.net/java/early_access/jdk20/26/GPL/openjdk-20-ea+26_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+26"
+    "version": "20-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -5818,7 +5818,7 @@
     "size": 195903871,
     "url": "https://download.java.net/java/early_access/jdk20/27/GPL/openjdk-20-ea+27_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+27"
+    "version": "20-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -5841,7 +5841,7 @@
     "size": 197528220,
     "url": "https://download.java.net/java/early_access/jdk20/27/GPL/openjdk-20-ea+27_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+27"
+    "version": "20-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -5864,7 +5864,7 @@
     "size": 191807964,
     "url": "https://download.java.net/java/early_access/jdk20/27/GPL/openjdk-20-ea+27_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+27"
+    "version": "20-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -5887,7 +5887,7 @@
     "size": 194256431,
     "url": "https://download.java.net/java/early_access/jdk20/27/GPL/openjdk-20-ea+27_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+27"
+    "version": "20-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -5910,7 +5910,7 @@
     "size": 196141360,
     "url": "https://download.java.net/java/early_access/jdk20/27/GPL/openjdk-20-ea+27_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+27"
+    "version": "20-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -5933,7 +5933,7 @@
     "size": 195895760,
     "url": "https://download.java.net/java/early_access/jdk20/28/GPL/openjdk-20-ea+28_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+28"
+    "version": "20-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -5956,7 +5956,7 @@
     "size": 197505715,
     "url": "https://download.java.net/java/early_access/jdk20/28/GPL/openjdk-20-ea+28_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+28"
+    "version": "20-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -5979,7 +5979,7 @@
     "size": 191812541,
     "url": "https://download.java.net/java/early_access/jdk20/28/GPL/openjdk-20-ea+28_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+28"
+    "version": "20-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -6002,7 +6002,7 @@
     "size": 194253995,
     "url": "https://download.java.net/java/early_access/jdk20/28/GPL/openjdk-20-ea+28_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+28"
+    "version": "20-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -6025,7 +6025,7 @@
     "size": 196137399,
     "url": "https://download.java.net/java/early_access/jdk20/28/GPL/openjdk-20-ea+28_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+28"
+    "version": "20-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -6048,7 +6048,7 @@
     "size": 195928908,
     "url": "https://download.java.net/java/early_access/jdk20/29/GPL/openjdk-20-ea+29_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+29"
+    "version": "20-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -6071,7 +6071,7 @@
     "size": 197544211,
     "url": "https://download.java.net/java/early_access/jdk20/29/GPL/openjdk-20-ea+29_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+29"
+    "version": "20-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -6094,7 +6094,7 @@
     "size": 191858521,
     "url": "https://download.java.net/java/early_access/jdk20/29/GPL/openjdk-20-ea+29_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+29"
+    "version": "20-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -6117,7 +6117,7 @@
     "size": 194294720,
     "url": "https://download.java.net/java/early_access/jdk20/29/GPL/openjdk-20-ea+29_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+29"
+    "version": "20-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -6140,7 +6140,7 @@
     "size": 196165190,
     "url": "https://download.java.net/java/early_access/jdk20/29/GPL/openjdk-20-ea+29_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+29"
+    "version": "20-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -6163,7 +6163,7 @@
     "size": 195946081,
     "url": "https://download.java.net/java/early_access/jdk20/30/GPL/openjdk-20-ea+30_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+30"
+    "version": "20-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -6186,7 +6186,7 @@
     "size": 197564696,
     "url": "https://download.java.net/java/early_access/jdk20/30/GPL/openjdk-20-ea+30_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+30"
+    "version": "20-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -6209,7 +6209,7 @@
     "size": 191875995,
     "url": "https://download.java.net/java/early_access/jdk20/30/GPL/openjdk-20-ea+30_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+30"
+    "version": "20-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -6232,7 +6232,7 @@
     "size": 194310400,
     "url": "https://download.java.net/java/early_access/jdk20/30/GPL/openjdk-20-ea+30_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+30"
+    "version": "20-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -6255,7 +6255,7 @@
     "size": 196168513,
     "url": "https://download.java.net/java/early_access/jdk20/30/GPL/openjdk-20-ea+30_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+30"
+    "version": "20-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -6278,7 +6278,7 @@
     "size": 195942907,
     "url": "https://download.java.net/java/early_access/jdk20/31/GPL/openjdk-20-ea+31_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+31"
+    "version": "20-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -6301,7 +6301,7 @@
     "size": 197563097,
     "url": "https://download.java.net/java/early_access/jdk20/31/GPL/openjdk-20-ea+31_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+31"
+    "version": "20-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -6324,7 +6324,7 @@
     "size": 191875045,
     "url": "https://download.java.net/java/early_access/jdk20/31/GPL/openjdk-20-ea+31_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+31"
+    "version": "20-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -6347,7 +6347,7 @@
     "size": 194311496,
     "url": "https://download.java.net/java/early_access/jdk20/31/GPL/openjdk-20-ea+31_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+31"
+    "version": "20-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -6370,7 +6370,7 @@
     "size": 196166105,
     "url": "https://download.java.net/java/early_access/jdk20/31/GPL/openjdk-20-ea+31_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+31"
+    "version": "20-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -6393,7 +6393,7 @@
     "size": 195944777,
     "url": "https://download.java.net/java/early_access/jdk20/32/GPL/openjdk-20-ea+32_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+32"
+    "version": "20-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -6416,7 +6416,7 @@
     "size": 197552989,
     "url": "https://download.java.net/java/early_access/jdk20/32/GPL/openjdk-20-ea+32_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+32"
+    "version": "20-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -6439,7 +6439,7 @@
     "size": 191876826,
     "url": "https://download.java.net/java/early_access/jdk20/32/GPL/openjdk-20-ea+32_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+32"
+    "version": "20-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -6462,7 +6462,7 @@
     "size": 194322016,
     "url": "https://download.java.net/java/early_access/jdk20/32/GPL/openjdk-20-ea+32_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+32"
+    "version": "20-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -6485,7 +6485,7 @@
     "size": 196164059,
     "url": "https://download.java.net/java/early_access/jdk20/32/GPL/openjdk-20-ea+32_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+32"
+    "version": "20-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -6508,7 +6508,7 @@
     "size": 195942586,
     "url": "https://download.java.net/java/early_access/jdk20/33/GPL/openjdk-20-ea+33_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+33"
+    "version": "20-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -6531,7 +6531,7 @@
     "size": 197546285,
     "url": "https://download.java.net/java/early_access/jdk20/33/GPL/openjdk-20-ea+33_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+33"
+    "version": "20-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -6554,7 +6554,7 @@
     "size": 191877574,
     "url": "https://download.java.net/java/early_access/jdk20/33/GPL/openjdk-20-ea+33_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+33"
+    "version": "20-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -6577,7 +6577,7 @@
     "size": 194320940,
     "url": "https://download.java.net/java/early_access/jdk20/33/GPL/openjdk-20-ea+33_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+33"
+    "version": "20-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -6600,7 +6600,7 @@
     "size": 196164823,
     "url": "https://download.java.net/java/early_access/jdk20/33/GPL/openjdk-20-ea+33_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+33"
+    "version": "20-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -6623,7 +6623,7 @@
     "size": 195953702,
     "url": "https://download.java.net/java/early_access/jdk20/34/GPL/openjdk-20-ea+34_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+34"
+    "version": "20-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -6646,7 +6646,7 @@
     "size": 197560618,
     "url": "https://download.java.net/java/early_access/jdk20/34/GPL/openjdk-20-ea+34_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+34"
+    "version": "20-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -6669,7 +6669,7 @@
     "size": 191880791,
     "url": "https://download.java.net/java/early_access/jdk20/34/GPL/openjdk-20-ea+34_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+34"
+    "version": "20-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -6692,7 +6692,7 @@
     "size": 194329014,
     "url": "https://download.java.net/java/early_access/jdk20/34/GPL/openjdk-20-ea+34_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+34"
+    "version": "20-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -6715,7 +6715,7 @@
     "size": 196176440,
     "url": "https://download.java.net/java/early_access/jdk20/34/GPL/openjdk-20-ea+34_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+34"
+    "version": "20-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -6738,7 +6738,7 @@
     "size": 195953617,
     "url": "https://download.java.net/java/early_access/jdk20/35/GPL/openjdk-20-ea+35_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+35"
+    "version": "20-ea+35"
   },
   {
     "architecture": "x86_64",
@@ -6761,7 +6761,7 @@
     "size": 197561713,
     "url": "https://download.java.net/java/early_access/jdk20/35/GPL/openjdk-20-ea+35_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+35"
+    "version": "20-ea+35"
   },
   {
     "architecture": "aarch64",
@@ -6784,7 +6784,7 @@
     "size": 191880458,
     "url": "https://download.java.net/java/early_access/jdk20/35/GPL/openjdk-20-ea+35_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+35"
+    "version": "20-ea+35"
   },
   {
     "architecture": "x86_64",
@@ -6807,7 +6807,7 @@
     "size": 194328998,
     "url": "https://download.java.net/java/early_access/jdk20/35/GPL/openjdk-20-ea+35_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+35"
+    "version": "20-ea+35"
   },
   {
     "architecture": "x86_64",
@@ -6830,7 +6830,7 @@
     "size": 196174968,
     "url": "https://download.java.net/java/early_access/jdk20/35/GPL/openjdk-20-ea+35_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-ea+35"
+    "version": "20-ea+35"
   },
   {
     "architecture": "aarch64",
@@ -6853,7 +6853,7 @@
     "size": 195062698,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-34_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-34"
+    "version": "20-loom+20-34"
   },
   {
     "architecture": "x86_64",
@@ -6876,7 +6876,7 @@
     "size": 196581116,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-34_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-34"
+    "version": "20-loom+20-34"
   },
   {
     "architecture": "aarch64",
@@ -6899,7 +6899,7 @@
     "size": 191053739,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-34_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-34"
+    "version": "20-loom+20-34"
   },
   {
     "architecture": "x86_64",
@@ -6922,7 +6922,7 @@
     "size": 193354381,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-34_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-34"
+    "version": "20-loom+20-34"
   },
   {
     "architecture": "x86_64",
@@ -6945,7 +6945,7 @@
     "size": 195246388,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-34_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-34"
+    "version": "20-loom+20-34"
   },
   {
     "architecture": "aarch64",
@@ -6968,7 +6968,7 @@
     "size": 196195129,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-40_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-40"
+    "version": "20-loom+20-40"
   },
   {
     "architecture": "x86_64",
@@ -6991,7 +6991,7 @@
     "size": 197718937,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-40_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-40"
+    "version": "20-loom+20-40"
   },
   {
     "architecture": "aarch64",
@@ -7014,7 +7014,7 @@
     "size": 192090481,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-40_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-40"
+    "version": "20-loom+20-40"
   },
   {
     "architecture": "x86_64",
@@ -7037,7 +7037,7 @@
     "size": 194439806,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-40_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-40"
+    "version": "20-loom+20-40"
   },
   {
     "architecture": "x86_64",
@@ -7060,7 +7060,7 @@
     "size": 196332500,
     "url": "https://download.java.net/java/early_access/loom/20/openjdk-20-loom+20-40_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-loom+20-40"
+    "version": "20-loom+20-40"
   },
   {
     "architecture": "aarch64",
@@ -7083,7 +7083,7 @@
     "size": 197013907,
     "url": "https://download.java.net/java/early_access/valhalla/20/openjdk-20-valhalla+20-75_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-valhalla+20-75"
+    "version": "20-valhalla+20-75"
   },
   {
     "architecture": "x86_64",
@@ -7106,7 +7106,7 @@
     "size": 198532010,
     "url": "https://download.java.net/java/early_access/valhalla/20/openjdk-20-valhalla+20-75_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-valhalla+20-75"
+    "version": "20-valhalla+20-75"
   },
   {
     "architecture": "aarch64",
@@ -7129,7 +7129,7 @@
     "size": 192784409,
     "url": "https://download.java.net/java/early_access/valhalla/20/openjdk-20-valhalla+20-75_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-valhalla+20-75"
+    "version": "20-valhalla+20-75"
   },
   {
     "architecture": "x86_64",
@@ -7152,7 +7152,7 @@
     "size": 195195703,
     "url": "https://download.java.net/java/early_access/valhalla/20/openjdk-20-valhalla+20-75_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0-valhalla+20-75"
+    "version": "20-valhalla+20-75"
   },
   {
     "architecture": "x86_64",
@@ -7175,7 +7175,7 @@
     "size": 197015482,
     "url": "https://download.java.net/java/early_access/valhalla/20/openjdk-20-valhalla+20-75_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0-valhalla+20-75"
+    "version": "20-valhalla+20-75"
   },
   {
     "architecture": "aarch64",
@@ -7428,7 +7428,7 @@
     "size": 195952958,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -7451,7 +7451,7 @@
     "size": 197562076,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "aarch64",
@@ -7474,7 +7474,7 @@
     "size": 191881541,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -7497,7 +7497,7 @@
     "size": 194328775,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -7520,7 +7520,7 @@
     "size": 196174504,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "aarch64",
@@ -7543,7 +7543,7 @@
     "size": 201479824,
     "url": "https://download.java.net/java/early_access/jdk21/26/GPL/openjdk-21-ea+26_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+26"
+    "version": "21-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -7566,7 +7566,7 @@
     "size": 203235955,
     "url": "https://download.java.net/java/early_access/jdk21/26/GPL/openjdk-21-ea+26_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+26"
+    "version": "21-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -7589,7 +7589,7 @@
     "size": 197186918,
     "url": "https://download.java.net/java/early_access/jdk21/26/GPL/openjdk-21-ea+26_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+26"
+    "version": "21-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -7612,7 +7612,7 @@
     "size": 199546178,
     "url": "https://download.java.net/java/early_access/jdk21/26/GPL/openjdk-21-ea+26_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+26"
+    "version": "21-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -7635,7 +7635,7 @@
     "size": 201055635,
     "url": "https://download.java.net/java/early_access/jdk21/26/GPL/openjdk-21-ea+26_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+26"
+    "version": "21-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -7658,7 +7658,7 @@
     "size": 201481862,
     "url": "https://download.java.net/java/early_access/jdk21/27/GPL/openjdk-21-ea+27_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+27"
+    "version": "21-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -7681,7 +7681,7 @@
     "size": 203245020,
     "url": "https://download.java.net/java/early_access/jdk21/27/GPL/openjdk-21-ea+27_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+27"
+    "version": "21-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -7704,7 +7704,7 @@
     "size": 197192338,
     "url": "https://download.java.net/java/early_access/jdk21/27/GPL/openjdk-21-ea+27_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+27"
+    "version": "21-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -7727,7 +7727,7 @@
     "size": 199553993,
     "url": "https://download.java.net/java/early_access/jdk21/27/GPL/openjdk-21-ea+27_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+27"
+    "version": "21-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -7750,7 +7750,7 @@
     "size": 201056349,
     "url": "https://download.java.net/java/early_access/jdk21/27/GPL/openjdk-21-ea+27_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+27"
+    "version": "21-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -7773,7 +7773,7 @@
     "size": 201506128,
     "url": "https://download.java.net/java/early_access/jdk21/28/GPL/openjdk-21-ea+28_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+28"
+    "version": "21-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -7796,7 +7796,7 @@
     "size": 203263845,
     "url": "https://download.java.net/java/early_access/jdk21/28/GPL/openjdk-21-ea+28_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+28"
+    "version": "21-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -7819,7 +7819,7 @@
     "size": 197202293,
     "url": "https://download.java.net/java/early_access/jdk21/28/GPL/openjdk-21-ea+28_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+28"
+    "version": "21-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -7842,7 +7842,7 @@
     "size": 199562401,
     "url": "https://download.java.net/java/early_access/jdk21/28/GPL/openjdk-21-ea+28_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+28"
+    "version": "21-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -7865,7 +7865,7 @@
     "size": 201070577,
     "url": "https://download.java.net/java/early_access/jdk21/28/GPL/openjdk-21-ea+28_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+28"
+    "version": "21-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -7888,7 +7888,7 @@
     "size": 201531498,
     "url": "https://download.java.net/java/early_access/jdk21/29/GPL/openjdk-21-ea+29_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+29"
+    "version": "21-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -7911,7 +7911,7 @@
     "size": 203276169,
     "url": "https://download.java.net/java/early_access/jdk21/29/GPL/openjdk-21-ea+29_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+29"
+    "version": "21-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -7934,7 +7934,7 @@
     "size": 197241326,
     "url": "https://download.java.net/java/early_access/jdk21/29/GPL/openjdk-21-ea+29_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+29"
+    "version": "21-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -7957,7 +7957,7 @@
     "size": 199598762,
     "url": "https://download.java.net/java/early_access/jdk21/29/GPL/openjdk-21-ea+29_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+29"
+    "version": "21-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -7980,7 +7980,7 @@
     "size": 201105629,
     "url": "https://download.java.net/java/early_access/jdk21/29/GPL/openjdk-21-ea+29_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+29"
+    "version": "21-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -8003,7 +8003,7 @@
     "size": 201536814,
     "url": "https://download.java.net/java/early_access/jdk21/30/GPL/openjdk-21-ea+30_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+30"
+    "version": "21-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -8026,7 +8026,7 @@
     "size": 203283966,
     "url": "https://download.java.net/java/early_access/jdk21/30/GPL/openjdk-21-ea+30_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+30"
+    "version": "21-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -8049,7 +8049,7 @@
     "size": 197240285,
     "url": "https://download.java.net/java/early_access/jdk21/30/GPL/openjdk-21-ea+30_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+30"
+    "version": "21-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -8072,7 +8072,7 @@
     "size": 199602110,
     "url": "https://download.java.net/java/early_access/jdk21/30/GPL/openjdk-21-ea+30_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+30"
+    "version": "21-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -8095,7 +8095,7 @@
     "size": 201105927,
     "url": "https://download.java.net/java/early_access/jdk21/30/GPL/openjdk-21-ea+30_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+30"
+    "version": "21-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -8118,7 +8118,7 @@
     "size": 201530328,
     "url": "https://download.java.net/java/early_access/jdk21/31/GPL/openjdk-21-ea+31_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+31"
+    "version": "21-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -8141,7 +8141,7 @@
     "size": 203280989,
     "url": "https://download.java.net/java/early_access/jdk21/31/GPL/openjdk-21-ea+31_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+31"
+    "version": "21-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -8164,7 +8164,7 @@
     "size": 197242615,
     "url": "https://download.java.net/java/early_access/jdk21/31/GPL/openjdk-21-ea+31_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+31"
+    "version": "21-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -8187,7 +8187,7 @@
     "size": 199600304,
     "url": "https://download.java.net/java/early_access/jdk21/31/GPL/openjdk-21-ea+31_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+31"
+    "version": "21-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -8210,7 +8210,7 @@
     "size": 201106775,
     "url": "https://download.java.net/java/early_access/jdk21/31/GPL/openjdk-21-ea+31_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+31"
+    "version": "21-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -8233,7 +8233,7 @@
     "size": 201579312,
     "url": "https://download.java.net/java/early_access/jdk21/32/GPL/openjdk-21-ea+32_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+32"
+    "version": "21-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -8256,7 +8256,7 @@
     "size": 203346724,
     "url": "https://download.java.net/java/early_access/jdk21/32/GPL/openjdk-21-ea+32_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+32"
+    "version": "21-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -8279,7 +8279,7 @@
     "size": 197299081,
     "url": "https://download.java.net/java/early_access/jdk21/32/GPL/openjdk-21-ea+32_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+32"
+    "version": "21-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -8302,7 +8302,7 @@
     "size": 199653884,
     "url": "https://download.java.net/java/early_access/jdk21/32/GPL/openjdk-21-ea+32_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+32"
+    "version": "21-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -8325,7 +8325,7 @@
     "size": 201150100,
     "url": "https://download.java.net/java/early_access/jdk21/32/GPL/openjdk-21-ea+32_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+32"
+    "version": "21-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -8348,7 +8348,7 @@
     "size": 201578351,
     "url": "https://download.java.net/java/early_access/jdk21/33/GPL/openjdk-21-ea+33_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+33"
+    "version": "21-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -8371,7 +8371,7 @@
     "size": 203341378,
     "url": "https://download.java.net/java/early_access/jdk21/33/GPL/openjdk-21-ea+33_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+33"
+    "version": "21-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -8394,7 +8394,7 @@
     "size": 197299349,
     "url": "https://download.java.net/java/early_access/jdk21/33/GPL/openjdk-21-ea+33_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+33"
+    "version": "21-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -8417,7 +8417,7 @@
     "size": 199654608,
     "url": "https://download.java.net/java/early_access/jdk21/33/GPL/openjdk-21-ea+33_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+33"
+    "version": "21-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -8440,7 +8440,7 @@
     "size": 201149432,
     "url": "https://download.java.net/java/early_access/jdk21/33/GPL/openjdk-21-ea+33_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+33"
+    "version": "21-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -8463,7 +8463,7 @@
     "size": 201581891,
     "url": "https://download.java.net/java/early_access/jdk21/34/GPL/openjdk-21-ea+34_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+34"
+    "version": "21-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -8486,7 +8486,7 @@
     "size": 203348001,
     "url": "https://download.java.net/java/early_access/jdk21/34/GPL/openjdk-21-ea+34_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+34"
+    "version": "21-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -8509,7 +8509,7 @@
     "size": 197299315,
     "url": "https://download.java.net/java/early_access/jdk21/34/GPL/openjdk-21-ea+34_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+34"
+    "version": "21-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -8532,7 +8532,7 @@
     "size": 199656112,
     "url": "https://download.java.net/java/early_access/jdk21/34/GPL/openjdk-21-ea+34_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+34"
+    "version": "21-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -8555,7 +8555,7 @@
     "size": 201152588,
     "url": "https://download.java.net/java/early_access/jdk21/34/GPL/openjdk-21-ea+34_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0-ea+34"
+    "version": "21-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -8808,7 +8808,7 @@
     "size": 201583910,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -8831,7 +8831,7 @@
     "size": 203348211,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "aarch64",
@@ -8854,7 +8854,7 @@
     "size": 197305058,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -8877,7 +8877,7 @@
     "size": 199663920,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -8900,7 +8900,7 @@
     "size": 201151266,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "aarch64",
@@ -8923,7 +8923,7 @@
     "size": 202441168,
     "url": "https://download.java.net/java/early_access/jdk22/10/GPL/openjdk-22-ea+10_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+10"
+    "version": "22-ea+10"
   },
   {
     "architecture": "x86_64",
@@ -8946,7 +8946,7 @@
     "size": 204199398,
     "url": "https://download.java.net/java/early_access/jdk22/10/GPL/openjdk-22-ea+10_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+10"
+    "version": "22-ea+10"
   },
   {
     "architecture": "aarch64",
@@ -8969,7 +8969,7 @@
     "size": 198123463,
     "url": "https://download.java.net/java/early_access/jdk22/10/GPL/openjdk-22-ea+10_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+10"
+    "version": "22-ea+10"
   },
   {
     "architecture": "x86_64",
@@ -8992,7 +8992,7 @@
     "size": 200485830,
     "url": "https://download.java.net/java/early_access/jdk22/10/GPL/openjdk-22-ea+10_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+10"
+    "version": "22-ea+10"
   },
   {
     "architecture": "x86_64",
@@ -9015,7 +9015,7 @@
     "size": 201950053,
     "url": "https://download.java.net/java/early_access/jdk22/10/GPL/openjdk-22-ea+10_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+10"
+    "version": "22-ea+10"
   },
   {
     "architecture": "aarch64",
@@ -9038,7 +9038,7 @@
     "size": 202472965,
     "url": "https://download.java.net/java/early_access/jdk22/11/GPL/openjdk-22-ea+11_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+11"
+    "version": "22-ea+11"
   },
   {
     "architecture": "x86_64",
@@ -9061,7 +9061,7 @@
     "size": 204234115,
     "url": "https://download.java.net/java/early_access/jdk22/11/GPL/openjdk-22-ea+11_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+11"
+    "version": "22-ea+11"
   },
   {
     "architecture": "aarch64",
@@ -9084,7 +9084,7 @@
     "size": 198136248,
     "url": "https://download.java.net/java/early_access/jdk22/11/GPL/openjdk-22-ea+11_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+11"
+    "version": "22-ea+11"
   },
   {
     "architecture": "x86_64",
@@ -9107,7 +9107,7 @@
     "size": 200517093,
     "url": "https://download.java.net/java/early_access/jdk22/11/GPL/openjdk-22-ea+11_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+11"
+    "version": "22-ea+11"
   },
   {
     "architecture": "x86_64",
@@ -9130,7 +9130,7 @@
     "size": 201975542,
     "url": "https://download.java.net/java/early_access/jdk22/11/GPL/openjdk-22-ea+11_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+11"
+    "version": "22-ea+11"
   },
   {
     "architecture": "aarch64",
@@ -9153,7 +9153,7 @@
     "size": 202498959,
     "url": "https://download.java.net/java/early_access/jdk22/12/GPL/openjdk-22-ea+12_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+12"
+    "version": "22-ea+12"
   },
   {
     "architecture": "x86_64",
@@ -9176,7 +9176,7 @@
     "size": 204263091,
     "url": "https://download.java.net/java/early_access/jdk22/12/GPL/openjdk-22-ea+12_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+12"
+    "version": "22-ea+12"
   },
   {
     "architecture": "aarch64",
@@ -9199,7 +9199,7 @@
     "size": 198180572,
     "url": "https://download.java.net/java/early_access/jdk22/12/GPL/openjdk-22-ea+12_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+12"
+    "version": "22-ea+12"
   },
   {
     "architecture": "x86_64",
@@ -9222,7 +9222,7 @@
     "size": 200555644,
     "url": "https://download.java.net/java/early_access/jdk22/12/GPL/openjdk-22-ea+12_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+12"
+    "version": "22-ea+12"
   },
   {
     "architecture": "x86_64",
@@ -9245,7 +9245,7 @@
     "size": 202013749,
     "url": "https://download.java.net/java/early_access/jdk22/12/GPL/openjdk-22-ea+12_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+12"
+    "version": "22-ea+12"
   },
   {
     "architecture": "aarch64",
@@ -9268,7 +9268,7 @@
     "size": 202523182,
     "url": "https://download.java.net/java/early_access/jdk22/13/GPL/openjdk-22-ea+13_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+13"
+    "version": "22-ea+13"
   },
   {
     "architecture": "x86_64",
@@ -9291,7 +9291,7 @@
     "size": 204275359,
     "url": "https://download.java.net/java/early_access/jdk22/13/GPL/openjdk-22-ea+13_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+13"
+    "version": "22-ea+13"
   },
   {
     "architecture": "aarch64",
@@ -9314,7 +9314,7 @@
     "size": 198199839,
     "url": "https://download.java.net/java/early_access/jdk22/13/GPL/openjdk-22-ea+13_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+13"
+    "version": "22-ea+13"
   },
   {
     "architecture": "x86_64",
@@ -9337,7 +9337,7 @@
     "size": 200575982,
     "url": "https://download.java.net/java/early_access/jdk22/13/GPL/openjdk-22-ea+13_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+13"
+    "version": "22-ea+13"
   },
   {
     "architecture": "x86_64",
@@ -9360,7 +9360,7 @@
     "size": 202030040,
     "url": "https://download.java.net/java/early_access/jdk22/13/GPL/openjdk-22-ea+13_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+13"
+    "version": "22-ea+13"
   },
   {
     "architecture": "aarch64",
@@ -9383,7 +9383,7 @@
     "size": 202574393,
     "url": "https://download.java.net/java/early_access/jdk22/14/GPL/openjdk-22-ea+14_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+14"
+    "version": "22-ea+14"
   },
   {
     "architecture": "x86_64",
@@ -9406,7 +9406,7 @@
     "size": 204341047,
     "url": "https://download.java.net/java/early_access/jdk22/14/GPL/openjdk-22-ea+14_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+14"
+    "version": "22-ea+14"
   },
   {
     "architecture": "aarch64",
@@ -9429,7 +9429,7 @@
     "size": 198248486,
     "url": "https://download.java.net/java/early_access/jdk22/14/GPL/openjdk-22-ea+14_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+14"
+    "version": "22-ea+14"
   },
   {
     "architecture": "x86_64",
@@ -9452,7 +9452,7 @@
     "size": 200639328,
     "url": "https://download.java.net/java/early_access/jdk22/14/GPL/openjdk-22-ea+14_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+14"
+    "version": "22-ea+14"
   },
   {
     "architecture": "x86_64",
@@ -9475,7 +9475,7 @@
     "size": 202084611,
     "url": "https://download.java.net/java/early_access/jdk22/14/GPL/openjdk-22-ea+14_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+14"
+    "version": "22-ea+14"
   },
   {
     "architecture": "aarch64",
@@ -9498,7 +9498,7 @@
     "size": 202698217,
     "url": "https://download.java.net/java/early_access/jdk22/15/GPL/openjdk-22-ea+15_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+15"
+    "version": "22-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -9521,7 +9521,7 @@
     "size": 204482997,
     "url": "https://download.java.net/java/early_access/jdk22/15/GPL/openjdk-22-ea+15_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+15"
+    "version": "22-ea+15"
   },
   {
     "architecture": "aarch64",
@@ -9544,7 +9544,7 @@
     "size": 198385436,
     "url": "https://download.java.net/java/early_access/jdk22/15/GPL/openjdk-22-ea+15_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+15"
+    "version": "22-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -9567,7 +9567,7 @@
     "size": 200773254,
     "url": "https://download.java.net/java/early_access/jdk22/15/GPL/openjdk-22-ea+15_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+15"
+    "version": "22-ea+15"
   },
   {
     "architecture": "x86_64",
@@ -9590,7 +9590,7 @@
     "size": 202217274,
     "url": "https://download.java.net/java/early_access/jdk22/15/GPL/openjdk-22-ea+15_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+15"
+    "version": "22-ea+15"
   },
   {
     "architecture": "aarch64",
@@ -9613,7 +9613,7 @@
     "size": 202686543,
     "url": "https://download.java.net/java/early_access/jdk22/16/GPL/openjdk-22-ea+16_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+16"
+    "version": "22-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -9636,7 +9636,7 @@
     "size": 204462979,
     "url": "https://download.java.net/java/early_access/jdk22/16/GPL/openjdk-22-ea+16_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+16"
+    "version": "22-ea+16"
   },
   {
     "architecture": "aarch64",
@@ -9659,7 +9659,7 @@
     "size": 198352012,
     "url": "https://download.java.net/java/early_access/jdk22/16/GPL/openjdk-22-ea+16_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+16"
+    "version": "22-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -9682,7 +9682,7 @@
     "size": 200738994,
     "url": "https://download.java.net/java/early_access/jdk22/16/GPL/openjdk-22-ea+16_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+16"
+    "version": "22-ea+16"
   },
   {
     "architecture": "x86_64",
@@ -9705,7 +9705,7 @@
     "size": 202208116,
     "url": "https://download.java.net/java/early_access/jdk22/16/GPL/openjdk-22-ea+16_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+16"
+    "version": "22-ea+16"
   },
   {
     "architecture": "aarch64",
@@ -9728,7 +9728,7 @@
     "size": 202697480,
     "url": "https://download.java.net/java/early_access/jdk22/17/GPL/openjdk-22-ea+17_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+17"
+    "version": "22-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -9751,7 +9751,7 @@
     "size": 204478393,
     "url": "https://download.java.net/java/early_access/jdk22/17/GPL/openjdk-22-ea+17_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+17"
+    "version": "22-ea+17"
   },
   {
     "architecture": "aarch64",
@@ -9774,7 +9774,7 @@
     "size": 198377222,
     "url": "https://download.java.net/java/early_access/jdk22/17/GPL/openjdk-22-ea+17_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+17"
+    "version": "22-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -9797,7 +9797,7 @@
     "size": 200759294,
     "url": "https://download.java.net/java/early_access/jdk22/17/GPL/openjdk-22-ea+17_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+17"
+    "version": "22-ea+17"
   },
   {
     "architecture": "x86_64",
@@ -9820,7 +9820,7 @@
     "size": 202216666,
     "url": "https://download.java.net/java/early_access/jdk22/17/GPL/openjdk-22-ea+17_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+17"
+    "version": "22-ea+17"
   },
   {
     "architecture": "aarch64",
@@ -9843,7 +9843,7 @@
     "size": 202699499,
     "url": "https://download.java.net/java/early_access/jdk22/18/GPL/openjdk-22-ea+18_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+18"
+    "version": "22-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -9866,7 +9866,7 @@
     "size": 204529310,
     "url": "https://download.java.net/java/early_access/jdk22/18/GPL/openjdk-22-ea+18_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+18"
+    "version": "22-ea+18"
   },
   {
     "architecture": "aarch64",
@@ -9889,7 +9889,7 @@
     "size": 198384844,
     "url": "https://download.java.net/java/early_access/jdk22/18/GPL/openjdk-22-ea+18_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+18"
+    "version": "22-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -9912,7 +9912,7 @@
     "size": 200772038,
     "url": "https://download.java.net/java/early_access/jdk22/18/GPL/openjdk-22-ea+18_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+18"
+    "version": "22-ea+18"
   },
   {
     "architecture": "x86_64",
@@ -9935,7 +9935,7 @@
     "size": 202228707,
     "url": "https://download.java.net/java/early_access/jdk22/18/GPL/openjdk-22-ea+18_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+18"
+    "version": "22-ea+18"
   },
   {
     "architecture": "aarch64",
@@ -9958,7 +9958,7 @@
     "size": 202718815,
     "url": "https://download.java.net/java/early_access/jdk22/19/GPL/openjdk-22-ea+19_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+19"
+    "version": "22-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -9981,7 +9981,7 @@
     "size": 204597173,
     "url": "https://download.java.net/java/early_access/jdk22/19/GPL/openjdk-22-ea+19_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+19"
+    "version": "22-ea+19"
   },
   {
     "architecture": "aarch64",
@@ -10004,7 +10004,7 @@
     "size": 198494189,
     "url": "https://download.java.net/java/early_access/jdk22/19/GPL/openjdk-22-ea+19_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+19"
+    "version": "22-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -10027,7 +10027,7 @@
     "size": 200778547,
     "url": "https://download.java.net/java/early_access/jdk22/19/GPL/openjdk-22-ea+19_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+19"
+    "version": "22-ea+19"
   },
   {
     "architecture": "x86_64",
@@ -10050,7 +10050,7 @@
     "size": 202235000,
     "url": "https://download.java.net/java/early_access/jdk22/19/GPL/openjdk-22-ea+19_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+19"
+    "version": "22-ea+19"
   },
   {
     "architecture": "aarch64",
@@ -10073,7 +10073,7 @@
     "size": 202367398,
     "url": "https://download.java.net/java/early_access/jdk22/1/GPL/openjdk-22-ea+1_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+1"
+    "version": "22-ea+1"
   },
   {
     "architecture": "x86_64",
@@ -10096,7 +10096,7 @@
     "size": 204124798,
     "url": "https://download.java.net/java/early_access/jdk22/1/GPL/openjdk-22-ea+1_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+1"
+    "version": "22-ea+1"
   },
   {
     "architecture": "aarch64",
@@ -10119,7 +10119,7 @@
     "size": 198084266,
     "url": "https://download.java.net/java/early_access/jdk22/1/GPL/openjdk-22-ea+1_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+1"
+    "version": "22-ea+1"
   },
   {
     "architecture": "x86_64",
@@ -10142,7 +10142,7 @@
     "size": 200440696,
     "url": "https://download.java.net/java/early_access/jdk22/1/GPL/openjdk-22-ea+1_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+1"
+    "version": "22-ea+1"
   },
   {
     "architecture": "x86_64",
@@ -10165,7 +10165,7 @@
     "size": 201950157,
     "url": "https://download.java.net/java/early_access/jdk22/1/GPL/openjdk-22-ea+1_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+1"
+    "version": "22-ea+1"
   },
   {
     "architecture": "aarch64",
@@ -10188,7 +10188,7 @@
     "size": 202790590,
     "url": "https://download.java.net/java/early_access/jdk22/20/GPL/openjdk-22-ea+20_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+20"
+    "version": "22-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -10211,7 +10211,7 @@
     "size": 204699768,
     "url": "https://download.java.net/java/early_access/jdk22/20/GPL/openjdk-22-ea+20_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+20"
+    "version": "22-ea+20"
   },
   {
     "architecture": "aarch64",
@@ -10234,7 +10234,7 @@
     "size": 198583783,
     "url": "https://download.java.net/java/early_access/jdk22/20/GPL/openjdk-22-ea+20_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+20"
+    "version": "22-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -10257,7 +10257,7 @@
     "size": 200895168,
     "url": "https://download.java.net/java/early_access/jdk22/20/GPL/openjdk-22-ea+20_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+20"
+    "version": "22-ea+20"
   },
   {
     "architecture": "x86_64",
@@ -10280,7 +10280,7 @@
     "size": 202307021,
     "url": "https://download.java.net/java/early_access/jdk22/20/GPL/openjdk-22-ea+20_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+20"
+    "version": "22-ea+20"
   },
   {
     "architecture": "aarch64",
@@ -10303,7 +10303,7 @@
     "size": 203032898,
     "url": "https://download.java.net/java/early_access/jdk22/21/GPL/openjdk-22-ea+21_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+21"
+    "version": "22-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -10326,7 +10326,7 @@
     "size": 204942717,
     "url": "https://download.java.net/java/early_access/jdk22/21/GPL/openjdk-22-ea+21_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+21"
+    "version": "22-ea+21"
   },
   {
     "architecture": "aarch64",
@@ -10349,7 +10349,7 @@
     "size": 198844281,
     "url": "https://download.java.net/java/early_access/jdk22/21/GPL/openjdk-22-ea+21_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+21"
+    "version": "22-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -10372,7 +10372,7 @@
     "size": 201162817,
     "url": "https://download.java.net/java/early_access/jdk22/21/GPL/openjdk-22-ea+21_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+21"
+    "version": "22-ea+21"
   },
   {
     "architecture": "x86_64",
@@ -10395,7 +10395,7 @@
     "size": 202553503,
     "url": "https://download.java.net/java/early_access/jdk22/21/GPL/openjdk-22-ea+21_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+21"
+    "version": "22-ea+21"
   },
   {
     "architecture": "aarch64",
@@ -10418,7 +10418,7 @@
     "size": 203242201,
     "url": "https://download.java.net/java/early_access/jdk22/22/GPL/openjdk-22-ea+22_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+22"
+    "version": "22-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -10441,7 +10441,7 @@
     "size": 205189998,
     "url": "https://download.java.net/java/early_access/jdk22/22/GPL/openjdk-22-ea+22_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+22"
+    "version": "22-ea+22"
   },
   {
     "architecture": "aarch64",
@@ -10464,7 +10464,7 @@
     "size": 199029853,
     "url": "https://download.java.net/java/early_access/jdk22/22/GPL/openjdk-22-ea+22_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+22"
+    "version": "22-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -10487,7 +10487,7 @@
     "size": 201365146,
     "url": "https://download.java.net/java/early_access/jdk22/22/GPL/openjdk-22-ea+22_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+22"
+    "version": "22-ea+22"
   },
   {
     "architecture": "x86_64",
@@ -10510,7 +10510,7 @@
     "size": 202678323,
     "url": "https://download.java.net/java/early_access/jdk22/22/GPL/openjdk-22-ea+22_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+22"
+    "version": "22-ea+22"
   },
   {
     "architecture": "aarch64",
@@ -10533,7 +10533,7 @@
     "size": 202659278,
     "url": "https://download.java.net/java/early_access/jdk22/23/GPL/openjdk-22-ea+23_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+23"
+    "version": "22-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -10556,7 +10556,7 @@
     "size": 204556327,
     "url": "https://download.java.net/java/early_access/jdk22/23/GPL/openjdk-22-ea+23_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+23"
+    "version": "22-ea+23"
   },
   {
     "architecture": "aarch64",
@@ -10579,7 +10579,7 @@
     "size": 198489249,
     "url": "https://download.java.net/java/early_access/jdk22/23/GPL/openjdk-22-ea+23_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+23"
+    "version": "22-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -10602,7 +10602,7 @@
     "size": 200750490,
     "url": "https://download.java.net/java/early_access/jdk22/23/GPL/openjdk-22-ea+23_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+23"
+    "version": "22-ea+23"
   },
   {
     "architecture": "x86_64",
@@ -10625,7 +10625,7 @@
     "size": 203090477,
     "url": "https://download.java.net/java/early_access/jdk22/23/GPL/openjdk-22-ea+23_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+23"
+    "version": "22-ea+23"
   },
   {
     "architecture": "aarch64",
@@ -10648,7 +10648,7 @@
     "size": 201647001,
     "url": "https://download.java.net/java/early_access/jdk22/24/GPL/openjdk-22-ea+24_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+24"
+    "version": "22-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -10671,7 +10671,7 @@
     "size": 203694851,
     "url": "https://download.java.net/java/early_access/jdk22/24/GPL/openjdk-22-ea+24_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+24"
+    "version": "22-ea+24"
   },
   {
     "architecture": "aarch64",
@@ -10694,7 +10694,7 @@
     "size": 197401369,
     "url": "https://download.java.net/java/early_access/jdk22/24/GPL/openjdk-22-ea+24_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+24"
+    "version": "22-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -10717,7 +10717,7 @@
     "size": 199690615,
     "url": "https://download.java.net/java/early_access/jdk22/24/GPL/openjdk-22-ea+24_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+24"
+    "version": "22-ea+24"
   },
   {
     "architecture": "x86_64",
@@ -10740,7 +10740,7 @@
     "size": 202056286,
     "url": "https://download.java.net/java/early_access/jdk22/24/GPL/openjdk-22-ea+24_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+24"
+    "version": "22-ea+24"
   },
   {
     "architecture": "aarch64",
@@ -10763,7 +10763,7 @@
     "size": 201724637,
     "url": "https://download.java.net/java/early_access/jdk22/25/GPL/openjdk-22-ea+25_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+25"
+    "version": "22-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -10786,7 +10786,7 @@
     "size": 203759892,
     "url": "https://download.java.net/java/early_access/jdk22/25/GPL/openjdk-22-ea+25_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+25"
+    "version": "22-ea+25"
   },
   {
     "architecture": "aarch64",
@@ -10809,7 +10809,7 @@
     "size": 197456119,
     "url": "https://download.java.net/java/early_access/jdk22/25/GPL/openjdk-22-ea+25_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+25"
+    "version": "22-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -10832,7 +10832,7 @@
     "size": 199739590,
     "url": "https://download.java.net/java/early_access/jdk22/25/GPL/openjdk-22-ea+25_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+25"
+    "version": "22-ea+25"
   },
   {
     "architecture": "x86_64",
@@ -10855,7 +10855,7 @@
     "size": 202105002,
     "url": "https://download.java.net/java/early_access/jdk22/25/GPL/openjdk-22-ea+25_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+25"
+    "version": "22-ea+25"
   },
   {
     "architecture": "aarch64",
@@ -10878,7 +10878,7 @@
     "size": 202552168,
     "url": "https://download.java.net/java/early_access/jdk22/26/GPL/openjdk-22-ea+26_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+26"
+    "version": "22-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -10901,7 +10901,7 @@
     "size": 204608040,
     "url": "https://download.java.net/java/early_access/jdk22/26/GPL/openjdk-22-ea+26_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+26"
+    "version": "22-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -10924,7 +10924,7 @@
     "size": 198295745,
     "url": "https://download.java.net/java/early_access/jdk22/26/GPL/openjdk-22-ea+26_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+26"
+    "version": "22-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -10947,7 +10947,7 @@
     "size": 200586186,
     "url": "https://download.java.net/java/early_access/jdk22/26/GPL/openjdk-22-ea+26_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+26"
+    "version": "22-ea+26"
   },
   {
     "architecture": "x86_64",
@@ -10970,7 +10970,7 @@
     "size": 202938697,
     "url": "https://download.java.net/java/early_access/jdk22/26/GPL/openjdk-22-ea+26_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+26"
+    "version": "22-ea+26"
   },
   {
     "architecture": "aarch64",
@@ -10993,7 +10993,7 @@
     "size": 200110448,
     "url": "https://download.java.net/java/early_access/jdk22/27/GPL/openjdk-22-ea+27_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+27"
+    "version": "22-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -11016,7 +11016,7 @@
     "size": 202161006,
     "url": "https://download.java.net/java/early_access/jdk22/27/GPL/openjdk-22-ea+27_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+27"
+    "version": "22-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -11039,7 +11039,7 @@
     "size": 195844399,
     "url": "https://download.java.net/java/early_access/jdk22/27/GPL/openjdk-22-ea+27_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+27"
+    "version": "22-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -11062,7 +11062,7 @@
     "size": 198133536,
     "url": "https://download.java.net/java/early_access/jdk22/27/GPL/openjdk-22-ea+27_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+27"
+    "version": "22-ea+27"
   },
   {
     "architecture": "x86_64",
@@ -11085,7 +11085,7 @@
     "size": 200478454,
     "url": "https://download.java.net/java/early_access/jdk22/27/GPL/openjdk-22-ea+27_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+27"
+    "version": "22-ea+27"
   },
   {
     "architecture": "aarch64",
@@ -11108,7 +11108,7 @@
     "size": 200110274,
     "url": "https://download.java.net/java/early_access/jdk22/28/GPL/openjdk-22-ea+28_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+28"
+    "version": "22-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -11131,7 +11131,7 @@
     "size": 202161335,
     "url": "https://download.java.net/java/early_access/jdk22/28/GPL/openjdk-22-ea+28_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+28"
+    "version": "22-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -11154,7 +11154,7 @@
     "size": 195846690,
     "url": "https://download.java.net/java/early_access/jdk22/28/GPL/openjdk-22-ea+28_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+28"
+    "version": "22-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -11177,7 +11177,7 @@
     "size": 198135114,
     "url": "https://download.java.net/java/early_access/jdk22/28/GPL/openjdk-22-ea+28_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+28"
+    "version": "22-ea+28"
   },
   {
     "architecture": "x86_64",
@@ -11200,7 +11200,7 @@
     "size": 200481423,
     "url": "https://download.java.net/java/early_access/jdk22/28/GPL/openjdk-22-ea+28_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+28"
+    "version": "22-ea+28"
   },
   {
     "architecture": "aarch64",
@@ -11223,7 +11223,7 @@
     "size": 200130125,
     "url": "https://download.java.net/java/early_access/jdk22/29/GPL/openjdk-22-ea+29_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+29"
+    "version": "22-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -11246,7 +11246,7 @@
     "size": 202182235,
     "url": "https://download.java.net/java/early_access/jdk22/29/GPL/openjdk-22-ea+29_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+29"
+    "version": "22-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -11269,7 +11269,7 @@
     "size": 195853758,
     "url": "https://download.java.net/java/early_access/jdk22/29/GPL/openjdk-22-ea+29_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+29"
+    "version": "22-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -11292,7 +11292,7 @@
     "size": 198146074,
     "url": "https://download.java.net/java/early_access/jdk22/29/GPL/openjdk-22-ea+29_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+29"
+    "version": "22-ea+29"
   },
   {
     "architecture": "x86_64",
@@ -11315,7 +11315,7 @@
     "size": 200499256,
     "url": "https://download.java.net/java/early_access/jdk22/29/GPL/openjdk-22-ea+29_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+29"
+    "version": "22-ea+29"
   },
   {
     "architecture": "aarch64",
@@ -11338,7 +11338,7 @@
     "size": 202241943,
     "url": "https://download.java.net/java/early_access/jdk22/2/GPL/openjdk-22-ea+2_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+2"
+    "version": "22-ea+2"
   },
   {
     "architecture": "x86_64",
@@ -11361,7 +11361,7 @@
     "size": 204005063,
     "url": "https://download.java.net/java/early_access/jdk22/2/GPL/openjdk-22-ea+2_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+2"
+    "version": "22-ea+2"
   },
   {
     "architecture": "aarch64",
@@ -11384,7 +11384,7 @@
     "size": 197965827,
     "url": "https://download.java.net/java/early_access/jdk22/2/GPL/openjdk-22-ea+2_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+2"
+    "version": "22-ea+2"
   },
   {
     "architecture": "x86_64",
@@ -11407,7 +11407,7 @@
     "size": 200325184,
     "url": "https://download.java.net/java/early_access/jdk22/2/GPL/openjdk-22-ea+2_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+2"
+    "version": "22-ea+2"
   },
   {
     "architecture": "x86_64",
@@ -11430,7 +11430,7 @@
     "size": 201813342,
     "url": "https://download.java.net/java/early_access/jdk22/2/GPL/openjdk-22-ea+2_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+2"
+    "version": "22-ea+2"
   },
   {
     "architecture": "aarch64",
@@ -11453,7 +11453,7 @@
     "size": 200133478,
     "url": "https://download.java.net/java/early_access/jdk22/30/GPL/openjdk-22-ea+30_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+30"
+    "version": "22-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -11476,7 +11476,7 @@
     "size": 202185639,
     "url": "https://download.java.net/java/early_access/jdk22/30/GPL/openjdk-22-ea+30_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+30"
+    "version": "22-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -11499,7 +11499,7 @@
     "size": 195857364,
     "url": "https://download.java.net/java/early_access/jdk22/30/GPL/openjdk-22-ea+30_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+30"
+    "version": "22-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -11522,7 +11522,7 @@
     "size": 198148949,
     "url": "https://download.java.net/java/early_access/jdk22/30/GPL/openjdk-22-ea+30_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+30"
+    "version": "22-ea+30"
   },
   {
     "architecture": "x86_64",
@@ -11545,7 +11545,7 @@
     "size": 200499054,
     "url": "https://download.java.net/java/early_access/jdk22/30/GPL/openjdk-22-ea+30_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+30"
+    "version": "22-ea+30"
   },
   {
     "architecture": "aarch64",
@@ -11568,7 +11568,7 @@
     "size": 200154172,
     "url": "https://download.java.net/java/early_access/jdk22/31/GPL/openjdk-22-ea+31_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+31"
+    "version": "22-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -11591,7 +11591,7 @@
     "size": 202196803,
     "url": "https://download.java.net/java/early_access/jdk22/31/GPL/openjdk-22-ea+31_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+31"
+    "version": "22-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -11614,7 +11614,7 @@
     "size": 195874832,
     "url": "https://download.java.net/java/early_access/jdk22/31/GPL/openjdk-22-ea+31_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+31"
+    "version": "22-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -11637,7 +11637,7 @@
     "size": 198166668,
     "url": "https://download.java.net/java/early_access/jdk22/31/GPL/openjdk-22-ea+31_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+31"
+    "version": "22-ea+31"
   },
   {
     "architecture": "x86_64",
@@ -11660,7 +11660,7 @@
     "size": 200512864,
     "url": "https://download.java.net/java/early_access/jdk22/31/GPL/openjdk-22-ea+31_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+31"
+    "version": "22-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -11683,7 +11683,7 @@
     "size": 200159800,
     "url": "https://download.java.net/java/early_access/jdk22/32/GPL/openjdk-22-ea+32_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+32"
+    "version": "22-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -11706,7 +11706,7 @@
     "size": 202207149,
     "url": "https://download.java.net/java/early_access/jdk22/32/GPL/openjdk-22-ea+32_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+32"
+    "version": "22-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -11729,7 +11729,7 @@
     "size": 195890957,
     "url": "https://download.java.net/java/early_access/jdk22/32/GPL/openjdk-22-ea+32_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+32"
+    "version": "22-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -11752,7 +11752,7 @@
     "size": 198172123,
     "url": "https://download.java.net/java/early_access/jdk22/32/GPL/openjdk-22-ea+32_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+32"
+    "version": "22-ea+32"
   },
   {
     "architecture": "x86_64",
@@ -11775,7 +11775,7 @@
     "size": 200517382,
     "url": "https://download.java.net/java/early_access/jdk22/32/GPL/openjdk-22-ea+32_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+32"
+    "version": "22-ea+32"
   },
   {
     "architecture": "aarch64",
@@ -11798,7 +11798,7 @@
     "size": 200160086,
     "url": "https://download.java.net/java/early_access/jdk22/33/GPL/openjdk-22-ea+33_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+33"
+    "version": "22-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -11821,7 +11821,7 @@
     "size": 202207828,
     "url": "https://download.java.net/java/early_access/jdk22/33/GPL/openjdk-22-ea+33_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+33"
+    "version": "22-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -11844,7 +11844,7 @@
     "size": 195890584,
     "url": "https://download.java.net/java/early_access/jdk22/33/GPL/openjdk-22-ea+33_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+33"
+    "version": "22-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -11867,7 +11867,7 @@
     "size": 198170224,
     "url": "https://download.java.net/java/early_access/jdk22/33/GPL/openjdk-22-ea+33_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+33"
+    "version": "22-ea+33"
   },
   {
     "architecture": "x86_64",
@@ -11890,7 +11890,7 @@
     "size": 200518655,
     "url": "https://download.java.net/java/early_access/jdk22/33/GPL/openjdk-22-ea+33_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+33"
+    "version": "22-ea+33"
   },
   {
     "architecture": "aarch64",
@@ -11913,7 +11913,7 @@
     "size": 200159963,
     "url": "https://download.java.net/java/early_access/jdk22/34/GPL/openjdk-22-ea+34_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+34"
+    "version": "22-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -11936,7 +11936,7 @@
     "size": 202207886,
     "url": "https://download.java.net/java/early_access/jdk22/34/GPL/openjdk-22-ea+34_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+34"
+    "version": "22-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -11959,7 +11959,7 @@
     "size": 195890938,
     "url": "https://download.java.net/java/early_access/jdk22/34/GPL/openjdk-22-ea+34_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+34"
+    "version": "22-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -11982,7 +11982,7 @@
     "size": 198170179,
     "url": "https://download.java.net/java/early_access/jdk22/34/GPL/openjdk-22-ea+34_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+34"
+    "version": "22-ea+34"
   },
   {
     "architecture": "x86_64",
@@ -12005,7 +12005,7 @@
     "size": 200518235,
     "url": "https://download.java.net/java/early_access/jdk22/34/GPL/openjdk-22-ea+34_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+34"
+    "version": "22-ea+34"
   },
   {
     "architecture": "aarch64",
@@ -12028,7 +12028,7 @@
     "size": 202292942,
     "url": "https://download.java.net/java/early_access/jdk22/3/GPL/openjdk-22-ea+3_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+3"
+    "version": "22-ea+3"
   },
   {
     "architecture": "x86_64",
@@ -12051,7 +12051,7 @@
     "size": 204038021,
     "url": "https://download.java.net/java/early_access/jdk22/3/GPL/openjdk-22-ea+3_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+3"
+    "version": "22-ea+3"
   },
   {
     "architecture": "aarch64",
@@ -12074,7 +12074,7 @@
     "size": 198009257,
     "url": "https://download.java.net/java/early_access/jdk22/3/GPL/openjdk-22-ea+3_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+3"
+    "version": "22-ea+3"
   },
   {
     "architecture": "x86_64",
@@ -12097,7 +12097,7 @@
     "size": 200362160,
     "url": "https://download.java.net/java/early_access/jdk22/3/GPL/openjdk-22-ea+3_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+3"
+    "version": "22-ea+3"
   },
   {
     "architecture": "x86_64",
@@ -12120,7 +12120,7 @@
     "size": 201863423,
     "url": "https://download.java.net/java/early_access/jdk22/3/GPL/openjdk-22-ea+3_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+3"
+    "version": "22-ea+3"
   },
   {
     "architecture": "aarch64",
@@ -12143,7 +12143,7 @@
     "size": 202307776,
     "url": "https://download.java.net/java/early_access/jdk22/4/GPL/openjdk-22-ea+4_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+4"
+    "version": "22-ea+4"
   },
   {
     "architecture": "x86_64",
@@ -12166,7 +12166,7 @@
     "size": 204075510,
     "url": "https://download.java.net/java/early_access/jdk22/4/GPL/openjdk-22-ea+4_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+4"
+    "version": "22-ea+4"
   },
   {
     "architecture": "aarch64",
@@ -12189,7 +12189,7 @@
     "size": 198043939,
     "url": "https://download.java.net/java/early_access/jdk22/4/GPL/openjdk-22-ea+4_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+4"
+    "version": "22-ea+4"
   },
   {
     "architecture": "x86_64",
@@ -12212,7 +12212,7 @@
     "size": 200405993,
     "url": "https://download.java.net/java/early_access/jdk22/4/GPL/openjdk-22-ea+4_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+4"
+    "version": "22-ea+4"
   },
   {
     "architecture": "x86_64",
@@ -12235,7 +12235,7 @@
     "size": 201863750,
     "url": "https://download.java.net/java/early_access/jdk22/4/GPL/openjdk-22-ea+4_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+4"
+    "version": "22-ea+4"
   },
   {
     "architecture": "aarch64",
@@ -12258,7 +12258,7 @@
     "size": 202320431,
     "url": "https://download.java.net/java/early_access/jdk22/5/GPL/openjdk-22-ea+5_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+5"
+    "version": "22-ea+5"
   },
   {
     "architecture": "x86_64",
@@ -12281,7 +12281,7 @@
     "size": 204085452,
     "url": "https://download.java.net/java/early_access/jdk22/5/GPL/openjdk-22-ea+5_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+5"
+    "version": "22-ea+5"
   },
   {
     "architecture": "aarch64",
@@ -12304,7 +12304,7 @@
     "size": 198049640,
     "url": "https://download.java.net/java/early_access/jdk22/5/GPL/openjdk-22-ea+5_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+5"
+    "version": "22-ea+5"
   },
   {
     "architecture": "x86_64",
@@ -12327,7 +12327,7 @@
     "size": 200414863,
     "url": "https://download.java.net/java/early_access/jdk22/5/GPL/openjdk-22-ea+5_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+5"
+    "version": "22-ea+5"
   },
   {
     "architecture": "x86_64",
@@ -12350,7 +12350,7 @@
     "size": 201857727,
     "url": "https://download.java.net/java/early_access/jdk22/5/GPL/openjdk-22-ea+5_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+5"
+    "version": "22-ea+5"
   },
   {
     "architecture": "aarch64",
@@ -12373,7 +12373,7 @@
     "size": 202336628,
     "url": "https://download.java.net/java/early_access/jdk22/6/GPL/openjdk-22-ea+6_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+6"
+    "version": "22-ea+6"
   },
   {
     "architecture": "x86_64",
@@ -12396,7 +12396,7 @@
     "size": 204100650,
     "url": "https://download.java.net/java/early_access/jdk22/6/GPL/openjdk-22-ea+6_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+6"
+    "version": "22-ea+6"
   },
   {
     "architecture": "aarch64",
@@ -12419,7 +12419,7 @@
     "size": 198060300,
     "url": "https://download.java.net/java/early_access/jdk22/6/GPL/openjdk-22-ea+6_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+6"
+    "version": "22-ea+6"
   },
   {
     "architecture": "x86_64",
@@ -12442,7 +12442,7 @@
     "size": 200427478,
     "url": "https://download.java.net/java/early_access/jdk22/6/GPL/openjdk-22-ea+6_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+6"
+    "version": "22-ea+6"
   },
   {
     "architecture": "x86_64",
@@ -12465,7 +12465,7 @@
     "size": 201880918,
     "url": "https://download.java.net/java/early_access/jdk22/6/GPL/openjdk-22-ea+6_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+6"
+    "version": "22-ea+6"
   },
   {
     "architecture": "aarch64",
@@ -12488,7 +12488,7 @@
     "size": 202464796,
     "url": "https://download.java.net/java/early_access/jdk22/7/GPL/openjdk-22-ea+7_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+7"
+    "version": "22-ea+7"
   },
   {
     "architecture": "x86_64",
@@ -12511,7 +12511,7 @@
     "size": 204239032,
     "url": "https://download.java.net/java/early_access/jdk22/7/GPL/openjdk-22-ea+7_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+7"
+    "version": "22-ea+7"
   },
   {
     "architecture": "aarch64",
@@ -12534,7 +12534,7 @@
     "size": 198159609,
     "url": "https://download.java.net/java/early_access/jdk22/7/GPL/openjdk-22-ea+7_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+7"
+    "version": "22-ea+7"
   },
   {
     "architecture": "x86_64",
@@ -12557,7 +12557,7 @@
     "size": 200533397,
     "url": "https://download.java.net/java/early_access/jdk22/7/GPL/openjdk-22-ea+7_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+7"
+    "version": "22-ea+7"
   },
   {
     "architecture": "x86_64",
@@ -12580,7 +12580,7 @@
     "size": 201985037,
     "url": "https://download.java.net/java/early_access/jdk22/7/GPL/openjdk-22-ea+7_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+7"
+    "version": "22-ea+7"
   },
   {
     "architecture": "aarch64",
@@ -12603,7 +12603,7 @@
     "size": 202411247,
     "url": "https://download.java.net/java/early_access/jdk22/8/GPL/openjdk-22-ea+8_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+8"
+    "version": "22-ea+8"
   },
   {
     "architecture": "x86_64",
@@ -12626,7 +12626,7 @@
     "size": 204177667,
     "url": "https://download.java.net/java/early_access/jdk22/8/GPL/openjdk-22-ea+8_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+8"
+    "version": "22-ea+8"
   },
   {
     "architecture": "aarch64",
@@ -12649,7 +12649,7 @@
     "size": 198115896,
     "url": "https://download.java.net/java/early_access/jdk22/8/GPL/openjdk-22-ea+8_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+8"
+    "version": "22-ea+8"
   },
   {
     "architecture": "x86_64",
@@ -12672,7 +12672,7 @@
     "size": 200479122,
     "url": "https://download.java.net/java/early_access/jdk22/8/GPL/openjdk-22-ea+8_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+8"
+    "version": "22-ea+8"
   },
   {
     "architecture": "x86_64",
@@ -12695,7 +12695,7 @@
     "size": 201942281,
     "url": "https://download.java.net/java/early_access/jdk22/8/GPL/openjdk-22-ea+8_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+8"
+    "version": "22-ea+8"
   },
   {
     "architecture": "aarch64",
@@ -12718,7 +12718,7 @@
     "size": 202502385,
     "url": "https://download.java.net/java/early_access/jdk22/9/GPL/openjdk-22-ea+9_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+9"
+    "version": "22-ea+9"
   },
   {
     "architecture": "x86_64",
@@ -12741,7 +12741,7 @@
     "size": 204275272,
     "url": "https://download.java.net/java/early_access/jdk22/9/GPL/openjdk-22-ea+9_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+9"
+    "version": "22-ea+9"
   },
   {
     "architecture": "aarch64",
@@ -12764,7 +12764,7 @@
     "size": 198174824,
     "url": "https://download.java.net/java/early_access/jdk22/9/GPL/openjdk-22-ea+9_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+9"
+    "version": "22-ea+9"
   },
   {
     "architecture": "x86_64",
@@ -12787,7 +12787,7 @@
     "size": 200544589,
     "url": "https://download.java.net/java/early_access/jdk22/9/GPL/openjdk-22-ea+9_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+9"
+    "version": "22-ea+9"
   },
   {
     "architecture": "x86_64",
@@ -12810,7 +12810,7 @@
     "size": 201998329,
     "url": "https://download.java.net/java/early_access/jdk22/9/GPL/openjdk-22-ea+9_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0-ea+9"
+    "version": "22-ea+9"
   },
   {
     "architecture": "aarch64",
@@ -12948,7 +12948,7 @@
     "size": 200160565,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0"
+    "version": "22"
   },
   {
     "architecture": "x86_64",
@@ -12971,7 +12971,7 @@
     "size": 202207326,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0"
+    "version": "22"
   },
   {
     "architecture": "aarch64",
@@ -12994,7 +12994,7 @@
     "size": 195890605,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0"
+    "version": "22"
   },
   {
     "architecture": "x86_64",
@@ -13017,7 +13017,7 @@
     "size": 198169544,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22.0.0"
+    "version": "22"
   },
   {
     "architecture": "x86_64",
@@ -13040,7 +13040,582 @@
     "size": 200521507,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22.0.0"
+    "version": "22"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+27_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+27",
+    "jvm_impl": "hotspot",
+    "md5": "e85d9caa47a04d5a2ac78c18c7f2abdf",
+    "md5_file": "openjdk-23-ea+27_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "678b96143b8ac1f5104ac473108447f4a13dc412",
+    "sha1_file": "openjdk-23-ea+27_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "3b9156c3cb3861374cf11e8f8175a0a129a0e063ff39a58b83123ca817758982",
+    "sha256_file": "openjdk-23-ea+27_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "3090c22c30e8a7b731e1f608cd3d2ed214e896c1d2d8675a7bc37d64c6a39b2fc9bcdad88ed88b75cf679ba8eca5da4f71d4fc3a287291ddc4b9c82591becc96",
+    "sha512_file": "openjdk-23-ea+27_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208472996,
+    "url": "https://download.java.net/java/early_access/jdk23/27/GPL/openjdk-23-ea+27_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+27"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+27_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+27",
+    "jvm_impl": "hotspot",
+    "md5": "2b7a7003500bc212c2111104645436ab",
+    "md5_file": "openjdk-23-ea+27_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "958fae0d63ce35d38479fb347dd2ace2b31c0aec",
+    "sha1_file": "openjdk-23-ea+27_linux-x64_bin.tar.gz.sha1",
+    "sha256": "eb59f2d5cf2c02ad25096fde5f25de34e18f9404effb811ef08c38de667d96a2",
+    "sha256_file": "openjdk-23-ea+27_linux-x64_bin.tar.gz.sha256",
+    "sha512": "8e6a1e0ca795bd84224ef7b4883a5caef1559445891315c3022b58bd1d680f667808645f2235b0b45e479b77334c200aeca53ae31518d1687e88ad49aa2c7f2c",
+    "sha512_file": "openjdk-23-ea+27_linux-x64_bin.tar.gz.sha512",
+    "size": 210694607,
+    "url": "https://download.java.net/java/early_access/jdk23/27/GPL/openjdk-23-ea+27_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+27"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+27_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+27",
+    "jvm_impl": "hotspot",
+    "md5": "1f2ae26df2a60d62d9f7c456cea17338",
+    "md5_file": "openjdk-23-ea+27_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ccbe9db7c8bc6dcad9f1b1d447d15bc03d600d69",
+    "sha1_file": "openjdk-23-ea+27_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "b92eb713adb5697a88e063ddf4e8816fe432c8a815ca0f7da729659c4b923566",
+    "sha256_file": "openjdk-23-ea+27_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "7801a2328e8f1d226c22f6b12ff3b04d61202967eeb1b11848d70088bdf46dfb255e7ecb842f9900c8570fad1e9d78f8b7ddf50c8a3525ab5ad052f38aad7387",
+    "sha512_file": "openjdk-23-ea+27_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204337787,
+    "url": "https://download.java.net/java/early_access/jdk23/27/GPL/openjdk-23-ea+27_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+27"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+27_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+27",
+    "jvm_impl": "hotspot",
+    "md5": "bd4f397efc16b8feb2502929e62cb6eb",
+    "md5_file": "openjdk-23-ea+27_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "497e76f82b5c13aeb0323be6ceedfe622c79efed",
+    "sha1_file": "openjdk-23-ea+27_macos-x64_bin.tar.gz.sha1",
+    "sha256": "cfdb85e5c4e7fad6e56ab61ece5997802cec7badca8ac89ab18be971596021fa",
+    "sha256_file": "openjdk-23-ea+27_macos-x64_bin.tar.gz.sha256",
+    "sha512": "73a655e1f9ae89dfb7161df282decd5fe809fc9b860528e4070f831caa3412e175bc399a4e863d88d6b14f9d53e52bcd0944c9d1cfae9195087cac61a17e2092",
+    "sha512_file": "openjdk-23-ea+27_macos-x64_bin.tar.gz.sha512",
+    "size": 206652813,
+    "url": "https://download.java.net/java/early_access/jdk23/27/GPL/openjdk-23-ea+27_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+27"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+27_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+27",
+    "jvm_impl": "hotspot",
+    "md5": "d96ea7419cc2b3f03add0219fef8b943",
+    "md5_file": "openjdk-23-ea+27_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "e6e6bd2766ba183c389a679fc5769b6cbc3e1071",
+    "sha1_file": "openjdk-23-ea+27_windows-x64_bin.zip.sha1",
+    "sha256": "32824da64e6c9cf88cd5a05fe443afcbbc809ef6d31125581adb03c42574a650",
+    "sha256_file": "openjdk-23-ea+27_windows-x64_bin.zip.sha256",
+    "sha512": "ebd50427f966ac80c6b85d9b99a2f6276d2e84a3701084914976774923a3b85f06a688e7f482861ef4d9bb11f8f98c4e836fda575a2fa19e1ff1cd2ccd461f69",
+    "sha512_file": "openjdk-23-ea+27_windows-x64_bin.zip.sha512",
+    "size": 209082614,
+    "url": "https://download.java.net/java/early_access/jdk23/27/GPL/openjdk-23-ea+27_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+27"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+28_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+28",
+    "jvm_impl": "hotspot",
+    "md5": "2b090bfe55330c910d49ddeb71ab3a0b",
+    "md5_file": "openjdk-23-ea+28_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "73a15f4897149fed8651f5e2ce9aec58e2b992d7",
+    "sha1_file": "openjdk-23-ea+28_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "9844e3616fd6e16a94212badb2aee65f0a5805b43c587d80e9ae85174f18b984",
+    "sha256_file": "openjdk-23-ea+28_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "9b64ea39051e8fb695a71635161f4091732758e89b3c81deddec41350ab20e9ad6f2564017577497d85223819cd39313cebb8919efdccdbef2df94a6860870dd",
+    "sha512_file": "openjdk-23-ea+28_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208474822,
+    "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+28"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+28_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+28",
+    "jvm_impl": "hotspot",
+    "md5": "550a5115998f169b44941d7a606f92cd",
+    "md5_file": "openjdk-23-ea+28_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "93592ddc5aceb2ce6642fc1379bf1af9f9dc3740",
+    "sha1_file": "openjdk-23-ea+28_linux-x64_bin.tar.gz.sha1",
+    "sha256": "55c6ef3457ea9e056119ae7ab55e4691742458d74fbe1a1a7cdb7d08527bee1f",
+    "sha256_file": "openjdk-23-ea+28_linux-x64_bin.tar.gz.sha256",
+    "sha512": "c8f11cd505e01aeff3a1df5fd7a8870aa9c5ea00e1a876972ef2a9d54f081b626531d700fe1022dcfbf6e8a1df064d83859bd6f93a0ca8fdac7566e85e9c7589",
+    "sha512_file": "openjdk-23-ea+28_linux-x64_bin.tar.gz.sha512",
+    "size": 210700621,
+    "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+28"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+28_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+28",
+    "jvm_impl": "hotspot",
+    "md5": "1f41614123eb2104e07e7f8b3d086314",
+    "md5_file": "openjdk-23-ea+28_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "4918817ae8f6a76b7b04190097cf4a287fe59680",
+    "sha1_file": "openjdk-23-ea+28_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "8ba1faba4fc1a050d35eac9069f1b11fa7ebb7e273daeeae26ed96dcfcfa0f9a",
+    "sha256_file": "openjdk-23-ea+28_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "36bab1d3d88d30cbd3b7fbc596feff4426e6de8a40c50862e9fcc06ab9bc5594284798da3b00410a4b8dfc6ba64012542adaa175a9616780bf45c9b1d9d6420a",
+    "sha512_file": "openjdk-23-ea+28_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204346600,
+    "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+28"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+28_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+28",
+    "jvm_impl": "hotspot",
+    "md5": "c40e5860c07d9a51840ba70bf9a8b0be",
+    "md5_file": "openjdk-23-ea+28_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "41a4304567bca83f6e58ab5f4e42ddb3695a62c9",
+    "sha1_file": "openjdk-23-ea+28_macos-x64_bin.tar.gz.sha1",
+    "sha256": "d2c31b1715e4a4a77fec3375ba5e42232a17c88061a709ea63f5d3fee6c25e5c",
+    "sha256_file": "openjdk-23-ea+28_macos-x64_bin.tar.gz.sha256",
+    "sha512": "e8f68fbe88e0039af3c853ff86dc76dc3cbed56889d5415408e56f59676d3cc444d22bc863add4505afe23a8479210a4212b9d2fd7ccf40bcb7f894bf2114374",
+    "sha512_file": "openjdk-23-ea+28_macos-x64_bin.tar.gz.sha512",
+    "size": 206670286,
+    "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+28"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+28_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+28",
+    "jvm_impl": "hotspot",
+    "md5": "c2dfe3dfa1754b3a111944706f57160a",
+    "md5_file": "openjdk-23-ea+28_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "fd2fcc90c591c63511309de42e327a6c2b5631cd",
+    "sha1_file": "openjdk-23-ea+28_windows-x64_bin.zip.sha1",
+    "sha256": "704ac9f8ab6e8ce660c18ab24a7b5cb2f0c8f7f9a51a2962efd7cadcf0d68bda",
+    "sha256_file": "openjdk-23-ea+28_windows-x64_bin.zip.sha256",
+    "sha512": "007d2713a812446cc0c098e0aac9fbdbd53b7819bd291a98a6d1f62ecf519e0b1bb86dca5136f3927a9550ef7083263b8bd0b324c0db6d0b3caf3223ff106793",
+    "sha512_file": "openjdk-23-ea+28_windows-x64_bin.zip.sha512",
+    "size": 209092139,
+    "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+28"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+29_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "84b5fa7f827a9af6c9c2f3cf1eabcfb5",
+    "md5_file": "openjdk-23-ea+29_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "eedfb342dc963389c47dfbe8b37ec8e69a58da21",
+    "sha1_file": "openjdk-23-ea+29_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "a14bddc20e706cf85f28b8cc360e3dc2506b51cff9a0e62125f3213de6c41f00",
+    "sha256_file": "openjdk-23-ea+29_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "56a9665f236ab6abb7c36bc145c2428b6a721e2d4a1c92e6d9c1f2471a070621d72f62462ef62a1d3112e06f73ff6c1ee359ee3d82f2d64aec3242beac0d8f03",
+    "sha512_file": "openjdk-23-ea+29_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208488338,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+29_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "87aa292e114f0c6afc82b701dcc98c3d",
+    "md5_file": "openjdk-23-ea+29_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "8e6355176429a5a7379cfd0b51c327d7fe622dee",
+    "sha1_file": "openjdk-23-ea+29_linux-x64_bin.tar.gz.sha1",
+    "sha256": "1ecb4977a7385dde5f7155e22cfdad0bec51afb8ff4dece08a061bab64be8aaa",
+    "sha256_file": "openjdk-23-ea+29_linux-x64_bin.tar.gz.sha256",
+    "sha512": "768752514e9ef5edc4e55ca8ced8954f39eeba212e31a78694ef049482dc0e1e3d88290a8654ce1b6250f0caa078245acf2e2b48597299243f6b9ba6e3437b0b",
+    "sha512_file": "openjdk-23-ea+29_linux-x64_bin.tar.gz.sha512",
+    "size": 210730482,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "72f5abec8feef26ae3db297f0f8f7332",
+    "md5_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "67c2dc61bc575377b0f5763df584f93c700e69ec",
+    "sha1_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "bd4b41ab6142d454571d4b969478b29c3573382e6d3fb2e4ade14838b34aba7a",
+    "sha256_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "55d581ecdae75c0922c407b1ed6bf35b4f2c2a5118d7eec9948f4bcbd1ba1ee051d4f62d7fdba2bf1eb0ce2c845ca4c94ce4e5df8a7596bcc9d85d22b63273dd",
+    "sha512_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204363158,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+29_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "6d02b66fb84d16882501ad0513ba77d8",
+    "md5_file": "openjdk-23-ea+29_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "070277d10ccbce0563fa75941f7a7f7650399c8b",
+    "sha1_file": "openjdk-23-ea+29_macos-x64_bin.tar.gz.sha1",
+    "sha256": "2562478f78bc4bbe819d54c368e5aa3916a701285eb7d9b0864b37ea61049d38",
+    "sha256_file": "openjdk-23-ea+29_macos-x64_bin.tar.gz.sha256",
+    "sha512": "c7c5f61b08e22974a1fc30471c7fca27139e2272ffd713ddfaad73c9cf69fda14399330afba4fc81d27af3ae67e8698948ab8481e54551c6474211cf096bd321",
+    "sha512_file": "openjdk-23-ea+29_macos-x64_bin.tar.gz.sha512",
+    "size": 206665199,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+29_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "6198d95b681da4335d19662ffb6648b7",
+    "md5_file": "openjdk-23-ea+29_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "190f7622d20f974a4aba23b4ffa77c89a853f0aa",
+    "sha1_file": "openjdk-23-ea+29_windows-x64_bin.zip.sha1",
+    "sha256": "58846b365aa5e7c3baedfba5852277c20d27949d25686685aee0c5b6896f7d77",
+    "sha256_file": "openjdk-23-ea+29_windows-x64_bin.zip.sha256",
+    "sha512": "748d9ff1553e002dc3158f6fc0a0266608dbbc3d8fe5a0d9440f12ee73e8595ac4051bd53ba247bcd1660ceb250fa4d44fe0ecee64dee761e47d4a464a999cd6",
+    "sha512_file": "openjdk-23-ea+29_windows-x64_bin.zip.sha512",
+    "size": 209105222,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+30_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "4586d99ed6c9e603d7e482831781a8f5",
+    "md5_file": "openjdk-23-ea+30_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "874fff26b74daff2fcadec98cc5870b49dfa56e6",
+    "sha1_file": "openjdk-23-ea+30_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "ef0255786108e95110839309fe5ed09fc730c0e3d78dd3d84d3f0f7e520a0d93",
+    "sha256_file": "openjdk-23-ea+30_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "225a97f8a678ef2a7f98e4e989315b7191db5734b380beba3a08108d5326ba32f51d60e2746e5eb0fa92fad9b8b8b292c433fcec0a57f1d5b0c41f12c9f511b5",
+    "sha512_file": "openjdk-23-ea+30_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208498891,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+30_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "8ae27df6e47c58fb2bd7cf81643d21c4",
+    "md5_file": "openjdk-23-ea+30_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "c1dc415d6c48cc82811afec88c8a539eb9ada020",
+    "sha1_file": "openjdk-23-ea+30_linux-x64_bin.tar.gz.sha1",
+    "sha256": "847f053c0a1e23b388353fdfa7c43ebe7eae98f8221e43d561a0ad3a4c486681",
+    "sha256_file": "openjdk-23-ea+30_linux-x64_bin.tar.gz.sha256",
+    "sha512": "3a66c9dc1dd8800c81db5c902569fb4d273a2eb1e93258d8c29731c181f42af3383d74869da8e7bc759a38bdeddc561b56df2f2c33f92a23f4a5961bdbe61a9e",
+    "sha512_file": "openjdk-23-ea+30_linux-x64_bin.tar.gz.sha512",
+    "size": 210737625,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+30_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "edd5bc2581f66fc667be7a48bbc757cd",
+    "md5_file": "openjdk-23-ea+30_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "1b75ad8f96850a260223a64b26e804c90087f5be",
+    "sha1_file": "openjdk-23-ea+30_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "19da7c83e6c12d1865648d337313839969ef0b7debbc6b488b821586af2d6a66",
+    "sha256_file": "openjdk-23-ea+30_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "4eabb78dd2924114edb97e6e5fd021becd50f7b70d018aae14c2535ba3811d7e4eedea60a4be9946311511df20dd590b8f4edf9133f395570339cf15a020852d",
+    "sha512_file": "openjdk-23-ea+30_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204378882,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+30_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "489755f075b9d913a8491fdc1be2b581",
+    "md5_file": "openjdk-23-ea+30_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "28bd24af873513ae0ab55f19e97cac537d65fe2b",
+    "sha1_file": "openjdk-23-ea+30_macos-x64_bin.tar.gz.sha1",
+    "sha256": "4fbd60798a81d8d4636d511e1a72762ecd85a6ef899ce9e1b9d6c35464940150",
+    "sha256_file": "openjdk-23-ea+30_macos-x64_bin.tar.gz.sha256",
+    "sha512": "2b3fbf42502832c1a2cb2f0c665f6278d33336a7d3583bd28837f72f5021afc28e6145da6dd0276254cc366d2186f13625d16b05f14436a7ed4b0bd9e8a3bc42",
+    "sha512_file": "openjdk-23-ea+30_macos-x64_bin.tar.gz.sha512",
+    "size": 206677707,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+30_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "d335a9e5e52c7180ac8423166ee86f2c",
+    "md5_file": "openjdk-23-ea+30_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "72869274c7c920f4682e962e7f6f46170f4e1d38",
+    "sha1_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha1",
+    "sha256": "bbefe5300370b3a67927c127a1e24a08b8cb1dd37d41b428ed931836e092652b",
+    "sha256_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha256",
+    "sha512": "6b96875ff89684926b4cce44d527976cecd90a506c660f1627ccf940aa91b43b6cbfdd34f9371f6e54b3a3aabb8c9070a83f4fcd2cdad1a029f2323bf795ec8d",
+    "sha512_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha512",
+    "size": 209102050,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+31_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+31",
+    "jvm_impl": "hotspot",
+    "md5": "055ccb07ccc09377eefef4fa6abe4415",
+    "md5_file": "openjdk-23-ea+31_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "83ee927da7e432d55ece8e9399961e91fc8f11d1",
+    "sha1_file": "openjdk-23-ea+31_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "2bde94ea8c9261ad53a1644b2e04cb13a6ab4c95d2649beff2cbd6f176b8465d",
+    "sha256_file": "openjdk-23-ea+31_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "ecb271ccf1c663fc676a7d55e00acfc63300b5637af89f57a1bb147b5146ea02dd1230940bf8c6cdcd57ab837436d7778e27e29109cb5acac98a22ccc2007d53",
+    "sha512_file": "openjdk-23-ea+31_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208509854,
+    "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+31"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+31_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+31",
+    "jvm_impl": "hotspot",
+    "md5": "b49c1fba79c3fd9881aaf8d0164840bd",
+    "md5_file": "openjdk-23-ea+31_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "83131c6aba971886af09db100e4c9eb0d1118bdf",
+    "sha1_file": "openjdk-23-ea+31_linux-x64_bin.tar.gz.sha1",
+    "sha256": "49af9ea82c1a9396a8c8529334d26ec7c835b217c790965708fbdbf29fb46ba2",
+    "sha256_file": "openjdk-23-ea+31_linux-x64_bin.tar.gz.sha256",
+    "sha512": "80fd31bc11d26230e10c1429605ed6619a6e4662b526b84a344471a71b4bc1864b329cefdb62f0bc7647550d3c9f41cd22c38786b6dc71fbf5284ccbba8b645b",
+    "sha512_file": "openjdk-23-ea+31_linux-x64_bin.tar.gz.sha512",
+    "size": 210734745,
+    "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+31"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+31_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+31",
+    "jvm_impl": "hotspot",
+    "md5": "23a0ae37544ec75810dcdbff48b94d9e",
+    "md5_file": "openjdk-23-ea+31_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "921169748917059a90d31eb00f4b8b88e506adda",
+    "sha1_file": "openjdk-23-ea+31_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "ca344e7b3b3f29e2b820c553e7d5e16acd827e46b3c099b7a498002d9605befc",
+    "sha256_file": "openjdk-23-ea+31_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "2eb882e85a63fa771964eb1feb0aa950cdae8c2ba69c91437ee719adfbb1db5e9293e9cc9b68dd15c6cbad04e2e16a08236c973e84bfaf916aa39750b37d7e1d",
+    "sha512_file": "openjdk-23-ea+31_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204380684,
+    "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+31"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+31_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+31",
+    "jvm_impl": "hotspot",
+    "md5": "5305c6b874128b9989fe2b1a9b833915",
+    "md5_file": "openjdk-23-ea+31_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "07fd81509d4b68bee5796b397ce3d8cb902ee0d6",
+    "sha1_file": "openjdk-23-ea+31_macos-x64_bin.tar.gz.sha1",
+    "sha256": "f8004f26ef977fa4f01684b8f6cc5a8bea77ab847708dc57a29697d3d175e9d5",
+    "sha256_file": "openjdk-23-ea+31_macos-x64_bin.tar.gz.sha256",
+    "sha512": "a1ae2cc37d53b2057d021442a05f24520e5c98b6f1cfd48d100d02cba42a6ca8907de0d46d247e9947fae7aa224d897cbd2052c23d10c67b736229d1d62701ad",
+    "sha512_file": "openjdk-23-ea+31_macos-x64_bin.tar.gz.sha512",
+    "size": 206683020,
+    "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+31"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+31_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+31",
+    "jvm_impl": "hotspot",
+    "md5": "a6584f140bf050a17940e8f2c5d8d861",
+    "md5_file": "openjdk-23-ea+31_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "7c9ea8d5e0da54a158fe20c7850c8906a82a52ba",
+    "sha1_file": "openjdk-23-ea+31_windows-x64_bin.zip.sha1",
+    "sha256": "7894a87e50c30dfa4be1f1432dfb289c4de40e1c0fd447b8f4b5fce3141e6615",
+    "sha256_file": "openjdk-23-ea+31_windows-x64_bin.zip.sha256",
+    "sha512": "df0ab00398146cbeb304e0f0d5eb0ad81dc37245b4cb4f69fc25a1eafc9bbb87565b5d54b7e4231148b86004ee16dd7500d48e47822f6c04b8e4dd55078e18fe",
+    "sha512_file": "openjdk-23-ea+31_windows-x64_bin.zip.sha512",
+    "size": 209105173,
+    "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+31"
   },
   {
     "architecture": "aarch64",
@@ -13063,7 +13638,7 @@
     "size": 200430266,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23.0.0-loom+2-48"
+    "version": "23-loom+2-48"
   },
   {
     "architecture": "x86_64",
@@ -13086,7 +13661,7 @@
     "size": 202635705,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23.0.0-loom+2-48"
+    "version": "23-loom+2-48"
   },
   {
     "architecture": "aarch64",
@@ -13109,7 +13684,7 @@
     "size": 196124359,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23.0.0-loom+2-48"
+    "version": "23-loom+2-48"
   },
   {
     "architecture": "x86_64",
@@ -13132,7 +13707,7 @@
     "size": 198424761,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23.0.0-loom+2-48"
+    "version": "23-loom+2-48"
   },
   {
     "architecture": "x86_64",
@@ -13155,7 +13730,402 @@
     "size": 200759650,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "23.0.0-loom+2-48"
+    "version": "23-loom+2-48"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-loom+4-102",
+    "jvm_impl": "hotspot",
+    "md5": "07b902b0165728f4b4006b3bd5d13e55",
+    "md5_file": "openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c0003d5f4e41ca2f6cd0cc2439de11f69f8ee8e3",
+    "sha1_file": "openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "65f04561b693358bcf8bb0a773e5c11c264f8eac3ab57fbcf1a3f160845fbfdd",
+    "sha256_file": "openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "99903481e3a0ae8b33d22fb8509209e28cc30ebcbbe82858b0ba632ef81ed46b62113ad8bdb8aa5465c80447e61d9358476546502280350a129ab20580fa24b0",
+    "sha512_file": "openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208485280,
+    "url": "https://download.java.net/java/early_access/loom/4/openjdk-23-loom+4-102_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-loom+4-102"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-loom+4-102_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-loom+4-102",
+    "jvm_impl": "hotspot",
+    "md5": "29e57b56025d3a35c38ca3beb4bf72c8",
+    "md5_file": "openjdk-23-loom+4-102_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2f502222edd77dd6c4ce1a788e177a61d166e475",
+    "sha1_file": "openjdk-23-loom+4-102_linux-x64_bin.tar.gz.sha1",
+    "sha256": "fdd2f67d19f8ce20bcc84edbbfdfaeb23149b7689132c815b7e25e48f32c806b",
+    "sha256_file": "openjdk-23-loom+4-102_linux-x64_bin.tar.gz.sha256",
+    "sha512": "1ff7d2c8848029e84134820cf654244a99b8a37689e89e9ca1b7925fda48c7eff2d7d29115faeb09e75b50b57dd10a03aa6d6b0ed5086be830571d9fd24d497d",
+    "sha512_file": "openjdk-23-loom+4-102_linux-x64_bin.tar.gz.sha512",
+    "size": 210705239,
+    "url": "https://download.java.net/java/early_access/loom/4/openjdk-23-loom+4-102_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-loom+4-102"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-loom+4-102",
+    "jvm_impl": "hotspot",
+    "md5": "14d81f28a22a613259466975f8fbf9da",
+    "md5_file": "openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9adf0ab83832af2efec96028d43d48624ced1a7c",
+    "sha1_file": "openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "61895285016a576563e75fc4603874bbce8fe90f493e57ce5d4161598bb24b65",
+    "sha256_file": "openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "4307327c1c34f8ce546faf326dc2af3aedebbd93fff5634c08266844525bda1fa9c27405277ab962182ce2efef369944034204fae17e785d5c40f9cc4ea079b0",
+    "sha512_file": "openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204350279,
+    "url": "https://download.java.net/java/early_access/loom/4/openjdk-23-loom+4-102_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-loom+4-102"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-loom+4-102_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-loom+4-102",
+    "jvm_impl": "hotspot",
+    "md5": "355e40df9e582a153d1301d91226c218",
+    "md5_file": "openjdk-23-loom+4-102_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "1eb000a6cab3f3dd507e28167277b83970c4c069",
+    "sha1_file": "openjdk-23-loom+4-102_macos-x64_bin.tar.gz.sha1",
+    "sha256": "44b9ea71a0cd1e0241d9c42439d14b4e3a61e7c24864fafd277d6e8497498f98",
+    "sha256_file": "openjdk-23-loom+4-102_macos-x64_bin.tar.gz.sha256",
+    "sha512": "3077086c1f8fa937cf8cd7cfab5353acae5655486b2598ad365bc7886fded8470737bb8d8148c1793d97a4c291e6ef9bc4c73db0d9c9ef70cef1afb77cd6c2df",
+    "sha512_file": "openjdk-23-loom+4-102_macos-x64_bin.tar.gz.sha512",
+    "size": 206673522,
+    "url": "https://download.java.net/java/early_access/loom/4/openjdk-23-loom+4-102_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-loom+4-102"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-loom+4-102_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-loom+4-102",
+    "jvm_impl": "hotspot",
+    "md5": "e48cfe4aa6f25de3ced6598176c941e2",
+    "md5_file": "openjdk-23-loom+4-102_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "4c91ff6a5908abf5262c17aaf7f13b89d705cea1",
+    "sha1_file": "openjdk-23-loom+4-102_windows-x64_bin.zip.sha1",
+    "sha256": "69782734034d24874edf323e2b61636c4cb0831fc20ca78a86bb205b0cb3439c",
+    "sha256_file": "openjdk-23-loom+4-102_windows-x64_bin.zip.sha256",
+    "sha512": "29479200740dcddb481c249e26a165a2c65ce8a0f16d4895ddfcf96a176896ae0cdff08f7f90ee47bf4c30711a9cbda2b5bcb4ce8b3c96a584e1d6a9fe924bf7",
+    "sha512_file": "openjdk-23-loom+4-102_windows-x64_bin.zip.sha512",
+    "size": 209092543,
+    "url": "https://download.java.net/java/early_access/loom/4/openjdk-23-loom+4-102_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-loom+4-102"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "427a5f1fc98c280e4bc2761fa6f0dfe3",
+    "md5_file": "openjdk-24-ea+6_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "b3454b10f0f4e319b96f30efccd71098d9cc2da0",
+    "sha1_file": "openjdk-24-ea+6_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "3c719648382b7e5d564dc1d39d4408890d92ce5484fd46a5ef338da7380684ca",
+    "sha256_file": "openjdk-24-ea+6_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "f0252910e58aa336c2b67a2c2286706cb41353ff8fbb5da99259b7966e7b9e2eca2c049b1ecbd32e1c6da9a5213dc58b762516c902367e7633dc917358621d20",
+    "sha512_file": "openjdk-24-ea+6_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208701355,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "a175b558d559c652342dfea279cfecf3",
+    "md5_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d9b6b34ca72315d0ff0cc36ab5b263df301856d4",
+    "sha1_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha1",
+    "sha256": "85969884f11f2863595c13dff1cb6f6d94149bbe5188c34f0a7aaa284a545a27",
+    "sha256_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha256",
+    "sha512": "bf8683172b5eae41530c09a0349659a6039342fc8fd11b8591266f09b01621e6b3a0da2deb05d8f8f1b6e16e6f3e5728fd9106588f3d7ef76b4e409b06540b7d",
+    "sha512_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha512",
+    "size": 210920238,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "ad188ce622f913ce53041fa5b2ced790",
+    "md5_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "7cffc215f9cc7b6af405fb33fd312c6c983a0b4d",
+    "sha1_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "449bc8dc3ed996c54d0a4db0680052c377e0ea2ab96996403a9ce42121df137c",
+    "sha256_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "a13f28d40c58195d27a21b6e4a322f20fd887e6438ff2c23bd691e041886f56138bfc58d35b2ff42dced2d2a644dc8da678dc82e58f1f64be8bdb2138e7b0f3b",
+    "sha512_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204565631,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "59a94c5f39c97257c18cd8c011fac852",
+    "md5_file": "openjdk-24-ea+6_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "736cf01ec00204d461478b31a2b913dcd7c96bb7",
+    "sha1_file": "openjdk-24-ea+6_macos-x64_bin.tar.gz.sha1",
+    "sha256": "0246fae9b8c8a88ed6b5cb60d32c292b066328762e4ef10a934c90bcc9909449",
+    "sha256_file": "openjdk-24-ea+6_macos-x64_bin.tar.gz.sha256",
+    "sha512": "20633ad4f31c4d9345df214265e406879b295f0a70de41406752853ff567fb66735cf4f8bf397f08f59f8178ef1512fe2bfeedd5df383c295afab9d7ef59ffcd",
+    "sha512_file": "openjdk-24-ea+6_macos-x64_bin.tar.gz.sha512",
+    "size": 206894030,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-24-ea+6_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "4c995332a5469725dd515f9e83c8f5d8",
+    "md5_file": "openjdk-24-ea+6_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "1f5e1d5816b2ecf7cb491c426ca234558312f1da",
+    "sha1_file": "openjdk-24-ea+6_windows-x64_bin.zip.sha1",
+    "sha256": "de012f73dcdc78f7014626b96cb7a381e0bed5be0c8ffac72b7be101bf3d3087",
+    "sha256_file": "openjdk-24-ea+6_windows-x64_bin.zip.sha256",
+    "sha512": "df9bd7992e6443c970fe96202349b8a6571073906bbf7cb79ba6e36d52d3056455b43780848f862dfc43d0210dafe02b9b89c8baaa933a4765e5e22e107d998e",
+    "sha512_file": "openjdk-24-ea+6_windows-x64_bin.zip.sha512",
+    "size": 209376202,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-leyden+2-8",
+    "jvm_impl": "hotspot",
+    "md5": "872e94cdf9f93af63b6a3fde66ca9e9c",
+    "md5_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "f49ac1340c9ee5e8604a1562d45b64752dda2671",
+    "sha1_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha1",
+    "sha256": "7a6f9f5a602377b882e647ae9312706c6873afc582d2612681e6fbe9e122a088",
+    "sha256_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha256",
+    "sha512": "91ca077ddda89821225a67b5ccd8a46c11ea28c71e0a0623523ef7f3ddefd1ba6b39f0e9e7fc7a56b25160c78947e1a6893850f103d2284e5e6ec06a39fee352",
+    "sha512_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha512",
+    "size": 211893051,
+    "url": "https://download.java.net/java/early_access/leyden/2/openjdk-24-leyden+2-8_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-leyden+2-8"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-leyden+2-8",
+    "jvm_impl": "hotspot",
+    "md5": "0e684b0f8a9adee6e0373a8d0372ec53",
+    "md5_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "d6a692ca0c1e42fa052b08c26b90cbf2c0a191af",
+    "sha1_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "eece3408d8a4bdbfdf9909c13a35e6f7c5c0be2701f02c079bde9f43c70e17c7",
+    "sha256_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "87ff30cf20bd50ebd47f99fa26e20826d54a862f13fc7000d2b8ad8e4749f2789f006daedf71c83bb732acd919e0fd903d781f5f5e550e81626d8e78bd703a69",
+    "sha512_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha512",
+    "size": 205299527,
+    "url": "https://download.java.net/java/early_access/leyden/2/openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-leyden+2-8"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-loom+1-17",
+    "jvm_impl": "hotspot",
+    "md5": "d6a11d5be00bd499f960a3f6dcb304c2",
+    "md5_file": "openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d1b1a215c4a59e1272599e58a952b68866b9d4a9",
+    "sha1_file": "openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "4c7e471d266cfa65772d2221b010da848a0c7135b5aa913c28e5c1ddbf668d75",
+    "sha256_file": "openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "ed622fcb92f70bca368fc4853b921c3321a6dbc3f9142d96ad46a7d1dd0838fd66ee830a4f74d9f5a0b3f55576766e475cca780db562103b89a73c6855060add",
+    "sha512_file": "openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz.sha512",
+    "size": 208629538,
+    "url": "https://download.java.net/java/early_access/loom/1/openjdk-24-loom+1-17_linux-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-loom+1-17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-loom+1-17_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-loom+1-17",
+    "jvm_impl": "hotspot",
+    "md5": "15dc324369f27961d3bc0f91a4537d8f",
+    "md5_file": "openjdk-24-loom+1-17_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bfc95c8bda32264fdce9193ab361a7ab5b3f7437",
+    "sha1_file": "openjdk-24-loom+1-17_linux-x64_bin.tar.gz.sha1",
+    "sha256": "281e5855a07dfb259928549a047ff8136ed08155dad74fece27d4941dfff0c10",
+    "sha256_file": "openjdk-24-loom+1-17_linux-x64_bin.tar.gz.sha256",
+    "sha512": "1b57330b4e334ead555ab3d47a4dcab54b64d975cde49f2210602b8c03e8b67697f0e9765cdf4d1b4e7cd1c0f72455a69f1a6c10fd4bc049a8f171f5915dc479",
+    "sha512_file": "openjdk-24-loom+1-17_linux-x64_bin.tar.gz.sha512",
+    "size": 210857417,
+    "url": "https://download.java.net/java/early_access/loom/1/openjdk-24-loom+1-17_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-loom+1-17"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-loom+1-17",
+    "jvm_impl": "hotspot",
+    "md5": "13196da2356e58cbcbaa99a6a2662ff9",
+    "md5_file": "openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a05f73a67149accd60b246212855b2bb86b4f66a",
+    "sha1_file": "openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "133407bbaac813b4772dc6da0056f101ab5b17b7038329414b7b45dfb35e35d2",
+    "sha256_file": "openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "4453f7c1ceae8d781b8e33f2039e610229b2262d0e51c24faf4211240c102b6d89457f4afb0f8f516ed3c01a326f5e86c832f13a8e9d7ca2ed27a9d06711da8e",
+    "sha512_file": "openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204494077,
+    "url": "https://download.java.net/java/early_access/loom/1/openjdk-24-loom+1-17_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-loom+1-17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-loom+1-17_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-loom+1-17",
+    "jvm_impl": "hotspot",
+    "md5": "39fcb6282f181571c106380f0554b901",
+    "md5_file": "openjdk-24-loom+1-17_macos-x64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9b0f816bd1a01fe0f8dd44f3c6f0ee541f36d80a",
+    "sha1_file": "openjdk-24-loom+1-17_macos-x64_bin.tar.gz.sha1",
+    "sha256": "2c9046b56ba910b6a8a52245b21e7fbd8c2e4ecbdb588255db898d2ac8062e24",
+    "sha256_file": "openjdk-24-loom+1-17_macos-x64_bin.tar.gz.sha256",
+    "sha512": "674a0e666893ed5d17b180ae738c25584c572947ffc5ff78d533b5283460f1f780c50a2e16b320c3cc1123626140c0c66f5c11ca8f2eb124b51afe167d0ec143",
+    "sha512_file": "openjdk-24-loom+1-17_macos-x64_bin.tar.gz.sha512",
+    "size": 206832559,
+    "url": "https://download.java.net/java/early_access/loom/1/openjdk-24-loom+1-17_macos-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-loom+1-17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-24-loom+1-17_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "24-loom+1-17",
+    "jvm_impl": "hotspot",
+    "md5": "acbb91057dde20cdd2693af0b69279a6",
+    "md5_file": "openjdk-24-loom+1-17_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ab37ddd01583021f7ca0236a37164830bf0c3d12",
+    "sha1_file": "openjdk-24-loom+1-17_windows-x64_bin.zip.sha1",
+    "sha256": "5eafbafb378c2802cf3bd713b1f37fb6cb3c48f939122aa2fe03b93bc5a94129",
+    "sha256_file": "openjdk-24-loom+1-17_windows-x64_bin.zip.sha256",
+    "sha512": "07f9818e337fa23b6d14bbca51944692aa2aaa59574c056779e4c109bfffd639d742314c0451634afdd267db2efbf90ae16c42c0fea6c8cce17b5c10c1d3e412",
+    "sha512_file": "openjdk-24-loom+1-17_windows-x64_bin.zip.sha512",
+    "size": 209286563,
+    "url": "https://download.java.net/java/early_access/loom/1/openjdk-24-loom+1-17_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "24-loom+1-17"
   },
   {
     "architecture": "x86_64",
@@ -13270,6 +14240,6 @@
     "size": 205753104,
     "url": "https://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "9.0.0"
+    "version": "9"
   }
 ]

@@ -21,34 +21,32 @@ CHECKSUM_DIR="${2}/${VENDOR}"
 ensure_directory "${METADATA_DIR}"
 ensure_directory "${CHECKSUM_DIR}"
 
-function normalize_release_type {
-	case "${1}" in
-	"ca"|"ca-fx"|"") echo 'ga'
-		;;
-	"ea") echo 'ea'
-		;;
-	"ca-dbg"|"ca-fx-dbg"|"dbg") echo 'debug'
-		;;
-	*) return 1
-		;;
-	esac
-}
-
-function normalize_features {
-	declare -a features
-	if [[ "${1}" == "ca-fx" ]] || [[ "${1}" == "ca-fx-dbg" ]]
-	then
-		features+=("javafx")
-	fi
-	if [[ "${2}" == "musl_x64" ]]
-	then
-		features+=("musl")
-	fi
-	echo "${features[@]}"
-}
-
 # shellcheck disable=SC2016
 REGEX='s/^graalvm-jdk-([0-9+.]{2,})_(linux|macos|windows)-(x64|aarch64)_bin\.(tar\.gz|zip|msi|dmg|exe|deb|rpm)$/VERSION="$1" OS="$2" ARCH="$3" ARCHIVE="$4"/g'
+
+function current_releases {
+	local version="$1"
+
+	# https://www.oracle.com/java/technologies/jdk-script-friendly-urls/
+	local -a params=(
+		'linux,aarch64,tar.gz'
+		'linux,x64,tar.gz'
+		'macos,aarch64,tar.gz'
+		'macos,x64,tar.gz'
+		'windows,x64,zip'
+		)
+	for param in "${params[@]}"
+	do
+		local os
+		os=$(cut -f1 -d, <<<"$param")
+		local arch
+		arch=$(cut -f2 -d, <<<"$param")
+		local ext
+		ext=$(cut -f3 -d, <<<"$param")
+
+		echo "graalvm-jdk-${version}_${os}-${arch}_bin.${ext}"
+	done
+}
 
 function download_and_parse {
 	MAJOR_VERSION="${1}"
@@ -57,8 +55,21 @@ function download_and_parse {
 	download_file "https://www.oracle.com/java/technologies/javase/graalvm-jdk${MAJOR_VERSION}-archive-downloads.html" "${INDEX_FILE}"
 
 	JDK_FILES=$(grep -o -E '<a href="https://download\.oracle\.com/graalvm/.+/archive/(graalvm-jdk-.+_(linux|macos|windows)-(x64|aarch64)_bin\.(tar\.gz|zip|msi|dmg|exe|deb|rpm))">' "${INDEX_FILE}" | perl -pe 's#<a href="https://download\.oracle\.com/graalvm/.+/archive/(.+)">#$1#g' | sort -V)
-	for JDK_FILE in ${JDK_FILES}
+
+	CURRENT_RELEASE=$(curl -sSf https://www.oracle.com/java/technologies/downloads/ | (grep "<h3 id=\"graalvmjava${MAJOR_VERSION}\"" || true) | perl -pe 's#<h3 id="graalvmjava[0-9]{2}">GraalVM for JDK (.+) downloads</h3>#$1#g')
+	JDK_FILES_CURRENT=""
+	if [[ -n "${CURRENT_RELEASE}" ]]
+	then
+		JDK_FILES_CURRENT=$(current_releases "${CURRENT_RELEASE}")
+	fi
+
+	for JDK_FILE in ${JDK_FILES} ${JDK_FILES_CURRENT}
 	do
+		if [[ -n "${JDK_FILE}" ]]
+		then
+			continue
+		fi
+
 		METADATA_FILE="${METADATA_DIR}/${JDK_FILE}.json"
 		JDK_ARCHIVE="${TEMP_DIR}/${JDK_FILE}"
 		JDK_URL="https://download.oracle.com/graalvm/${MAJOR_VERSION}/archive/${JDK_FILE}"
@@ -109,7 +120,7 @@ function download_and_parse {
 	done
 }
 
-for version in 17 20 21
+for version in 17 20 21 22
 do
 	download_and_parse "$version"
 done

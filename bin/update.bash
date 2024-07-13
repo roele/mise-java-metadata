@@ -34,6 +34,10 @@ vendors=(
 	"$(cmd 'semeru19')"
 	"$(cmd 'semeru20')"
 	"$(cmd 'semeru21')"
+	"$(cmd 'semeru22')"
+	"$(cmd 'semeru11-certified')"
+	"$(cmd 'semeru17-certified')"
+	"$(cmd 'semeru21-certified')"
 	"$(cmd 'graalvm-legacy')"
 	"$(cmd 'graalvm-ce')"
 	"$(cmd 'graalvm-community')"
@@ -48,6 +52,7 @@ vendors=(
 	"$(cmd 'oracle-graalvm')"
 	"$(cmd 'oracle-graalvm-ea')"
 	"$(cmd 'openjdk')"
+	"$(cmd 'openjdk-leyden')"
 	"$(cmd 'openjdk-loom')"
 	"$(cmd 'openjdk-valhalla')"
 	"$(cmd 'java-se-ri')"
@@ -60,7 +65,7 @@ vendors=(
 	"$(cmd 'kona17')"
 )
 
-printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ${CHECKSUM_DIR} ; echo \"EXIT CODE: \$?\""
+printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ${CHECKSUM_DIR} ; echo \"{} EXIT CODE: \$?\""
 
 jq -s 'add' "${METADATA_DIR}"/vendor/*/all.json > "${METADATA_DIR}/all.json"
 aggregate_metadata "${METADATA_DIR}/all.json" "${METADATA_DIR}"
