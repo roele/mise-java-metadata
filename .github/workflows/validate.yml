@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 3 * * *'
+permissions:
+  contents: write
+  pull-requests: write
 jobs:
   validate:
     runs-on: 'ubuntu-latest'
@@ -12,13 +15,13 @@ jobs:
       run: sudo apt -y install jq curl
     - name: Run validation script
       run: "git rm $(find docs/metadata/vendor -name '*.json' ! -name all.json | xargs -t -P 8 -I % -n 1 bin/validate.bash %) || true"
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git status
-        git diff-index --quiet HEAD || git commit -m "Remove invalid release metadata"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Remove invalid release metadata
+        title: Remove invalid release metadata
+        base: main
+        labels: automated-pr
+        branch: issues/validate-metadata
+        delete-branch: true
