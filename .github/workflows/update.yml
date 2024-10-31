@@ -32,5 +32,7 @@ jobs:
         title: Update metadata
         base: main
         labels: automated-pr
+        assignees: ${{ vars.CREATE_PR_ASSIGNEES || 'roele' }}
+        reviewers: ${{ vars.CREATE_PR_REVIEWERS || 'roele' }}
         branch: issues/update-metadata
         delete-branch: true
