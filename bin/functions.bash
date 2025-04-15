@@ -181,7 +181,7 @@ function aggregate_metadata {
 	supported_arch=$(find_supported_arch "${all_json}")
 	local supported_os
 	supported_os=$(find_supported_os "${all_json}")
-	local release_types='ga'
+	local release_types='ea ga'
 
 	# https://api.adoptopenjdk.net/swagger-ui/
 	# /v3/binary/latest/{feature_version}/{release_type}/{os}/{arch}/{image_type}/{jvm_impl}/{heap_size}/{vendor}
