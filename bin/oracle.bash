@@ -136,7 +136,7 @@ do
 				"${VENDOR}" \
 				"${JDK_FILE}" \
 				"ga" \
-				"${VERSION}" \
+				"$(normalize_version "${VERSION}")" \
 				"${VERSION}" \
 				'hotspot' \
 				"$(normalize_os "${OS}")" \
